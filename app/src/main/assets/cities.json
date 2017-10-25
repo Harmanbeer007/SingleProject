@@ -1,0 +1,1850 @@
+{
+  "city_list": [
+    {
+      "filter_name": "Andhra Pradesh",
+      "display_name": "Andhra Pradesh",
+      "variants": [
+        {
+          "filter_name": "Anantapur",
+          "display_name": "Anantapur",
+          "attributes": {
+            "seo_mapping_id": 104838433
+          }
+        },
+        {
+          "filter_name": "Kadapa",
+          "display_name": "Kadapa",
+          "attributes": {
+            "seo_mapping_id": 114858811
+          }
+        },
+        {
+          "filter_name": "Kurnool",
+          "display_name": "Kurnool",
+          "attributes": {
+            "seo_mapping_id": 107736520
+          }
+        },
+        {
+          "filter_name": "Vijayawada",
+          "display_name": "Vijayawada",
+          "attributes": {
+            "seo_mapping_id": 105351154
+          }
+        },
+        {
+          "filter_name": "Visakhapatnam",
+          "display_name": "Visakhapatnam",
+          "attributes": {
+            "seo_mapping_id": 105352467
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 114858811
+      }
+    },
+    {
+      "filter_name": "Assam",
+      "display_name": "Assam",
+      "variants": [
+        {
+          "filter_name": "Dibrugarh",
+          "display_name": "Dibrugarh",
+          "attributes": {
+            "seo_mapping_id": 104838437
+          }
+        },
+        {
+          "filter_name": "Guwahati",
+          "display_name": "Guwahati",
+          "attributes": {
+            "seo_mapping_id": 120921617
+          }
+        },
+        {
+          "filter_name": "Jorhat",
+          "display_name": "Jorhat",
+          "attributes": {
+            "seo_mapping_id": 104838435
+          }
+        },
+        {
+          "filter_name": "Lakhimpur",
+          "display_name": "Lakhimpur",
+          "attributes": {
+            "seo_mapping_id": 104838439
+          }
+        },
+        {
+          "filter_name": "Nalbari",
+          "display_name": "Nalbari",
+          "attributes": {
+            "seo_mapping_id": 104838458
+          }
+        },
+        {
+          "filter_name": "Silchar",
+          "display_name": "Silchar",
+          "attributes": {
+            "seo_mapping_id": 114885739
+          }
+        },
+        {
+          "filter_name": "Sivasagar",
+          "display_name": "Sivasagar",
+          "attributes": {
+            "seo_mapping_id": 114885746
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 120921617
+      }
+    },
+    {
+      "filter_name": "Bihar",
+      "display_name": "Bihar",
+      "variants": [
+        {
+          "filter_name": "Ara",
+          "display_name": "Ara",
+          "attributes": {
+            "seo_mapping_id": 104838442
+          }
+        },
+        {
+          "filter_name": "Bhagalpur",
+          "display_name": "Bhagalpur",
+          "attributes": {
+            "seo_mapping_id": 104838443
+          }
+        },
+        {
+          "filter_name": "Darbhanga",
+          "display_name": "Darbhanga",
+          "attributes": {
+            "seo_mapping_id": 104838445
+          }
+        },
+        {
+          "filter_name": "Madhubani",
+          "display_name": "Madhubani",
+          "attributes": {
+            "seo_mapping_id": 104838446
+          }
+        },
+        {
+          "filter_name": "Muzaffarpur",
+          "display_name": "Muzaffarpur",
+          "attributes": {
+            "seo_mapping_id": 115728928
+          }
+        },
+        {
+          "filter_name": "Nawada",
+          "display_name": "Nawada",
+          "attributes": {
+            "seo_mapping_id": 104838444
+          }
+        },
+        {
+          "filter_name": "Patna",
+          "display_name": "Patna",
+          "attributes": {
+            "seo_mapping_id": 121709365
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121709365
+      }
+    },
+    {
+      "filter_name": "Chandigarh",
+      "display_name": "Chandigarh",
+      "variants": [
+        {
+          "filter_name": "Chandigarh",
+          "display_name": "Chandigarh",
+          "attributes": {
+            "seo_mapping_id": 116952132
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 116952132
+      }
+    },
+    {
+      "filter_name": "Chhattisgarh",
+      "display_name": "Chhattisgarh",
+      "variants": [
+        {
+          "filter_name": "Bhilai",
+          "display_name": "Bhilai",
+          "attributes": {
+            "seo_mapping_id": 118676732
+          }
+        },
+        {
+          "filter_name": "Bilaspur",
+          "display_name": "Bilaspur",
+          "attributes": {
+            "seo_mapping_id": 104838454
+          }
+        },
+        {
+          "filter_name": "Dhamtari",
+          "display_name": "Dhamtari",
+          "attributes": {
+            "seo_mapping_id": 104838453
+          }
+        },
+        {
+          "filter_name": "Durg",
+          "display_name": "Durg",
+          "attributes": {
+            "seo_mapping_id": 104838456
+          }
+        },
+        {
+          "filter_name": "Gariaband",
+          "display_name": "Gariaband",
+          "attributes": {
+            "seo_mapping_id": 115432193
+          }
+        },
+        {
+          "filter_name": "Kabirdham",
+          "display_name": "Kabirdham",
+          "attributes": {
+            "seo_mapping_id": 104838452
+          }
+        },
+        {
+          "filter_name": "Kanker",
+          "display_name": "Kanker",
+          "attributes": {
+            "seo_mapping_id": 104838449
+          }
+        },
+        {
+          "filter_name": "Kawardha",
+          "display_name": "Kawardha",
+          "attributes": {
+            "seo_mapping_id": 104838451
+          }
+        },
+        {
+          "filter_name": "Korba",
+          "display_name": "Korba",
+          "attributes": {
+            "seo_mapping_id": 104838455
+          }
+        },
+        {
+          "filter_name": "Raigarh",
+          "display_name": "Raigarh",
+          "attributes": {
+            "seo_mapping_id": 104838459
+          }
+        },
+        {
+          "filter_name": "Raipur",
+          "display_name": "Raipur",
+          "attributes": {
+            "seo_mapping_id": 110094262
+          }
+        },
+        {
+          "filter_name": "Rajnandgaon",
+          "display_name": "Rajnandgaon",
+          "attributes": {
+            "seo_mapping_id": 104838448
+          }
+        },
+        {
+          "filter_name": "Tilda-Neora",
+          "display_name": "Tilda-Neora",
+          "attributes": {
+            "seo_mapping_id": 104838478
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 118676732
+      }
+    },
+    {
+      "filter_name": "Delhi",
+      "display_name": "Delhi",
+      "variants": [
+        {
+          "filter_name": "New Delhi",
+          "display_name": "New Delhi",
+          "attributes": {
+            "seo_mapping_id": 121089888
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121089888
+      }
+    },
+    {
+      "filter_name": "Goa",
+      "display_name": "Goa",
+      "variants": [
+        {
+          "filter_name": "Panaji",
+          "display_name": "Panaji",
+          "attributes": {
+            "seo_mapping_id": 104838461
+          }
+        },
+        {
+          "filter_name": "Porvorim",
+          "display_name": "Porvorim",
+          "attributes": {
+            "seo_mapping_id": 104838462
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 104838462
+      }
+    },
+    {
+      "filter_name": "Gujarat",
+      "display_name": "Gujarat",
+      "variants": [
+        {
+          "filter_name": "Ahmedabad",
+          "display_name": "Ahmedabad",
+          "attributes": {
+            "seo_mapping_id": 121774915
+          }
+        },
+        {
+          "filter_name": "Anand",
+          "display_name": "Anand",
+          "attributes": {
+            "seo_mapping_id": 118558001
+          }
+        },
+        {
+          "filter_name": "Ankleshwar",
+          "display_name": "Ankleshwar",
+          "attributes": {
+            "seo_mapping_id": 104838469
+          }
+        },
+        {
+          "filter_name": "Bardoli",
+          "display_name": "Bardoli",
+          "attributes": {
+            "seo_mapping_id": 104838468
+          }
+        },
+        {
+          "filter_name": "Bharuch",
+          "display_name": "Bharuch",
+          "attributes": {
+            "seo_mapping_id": 104838476
+          }
+        },
+        {
+          "filter_name": "Gandhinagar",
+          "display_name": "Gandhinagar",
+          "attributes": {
+            "seo_mapping_id": 104838464
+          }
+        },
+        {
+          "filter_name": "Godhara",
+          "display_name": "Godhara",
+          "attributes": {
+            "seo_mapping_id": 104838466
+          }
+        },
+        {
+          "filter_name": "Kadi",
+          "display_name": "Kadi",
+          "attributes": {
+            "seo_mapping_id": 104838480
+          }
+        },
+        {
+          "filter_name": "Kherva",
+          "display_name": "Kherva",
+          "attributes": {
+            "seo_mapping_id": 121577441
+          }
+        },
+        {
+          "filter_name": "Maninagar",
+          "display_name": "Maninagar",
+          "attributes": {
+            "seo_mapping_id": 104838477
+          }
+        },
+        {
+          "filter_name": "Mehsana",
+          "display_name": "Mehsana",
+          "attributes": {
+            "seo_mapping_id": 116312137
+          }
+        },
+        {
+          "filter_name": "Patan",
+          "display_name": "Patan",
+          "attributes": {
+            "seo_mapping_id": 104838474
+          }
+        },
+        {
+          "filter_name": "Rajkot",
+          "display_name": "Rajkot",
+          "attributes": {
+            "seo_mapping_id": 113080948
+          }
+        },
+        {
+          "filter_name": "Surat",
+          "display_name": "Surat",
+          "attributes": {
+            "seo_mapping_id": 118557923
+          }
+        },
+        {
+          "filter_name": "Vadodara",
+          "display_name": "Vadodara",
+          "attributes": {
+            "seo_mapping_id": 120457223
+          }
+        },
+        {
+          "filter_name": "Vallabh Vidhyanagar",
+          "display_name": "Vallabh Vidhyanagar",
+          "attributes": {
+            "seo_mapping_id": 104838475
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121774915
+      }
+    },
+    {
+      "filter_name": "Haryana",
+      "display_name": "Haryana",
+      "variants": [
+        {
+          "filter_name": "Ambala",
+          "display_name": "Ambala",
+          "attributes": {
+            "seo_mapping_id": 104838483
+          }
+        },
+        {
+          "filter_name": "Bahadurgarh",
+          "display_name": "Bahadurgarh",
+          "attributes": {
+            "seo_mapping_id": 104838490
+          }
+        },
+        {
+          "filter_name": "Bhiwani",
+          "display_name": "Bhiwani",
+          "attributes": {
+            "seo_mapping_id": 104838493
+          }
+        },
+        {
+          "filter_name": "Dharuhera",
+          "display_name": "Dharuhera",
+          "attributes": {
+            "seo_mapping_id": 104838492
+          }
+        },
+        {
+          "filter_name": "Faridabad",
+          "display_name": "Faridabad",
+          "attributes": {
+            "seo_mapping_id": 114961804
+          }
+        },
+        {
+          "filter_name": "Gurgaon",
+          "display_name": "Gurgaon",
+          "attributes": {
+            "seo_mapping_id": 121220309
+          }
+        },
+        {
+          "filter_name": "Hisar",
+          "display_name": "Hisar",
+          "attributes": {
+            "seo_mapping_id": 114611903
+          }
+        },
+        {
+          "filter_name": "Karnal",
+          "display_name": "Karnal",
+          "attributes": {
+            "seo_mapping_id": 104838486
+          }
+        },
+        {
+          "filter_name": "Kurukshetra",
+          "display_name": "Kurukshetra",
+          "attributes": {
+            "seo_mapping_id": 104838487
+          }
+        },
+        {
+          "filter_name": "Palwal",
+          "display_name": "Palwal",
+          "attributes": {
+            "seo_mapping_id": 104838488
+          }
+        },
+        {
+          "filter_name": "Panchkula",
+          "display_name": "Panchkula",
+          "attributes": {
+            "seo_mapping_id": 118568371
+          }
+        },
+        {
+          "filter_name": "Panipat",
+          "display_name": "Panipat",
+          "attributes": {
+            "seo_mapping_id": 104838489
+          }
+        },
+        {
+          "filter_name": "Rewari",
+          "display_name": "Rewari",
+          "attributes": {
+            "seo_mapping_id": 104838491
+          }
+        },
+        {
+          "filter_name": "Rohtak",
+          "display_name": "Rohtak",
+          "attributes": {
+            "seo_mapping_id": 104838482
+          }
+        },
+        {
+          "filter_name": "Sonipat",
+          "display_name": "Sonipat",
+          "attributes": {
+            "seo_mapping_id": 104838484
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121220309
+      }
+    },
+    {
+      "filter_name": "Himachal Pradesh",
+      "display_name": "Himachal Pradesh",
+      "variants": [
+        {
+          "filter_name": "Dalhousie",
+          "display_name": "Dalhousie",
+          "attributes": {
+            "seo_mapping_id": 104838495
+          }
+        },
+        {
+          "filter_name": "Dharamshala",
+          "display_name": "Dharamshala",
+          "attributes": {
+            "seo_mapping_id": 104838497
+          }
+        },
+        {
+          "filter_name": "Mandi",
+          "display_name": "Mandi",
+          "attributes": {
+            "seo_mapping_id": 104838496
+          }
+        },
+        {
+          "filter_name": "Solan",
+          "display_name": "Solan",
+          "attributes": {
+            "seo_mapping_id": 121641724
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121641724
+      }
+    },
+    {
+      "filter_name": "Jammu and Kashmir",
+      "display_name": "Jammu and Kashmir",
+      "variants": [
+        {
+          "filter_name": "Jammu",
+          "display_name": "Jammu",
+          "attributes": {
+            "seo_mapping_id": 104838498
+          }
+        },
+        {
+          "filter_name": "Kathua",
+          "display_name": "Kathua",
+          "attributes": {
+            "seo_mapping_id": 116534391
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 116534391
+      }
+    },
+    {
+      "filter_name": "Jharkhand",
+      "display_name": "Jharkhand",
+      "variants": [
+        {
+          "filter_name": "Bokaro",
+          "display_name": "Bokaro",
+          "attributes": {
+            "seo_mapping_id": 104838500
+          }
+        },
+        {
+          "filter_name": "Deoghar",
+          "display_name": "Deoghar",
+          "attributes": {
+            "seo_mapping_id": 104838506
+          }
+        },
+        {
+          "filter_name": "Dhanbad",
+          "display_name": "Dhanbad",
+          "attributes": {
+            "seo_mapping_id": 104838507
+          }
+        },
+        {
+          "filter_name": "Giridih",
+          "display_name": "Giridih",
+          "attributes": {
+            "seo_mapping_id": 104838504
+          }
+        },
+        {
+          "filter_name": "Hazaribagh",
+          "display_name": "Hazaribagh",
+          "attributes": {
+            "seo_mapping_id": 104838501
+          }
+        },
+        {
+          "filter_name": "Jamshedpur",
+          "display_name": "Jamshedpur",
+          "attributes": {
+            "seo_mapping_id": 104838502
+          }
+        },
+        {
+          "filter_name": "Jamtara",
+          "display_name": "Jamtara",
+          "attributes": {
+            "seo_mapping_id": 104838505
+          }
+        },
+        {
+          "filter_name": "Ramgarh",
+          "display_name": "Ramgarh",
+          "attributes": {
+            "seo_mapping_id": 104838508
+          }
+        },
+        {
+          "filter_name": "Ranchi",
+          "display_name": "Ranchi",
+          "attributes": {
+            "seo_mapping_id": 115221487
+          }
+        },
+        {
+          "filter_name": "Simdega",
+          "display_name": "Simdega",
+          "attributes": {
+            "seo_mapping_id": 104838503
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 115221487
+      }
+    },
+    {
+      "filter_name": "Karnataka",
+      "display_name": "Karnataka",
+      "variants": [
+        {
+          "filter_name": "Bengaluru",
+          "display_name": "Bengaluru",
+          "attributes": {
+            "seo_mapping_id": 120941994
+          }
+        },
+        {
+          "filter_name": "Bijapur",
+          "display_name": "Bijapur",
+          "attributes": {
+            "seo_mapping_id": 120832067
+          }
+        },
+        {
+          "filter_name": "Gulbarga",
+          "display_name": "Gulbarga",
+          "attributes": {
+            "seo_mapping_id": 104838512
+          }
+        },
+        {
+          "filter_name": "Hubli",
+          "display_name": "Hubli",
+          "attributes": {
+            "seo_mapping_id": 104838513
+          }
+        },
+        {
+          "filter_name": "Mangalore",
+          "display_name": "Mangalore",
+          "attributes": {
+            "seo_mapping_id": 114869805
+          }
+        },
+        {
+          "filter_name": "Manipal",
+          "display_name": "Manipal",
+          "attributes": {
+            "seo_mapping_id": 115359327
+          }
+        },
+        {
+          "filter_name": "Mysore",
+          "display_name": "Mysore",
+          "attributes": {
+            "seo_mapping_id": 104838510
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 120941994
+      }
+    },
+    {
+      "filter_name": "Kerala",
+      "display_name": "Kerala",
+      "variants": [
+        {
+          "filter_name": "Calicut",
+          "display_name": "Calicut",
+          "attributes": {
+            "seo_mapping_id": 104838515
+          }
+        },
+        {
+          "filter_name": "Kochi",
+          "display_name": "Kochi",
+          "attributes": {
+            "seo_mapping_id": 104838514
+          }
+        },
+        {
+          "filter_name": "Malappuram",
+          "display_name": "Malappuram",
+          "attributes": {
+            "seo_mapping_id": 104838517
+          }
+        },
+        {
+          "filter_name": "Trivandrum",
+          "display_name": "Trivandrum",
+          "attributes": {
+            "seo_mapping_id": 110094269
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 110094269
+      }
+    },
+    {
+      "filter_name": "Madhya Pradesh",
+      "display_name": "Madhya Pradesh",
+      "variants": [
+        {
+          "filter_name": "Bhopal",
+          "display_name": "Bhopal",
+          "attributes": {
+            "seo_mapping_id": 118376503
+          }
+        },
+        {
+          "filter_name": "Chhatarpur",
+          "display_name": "Chhatarpur",
+          "attributes": {
+            "seo_mapping_id": 104838524
+          }
+        },
+        {
+          "filter_name": "Dewas",
+          "display_name": "Dewas",
+          "attributes": {
+            "seo_mapping_id": 104838530
+          }
+        },
+        {
+          "filter_name": "Guna",
+          "display_name": "Guna",
+          "attributes": {
+            "seo_mapping_id": 104838520
+          }
+        },
+        {
+          "filter_name": "Gwalior",
+          "display_name": "Gwalior",
+          "attributes": {
+            "seo_mapping_id": 115221484
+          }
+        },
+        {
+          "filter_name": "Hoshangabad",
+          "display_name": "Hoshangabad",
+          "attributes": {
+            "seo_mapping_id": 104838532
+          }
+        },
+        {
+          "filter_name": "Indore",
+          "display_name": "Indore",
+          "attributes": {
+            "seo_mapping_id": 104838523
+          }
+        },
+        {
+          "filter_name": "Jabalpur",
+          "display_name": "Jabalpur",
+          "attributes": {
+            "seo_mapping_id": 114873479
+          }
+        },
+        {
+          "filter_name": "Panna",
+          "display_name": "Panna",
+          "attributes": {
+            "seo_mapping_id": 104838526
+          }
+        },
+        {
+          "filter_name": "Rajgarh",
+          "display_name": "Rajgarh",
+          "attributes": {
+            "seo_mapping_id": 104838528
+          }
+        },
+        {
+          "filter_name": "Rewa",
+          "display_name": "Rewa",
+          "attributes": {
+            "seo_mapping_id": 104838521
+          }
+        },
+        {
+          "filter_name": "Sagar",
+          "display_name": "Sagar",
+          "attributes": {
+            "seo_mapping_id": 104838527
+          }
+        },
+        {
+          "filter_name": "Satna",
+          "display_name": "Satna",
+          "attributes": {
+            "seo_mapping_id": 104838531
+          }
+        },
+        {
+          "filter_name": "Shivpuri",
+          "display_name": "Shivpuri",
+          "attributes": {
+            "seo_mapping_id": 113703270
+          }
+        },
+        {
+          "filter_name": "Tikamgarh",
+          "display_name": "Tikamgarh",
+          "attributes": {
+            "seo_mapping_id": 104838525
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 118376503
+      }
+    },
+    {
+      "filter_name": "Maharashtra",
+      "display_name": "Maharashtra",
+      "variants": [
+        {
+          "filter_name": "Ahmednagar",
+          "display_name": "Ahmednagar",
+          "attributes": {
+            "seo_mapping_id": 104838538
+          }
+        },
+        {
+          "filter_name": "Akola",
+          "display_name": "Akola",
+          "attributes": {
+            "seo_mapping_id": 111486812
+          }
+        },
+        {
+          "filter_name": "Amravati",
+          "display_name": "Amravati",
+          "attributes": {
+            "seo_mapping_id": 104838540
+          }
+        },
+        {
+          "filter_name": "Aurangabad",
+          "display_name": "Aurangabad",
+          "attributes": {
+            "seo_mapping_id": 111486804
+          }
+        },
+        {
+          "filter_name": "Chandrapur",
+          "display_name": "Chandrapur",
+          "attributes": {
+            "seo_mapping_id": 104838545
+          }
+        },
+        {
+          "filter_name": "Dahanu",
+          "display_name": "Dahanu",
+          "attributes": {
+            "seo_mapping_id": 107623311
+          }
+        },
+        {
+          "filter_name": "Jalgaon",
+          "display_name": "Jalgaon",
+          "attributes": {
+            "seo_mapping_id": 104838558
+          }
+        },
+        {
+          "filter_name": "Kharghar",
+          "display_name": "Kharghar",
+          "attributes": {
+            "seo_mapping_id": 120942000
+          }
+        },
+        {
+          "filter_name": "Kolhapur",
+          "display_name": "Kolhapur",
+          "attributes": {
+            "seo_mapping_id": 104838536
+          }
+        },
+        {
+          "filter_name": "Mumbai",
+          "display_name": "Mumbai",
+          "attributes": {
+            "seo_mapping_id": 120941989
+          }
+        },
+        {
+          "filter_name": "Nagpur",
+          "display_name": "Nagpur",
+          "attributes": {
+            "seo_mapping_id": 119229241
+          }
+        },
+        {
+          "filter_name": "Nanded",
+          "display_name": "Nanded",
+          "attributes": {
+            "seo_mapping_id": 104838544
+          }
+        },
+        {
+          "filter_name": "Nashik",
+          "display_name": "Nashik",
+          "attributes": {
+            "seo_mapping_id": 111732619
+          }
+        },
+        {
+          "filter_name": "Navi Mumbai",
+          "display_name": "Navi Mumbai",
+          "attributes": {
+            "seo_mapping_id": 120942003
+          }
+        },
+        {
+          "filter_name": "Palava",
+          "display_name": "Palava",
+          "attributes": {
+            "seo_mapping_id": 106747734
+          }
+        },
+        {
+          "filter_name": "Panvel",
+          "display_name": "Panvel",
+          "attributes": {
+            "seo_mapping_id": 114885859
+          }
+        },
+        {
+          "filter_name": "Pune",
+          "display_name": "Pune",
+          "attributes": {
+            "seo_mapping_id": 121580411
+          }
+        },
+        {
+          "filter_name": "Talegaon Dabhade",
+          "display_name": "Talegaon Dabhade",
+          "attributes": {
+            "seo_mapping_id": 104838535
+          }
+        },
+        {
+          "filter_name": "Thane",
+          "display_name": "Thane",
+          "attributes": {
+            "seo_mapping_id": 120520468
+          }
+        },
+        {
+          "filter_name": "Vasai",
+          "display_name": "Vasai",
+          "attributes": {
+            "seo_mapping_id": 120941978
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121580411
+      }
+    },
+    {
+      "filter_name": "Odisha",
+      "display_name": "Odisha",
+      "variants": [
+        {
+          "filter_name": "Berhampur",
+          "display_name": "Berhampur",
+          "attributes": {
+            "seo_mapping_id": 104838546
+          }
+        },
+        {
+          "filter_name": "Bhubaneswar",
+          "display_name": "Bhubaneswar",
+          "attributes": {
+            "seo_mapping_id": 120953385
+          }
+        },
+        {
+          "filter_name": "Cuttack",
+          "display_name": "Cuttack",
+          "attributes": {
+            "seo_mapping_id": 104838548
+          }
+        },
+        {
+          "filter_name": "Rourkela",
+          "display_name": "Rourkela",
+          "attributes": {
+            "seo_mapping_id": 104838549
+          }
+        },
+        {
+          "filter_name": "Tangi",
+          "display_name": "Tangi",
+          "attributes": {
+            "seo_mapping_id": 99479926
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 120953385
+      }
+    },
+    {
+      "filter_name": "Pondicherry",
+      "display_name": "Pondicherry",
+      "variants": [
+        {
+          "filter_name": "Pondicherry",
+          "display_name": "Pondicherry",
+          "attributes": {
+            "seo_mapping_id": 104838550
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 104838550
+      }
+    },
+    {
+      "filter_name": "Punjab",
+      "display_name": "Punjab",
+      "variants": [
+        {
+          "filter_name": "Amritsar",
+          "display_name": "Amritsar",
+          "attributes": {
+            "seo_mapping_id": 104838555
+          }
+        },
+        {
+          "filter_name": "Bathinda",
+          "display_name": "Bathinda",
+          "attributes": {
+            "seo_mapping_id": 104838551
+          }
+        },
+        {
+          "filter_name": "Dera Bassi",
+          "display_name": "Dera Bassi",
+          "attributes": {
+            "seo_mapping_id": 104838557
+          }
+        },
+        {
+          "filter_name": "Jalandhar",
+          "display_name": "Jalandhar",
+          "attributes": {
+            "seo_mapping_id": 110094161
+          }
+        },
+        {
+          "filter_name": "Kapurthala",
+          "display_name": "Kapurthala",
+          "attributes": {
+            "seo_mapping_id": 104838562
+          }
+        },
+        {
+          "filter_name": "Ludhiana",
+          "display_name": "Ludhiana",
+          "attributes": {
+            "seo_mapping_id": 110094201
+          }
+        },
+        {
+          "filter_name": "Malerkotla",
+          "display_name": "Malerkotla",
+          "attributes": {
+            "seo_mapping_id": 111021015
+          }
+        },
+        {
+          "filter_name": "Mohali",
+          "display_name": "Mohali",
+          "attributes": {
+            "seo_mapping_id": 110201638
+          }
+        },
+        {
+          "filter_name": "Patiala",
+          "display_name": "Patiala",
+          "attributes": {
+            "seo_mapping_id": 104838554
+          }
+        },
+        {
+          "filter_name": "Phagwara",
+          "display_name": "Phagwara",
+          "attributes": {
+            "seo_mapping_id": 118194573
+          }
+        },
+        {
+          "filter_name": "Rajpura",
+          "display_name": "Rajpura",
+          "attributes": {
+            "seo_mapping_id": 114079865
+          }
+        },
+        {
+          "filter_name": "Sangur",
+          "display_name": "Sangur",
+          "attributes": {
+            "seo_mapping_id": 104838559
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 118194573
+      }
+    },
+    {
+      "filter_name": "Rajasthan",
+      "display_name": "Rajasthan",
+      "variants": [
+        {
+          "filter_name": "Ajmer",
+          "display_name": "Ajmer",
+          "attributes": {
+            "seo_mapping_id": 104838575
+          }
+        },
+        {
+          "filter_name": "Alwar",
+          "display_name": "Alwar",
+          "attributes": {
+            "seo_mapping_id": 104838566
+          }
+        },
+        {
+          "filter_name": "Bharatpur",
+          "display_name": "Bharatpur",
+          "attributes": {
+            "seo_mapping_id": 114501328
+          }
+        },
+        {
+          "filter_name": "Bhilwara",
+          "display_name": "Bhilwara",
+          "attributes": {
+            "seo_mapping_id": 104838587
+          }
+        },
+        {
+          "filter_name": "Bhiwadi",
+          "display_name": "Bhiwadi",
+          "attributes": {
+            "seo_mapping_id": 104838572
+          }
+        },
+        {
+          "filter_name": "Bikaner",
+          "display_name": "Bikaner",
+          "attributes": {
+            "seo_mapping_id": 104838568
+          }
+        },
+        {
+          "filter_name": "Chaksu",
+          "display_name": "Chaksu",
+          "attributes": {
+            "seo_mapping_id": 104838576
+          }
+        },
+        {
+          "filter_name": "Hanumangarh",
+          "display_name": "Hanumangarh",
+          "attributes": {
+            "seo_mapping_id": 104838570
+          }
+        },
+        {
+          "filter_name": "Jaipur",
+          "display_name": "Jaipur",
+          "attributes": {
+            "seo_mapping_id": 121595111
+          }
+        },
+        {
+          "filter_name": "Jodhpur",
+          "display_name": "Jodhpur",
+          "attributes": {
+            "seo_mapping_id": 104838565
+          }
+        },
+        {
+          "filter_name": "Kota",
+          "display_name": "Kota",
+          "attributes": {
+            "seo_mapping_id": 117728868
+          }
+        },
+        {
+          "filter_name": "Pali",
+          "display_name": "Pali",
+          "attributes": {
+            "seo_mapping_id": 104838564
+          }
+        },
+        {
+          "filter_name": "Shahpura",
+          "display_name": "Shahpura",
+          "attributes": {
+            "seo_mapping_id": 103220432
+          }
+        },
+        {
+          "filter_name": "Shakti Nagar",
+          "display_name": "Shakti Nagar",
+          "attributes": {
+            "seo_mapping_id": 104838586
+          }
+        },
+        {
+          "filter_name": "Sri Ganganagar",
+          "display_name": "Sri Ganganagar",
+          "attributes": {
+            "seo_mapping_id": 104838569
+          }
+        },
+        {
+          "filter_name": "Tonk",
+          "display_name": "Tonk",
+          "attributes": {
+            "seo_mapping_id": 104838571
+          }
+        },
+        {
+          "filter_name": "Udaipur",
+          "display_name": "Udaipur",
+          "attributes": {
+            "seo_mapping_id": 104838567
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121595111
+      }
+    },
+    {
+      "filter_name": "Sikkim",
+      "display_name": "Sikkim",
+      "variants": [
+        {
+          "filter_name": "Gangtok",
+          "display_name": "Gangtok",
+          "attributes": {
+            "seo_mapping_id": 115519115
+          }
+        },
+        {
+          "filter_name": "Majitar",
+          "display_name": "Majitar",
+          "attributes": {
+            "seo_mapping_id": 104838599
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 115519115
+      }
+    },
+    {
+      "filter_name": "Tamil Nadu",
+      "display_name": "Tamil Nadu",
+      "variants": [
+        {
+          "filter_name": "Chennai",
+          "display_name": "Chennai",
+          "attributes": {
+            "seo_mapping_id": 120942008
+          }
+        },
+        {
+          "filter_name": "Coimbatore",
+          "display_name": "Coimbatore",
+          "attributes": {
+            "seo_mapping_id": 104838579
+          }
+        },
+        {
+          "filter_name": "Pudukkottai",
+          "display_name": "Pudukkottai",
+          "attributes": {
+            "seo_mapping_id": 111551516
+          }
+        },
+        {
+          "filter_name": "Salem",
+          "display_name": "Salem",
+          "attributes": {
+            "seo_mapping_id": 104838581
+          }
+        },
+        {
+          "filter_name": "Vellore",
+          "display_name": "Vellore",
+          "attributes": {
+            "seo_mapping_id": 104838580
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 120942008
+      }
+    },
+    {
+      "filter_name": "Telangana",
+      "display_name": "Telangana",
+      "variants": [
+        {
+          "filter_name": "Hyderabad",
+          "display_name": "Hyderabad",
+          "attributes": {
+            "seo_mapping_id": 121774082
+          }
+        },
+        {
+          "filter_name": "Khammam",
+          "display_name": "Khammam",
+          "attributes": {
+            "seo_mapping_id": 105360227
+          }
+        },
+        {
+          "filter_name": "Kothakota",
+          "display_name": "Kothakota",
+          "attributes": {
+            "seo_mapping_id": 104838585
+          }
+        },
+        {
+          "filter_name": "Ramagundam",
+          "display_name": "Ramagundam",
+          "attributes": {
+            "seo_mapping_id": 115880501
+          }
+        },
+        {
+          "filter_name": "Secunderabad",
+          "display_name": "Secunderabad",
+          "attributes": {
+            "seo_mapping_id": 104838583
+          }
+        },
+        {
+          "filter_name": "Wanaparthy",
+          "display_name": "Wanaparthy",
+          "attributes": {
+            "seo_mapping_id": 104838584
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121774082
+      }
+    },
+    {
+      "filter_name": "Tripura",
+      "display_name": "Tripura",
+      "variants": [
+        {
+          "filter_name": "Agartala",
+          "display_name": "Agartala",
+          "attributes": {
+            "seo_mapping_id": 104838588
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 104838588
+      }
+    },
+    {
+      "filter_name": "Uttar Pradesh",
+      "display_name": "Uttar Pradesh",
+      "variants": [
+        {
+          "filter_name": "Agra",
+          "display_name": "Agra",
+          "attributes": {
+            "seo_mapping_id": 120791085
+          }
+        },
+        {
+          "filter_name": "Aliganj",
+          "display_name": "Aliganj",
+          "attributes": {
+            "seo_mapping_id": 104838600
+          }
+        },
+        {
+          "filter_name": "Aligarh",
+          "display_name": "Aligarh",
+          "attributes": {
+            "seo_mapping_id": 120831404
+          }
+        },
+        {
+          "filter_name": "Allahabad",
+          "display_name": "Allahabad",
+          "attributes": {
+            "seo_mapping_id": 104838605
+          }
+        },
+        {
+          "filter_name": "Baraut",
+          "display_name": "Baraut",
+          "attributes": {
+            "seo_mapping_id": 104838612
+          }
+        },
+        {
+          "filter_name": "Bareilly",
+          "display_name": "Bareilly",
+          "attributes": {
+            "seo_mapping_id": 104838594
+          }
+        },
+        {
+          "filter_name": "Bulandshahr",
+          "display_name": "Bulandshahr",
+          "attributes": {
+            "seo_mapping_id": 114079567
+          }
+        },
+        {
+          "filter_name": "Chandausi",
+          "display_name": "Chandausi",
+          "attributes": {
+            "seo_mapping_id": 104838616
+          }
+        },
+        {
+          "filter_name": "Chhata",
+          "display_name": "Chhata",
+          "attributes": {
+            "seo_mapping_id": 104838611
+          }
+        },
+        {
+          "filter_name": "Deoband",
+          "display_name": "Deoband",
+          "attributes": {
+            "seo_mapping_id": 113861847
+          }
+        },
+        {
+          "filter_name": "Faizabad",
+          "display_name": "Faizabad",
+          "attributes": {
+            "seo_mapping_id": 104838604
+          }
+        },
+        {
+          "filter_name": "Ghaziabad",
+          "display_name": "Ghaziabad",
+          "attributes": {
+            "seo_mapping_id": 121356409
+          }
+        },
+        {
+          "filter_name": "Gorakhpur",
+          "display_name": "Gorakhpur",
+          "attributes": {
+            "seo_mapping_id": 104838606
+          }
+        },
+        {
+          "filter_name": "Greater Noida",
+          "display_name": "Greater Noida",
+          "attributes": {
+            "seo_mapping_id": 117904666
+          }
+        },
+        {
+          "filter_name": "Hamirpur",
+          "display_name": "Hamirpur",
+          "attributes": {
+            "seo_mapping_id": 104838601
+          }
+        },
+        {
+          "filter_name": "Hardoi",
+          "display_name": "Hardoi",
+          "attributes": {
+            "seo_mapping_id": 104838602
+          }
+        },
+        {
+          "filter_name": "Indrapuram",
+          "display_name": "Indrapuram",
+          "attributes": {
+            "seo_mapping_id": 104838619
+          }
+        },
+        {
+          "filter_name": "Jaunpur",
+          "display_name": "Jaunpur",
+          "attributes": {
+            "seo_mapping_id": 104838617
+          }
+        },
+        {
+          "filter_name": "Jhansi",
+          "display_name": "Jhansi",
+          "attributes": {
+            "seo_mapping_id": 104838595
+          }
+        },
+        {
+          "filter_name": "Kanpur",
+          "display_name": "Kanpur",
+          "attributes": {
+            "seo_mapping_id": 120503043
+          }
+        },
+        {
+          "filter_name": "Laharpur",
+          "display_name": "Laharpur",
+          "attributes": {
+            "seo_mapping_id": 104838603
+          }
+        },
+        {
+          "filter_name": "Lucknow",
+          "display_name": "Lucknow",
+          "attributes": {
+            "seo_mapping_id": 121716505
+          }
+        },
+        {
+          "filter_name": "Mainpuri",
+          "display_name": "Mainpuri",
+          "attributes": {
+            "seo_mapping_id": 119301049
+          }
+        },
+        {
+          "filter_name": "Mathura",
+          "display_name": "Mathura",
+          "attributes": {
+            "seo_mapping_id": 120791083
+          }
+        },
+        {
+          "filter_name": "Meerut",
+          "display_name": "Meerut",
+          "attributes": {
+            "seo_mapping_id": 114749035
+          }
+        },
+        {
+          "filter_name": "Modi Nagar",
+          "display_name": "Modi Nagar",
+          "attributes": {
+            "seo_mapping_id": 104838620
+          }
+        },
+        {
+          "filter_name": "Moradabad",
+          "display_name": "Moradabad",
+          "attributes": {
+            "seo_mapping_id": 113588067
+          }
+        },
+        {
+          "filter_name": "Muzaffarnagar",
+          "display_name": "Muzaffarnagar",
+          "attributes": {
+            "seo_mapping_id": 104838610
+          }
+        },
+        {
+          "filter_name": "Noida",
+          "display_name": "Noida",
+          "attributes": {
+            "seo_mapping_id": 121716503
+          }
+        },
+        {
+          "filter_name": "Saharanpur",
+          "display_name": "Saharanpur",
+          "attributes": {
+            "seo_mapping_id": 104838609
+          }
+        },
+        {
+          "filter_name": "Shamli",
+          "display_name": "Shamli",
+          "attributes": {
+            "seo_mapping_id": 104838613
+          }
+        },
+        {
+          "filter_name": "Sitapur",
+          "display_name": "Sitapur",
+          "attributes": {
+            "seo_mapping_id": 104838615
+          }
+        },
+        {
+          "filter_name": "Varanasi",
+          "display_name": "Varanasi",
+          "attributes": {
+            "seo_mapping_id": 104838598
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121716505
+      }
+    },
+    {
+      "filter_name": "Uttarakhand",
+      "display_name": "Uttarakhand",
+      "variants": [
+        {
+          "filter_name": "Bhimtal",
+          "display_name": "Bhimtal",
+          "attributes": {
+            "seo_mapping_id": 104838628
+          }
+        },
+        {
+          "filter_name": "Dehradun",
+          "display_name": "Dehradun",
+          "attributes": {
+            "seo_mapping_id": 115143808
+          }
+        },
+        {
+          "filter_name": "Haldwani",
+          "display_name": "Haldwani",
+          "attributes": {
+            "seo_mapping_id": 104838622
+          }
+        },
+        {
+          "filter_name": "Haridwar",
+          "display_name": "Haridwar",
+          "attributes": {
+            "seo_mapping_id": 104838626
+          }
+        },
+        {
+          "filter_name": "Jwalapur",
+          "display_name": "Jwalapur",
+          "attributes": {
+            "seo_mapping_id": 104838627
+          }
+        },
+        {
+          "filter_name": "Rishikesh",
+          "display_name": "Rishikesh",
+          "attributes": {
+            "seo_mapping_id": 104838624
+          }
+        },
+        {
+          "filter_name": "Roorkee",
+          "display_name": "Roorkee",
+          "attributes": {
+            "seo_mapping_id": 104838623
+          }
+        },
+        {
+          "filter_name": "Rudrapur",
+          "display_name": "Rudrapur",
+          "attributes": {
+            "seo_mapping_id": 104838625
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 115143808
+      }
+    },
+    {
+      "filter_name": "West Bengal",
+      "display_name": "West Bengal",
+      "variants": [
+        {
+          "filter_name": "Asansol",
+          "display_name": "Asansol",
+          "attributes": {
+            "seo_mapping_id": 104838633
+          }
+        },
+        {
+          "filter_name": "Cooch Behar",
+          "display_name": "Cooch Behar",
+          "attributes": {
+            "seo_mapping_id": 104838634
+          }
+        },
+        {
+          "filter_name": "Durgapur",
+          "display_name": "Durgapur",
+          "attributes": {
+            "seo_mapping_id": 104838631
+          }
+        },
+        {
+          "filter_name": "Hooghly",
+          "display_name": "Hooghly",
+          "attributes": {
+            "seo_mapping_id": 120921603
+          }
+        },
+        {
+          "filter_name": "Howrah",
+          "display_name": "Howrah",
+          "attributes": {
+            "seo_mapping_id": 115852603
+          }
+        },
+        {
+          "filter_name": "Kolkata",
+          "display_name": "Kolkata",
+          "attributes": {
+            "seo_mapping_id": 121595113
+          }
+        },
+        {
+          "filter_name": "Midnapore",
+          "display_name": "Midnapore",
+          "attributes": {
+            "seo_mapping_id": 104838635
+          }
+        },
+        {
+          "filter_name": "Purulia",
+          "display_name": "Purulia",
+          "attributes": {
+            "seo_mapping_id": 104838636
+          }
+        },
+        {
+          "filter_name": "Serampore",
+          "display_name": "Serampore",
+          "attributes": {
+            "seo_mapping_id": 104838632
+          }
+        },
+        {
+          "filter_name": "Siliguri",
+          "display_name": "Siliguri",
+          "attributes": {
+            "seo_mapping_id": 104838630
+          }
+        }
+      ],
+      "attributes": {
+        "seo_mapping_id": 121595113
+      }
+    }
+  ]
+}

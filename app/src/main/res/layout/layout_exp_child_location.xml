@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="4dp"
+    android:background="@color/white"
+    android:paddingTop="4dp">
+
+    <TextView
+        android:id="@+id/country_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="14dp"
+        android:layout_marginLeft="35dp"
+        android:textColor="@color/grey_900"
+        android:text="TextView"
+        android:textSize="16dp" />
+
+
+</RelativeLayout>

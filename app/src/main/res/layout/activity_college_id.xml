@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootView"
+    android:background="@color/yellowish_300"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+    <!--<ImageView-->
+    <!--android:id="@+id/imageView"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:scaleType="fitEnd"-->
+    <!--android:src="@drawable/water"/>-->
+
+    <ImageView
+        android:id="@+id/imageCloud1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/school_bg" />
+
+    <TextView
+        android:id="@+id/textparent"
+        android:text="For Mom And Dads"
+        style="@style/ThemeOverlay.MyTitleText"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_below="@+id/imageCloud1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_margin="2dp"
+        android:text="It is a way to connect to their childer when they are either going or coming from their studies"
+        android:layout_below="@+id/textparent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/card_view" />
+
+
+    <!--<ImageView-->
+    <!--android:id="@+id/imageCloud2"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentEnd="true"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:layout_marginRight="32dp"-->
+    <!--android:scaleType="fitCenter"-->
+    <!--android:src="@drawable/cloud"/>-->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/imageCloud3"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignBottom="@+id/card_view"-->
+    <!--android:layout_toLeftOf="@+id/card_view"-->
+    <!--android:paddingTop="24dp"-->
+
+    <!--android:scaleType="fitCenter"-->
+    <!--android:src="@drawable/cloud"/>-->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/imageCloud4"-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--android:layout_alignBottom="@+id/card_view"-->
+    <!--android:layout_toRightOf="@+id/card_view"-->
+    <!--android:scaleType="fitCenter"-->
+    <!--android:src="@drawable/cloud"/>-->
+
+    <android.support.v7.widget.CardView android:id="@+id/card_view"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:layout_margin="20dp"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardElevation="4dp"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_border"
+            android:padding="@dimen/activity_horizontal_margin">
+
+            <!--<TextView-->
+            <!--android:id="@+id/title"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:backgroundTint="@color/textPrimary"-->
+            <!--android:text="@string/app_name"-->
+            <!--android:textAppearance="?android:attr/textAppearanceLarge"-->
+            <!--android:textColor="@color/textPrimary"-->
+            <!--android:textColorHighlight="@color/textPrimary"-->
+            <!--android:textColorHint="@color/textPrimary"-->
+            <!--android:textColorLink="@color/textPrimary" />-->
+
+            <TextView
+                android:id="@+id/permissionText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/Enter_college"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textColorHighlight="@color/textPrimary"
+                android:textColorHint="@color/black"
+                android:textColorLink="@color/black"
+                android:gravity="center" />
+
+            <EditText
+                android:layout_marginTop="10dp"
+                android:id="@+id/college_Id"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/textView2"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignRight="@+id/textView2"
+                android:layout_below="@+id/permissionText"
+                android:hint="@string/enter_transport_id"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHighlight="@color/black" />
+
+            <!--<EditText-->
+            <!--android:id="@+id/driverId"-->
+            <!--android:layout_width="160dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/college_Id"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:backgroundTint="@color/textPrimary"-->
+            <!--android:hint="@string/enter_email"-->
+            <!--android:inputType="textEmailAddress"-->
+            <!--android:maxLines="1"-->
+            <!--android:textColor="@color/textPrimary"-->
+            <!--android:textColorHighlight="@color/textPrimary"-->
+            <!--android:textColorHint="@color/io_accent5" />-->
+
+            <!--<EditText-->
+            <!--android:id="@+id/password"-->
+            <!--android:layout_width="160dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/driverId"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:backgroundTint="@color/textPrimary"-->
+            <!--android:hint="@string/enter_password"-->
+            <!--android:inputType="textPassword"-->
+            <!--android:maxLines="1"-->
+            <!--android:textColor="@color/textPrimary"-->
+            <!--android:textColorHighlight="@color/textPrimary"-->
+            <!--android:textColorHint="@color/io_accent5" />-->
+
+            <Button
+                android:id="@+id/button_start_track"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="87dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/cardview_dark_background"
+                android:text="@string/Track"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/button_start_track"
+                android:layout_margin="2dp"
+                android:text="@string/note_contact"
+                android:textColor="@color/black" />
+
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

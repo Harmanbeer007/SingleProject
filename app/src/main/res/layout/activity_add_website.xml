@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.firebaseadmin.AddWebsite"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp" /><!--<TextView--><!--android:id="@+id/textView"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:text="The college/school website you add here will be available to parents that can track school"--><!--android:layout_marginStart="8dp"--><!--tools:layout_constraintTop_creator="1"--><!--android:layout_marginTop="12dp"--><!--tools:layout_constraintLeft_creator="1"--><!--app:layout_constraintLeft_toLeftOf="parent"--><!--app:layout_constraintTop_toTopOf="parent"--><!--android:layout_marginLeft="8dp" />--><!--<EditText--><!--android:id="@+id/edWebsiteR"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:ems="10"--><!--android:text="http://"--><!--android:hint="ex: http://www.gtbkiet.org"--><!--android:layout_marginTop="16dp"--><!--android:layout_below="@+id/textView"--><!--android:layout_alignLeft="@+id/textView"--><!--android:layout_alignStart="@+id/textView"--><!--android:layout_marginLeft="6dp"--><!--android:layout_marginStart="6dp"--><!--android:layout_toLeftOf="@+id/button2R"--><!--android:layout_toStartOf="@+id/button2R" />-->
+
+    <!--<Button--><!--android:id="@+id/button2R"--><!--android:layout_width="100dp"--><!--android:layout_height="40dp"--><!--android:text="Add"--><!--android:layout_marginRight="16dp"--><!--android:layout_marginLeft="6dp"-->
+
+    <!--android:layout_marginEnd="16dp"--><!--android:layout_alignBaseline="@+id/edWebsiteR"--><!--android:layout_alignBottom="@+id/edWebsiteR"--><!--android:layout_alignParentRight="true"--><!--android:layout_alignParentEnd="true" />-->
+
+
+    <!--<WebView--><!--android:id="@+id/myWebsite"--><!--android:visibility="gone"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent"--><!--android:layout_below="@+id/edWebsiteR">-->
+
+    <!--</WebView>-->
+
+
+    <!--</RelativeLayout>-->

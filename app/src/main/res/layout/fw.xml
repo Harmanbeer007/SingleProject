@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"></android.support.design.widget.CoordinatorLayout>
+
+    <!--<LinearLayout--><!--android:focusable="true"--><!--android:focusableInTouchMode="true"--><!--android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:id="@+id/topmostContainer"--><!--android:layout_height="match_parent"--><!--android:layout_width="match_parent"--><!--android:orientation="vertical">-->
+
+    <!--<ImageView--><!--android:layout_height="wrap_content"--><!--android:layout_marginBottom="10dp"--><!--android:layout_marginTop="@dimen/splash_logo_vertical_margin"--><!--android:layout_width="wrap_content"--><!--/>-->
+
+    <!--<ScrollView--><!--android:fillViewport="true"--><!--android:layout_height="wrap_content"--><!--android:layout_weight="1.0"--><!--android:layout_width="match_parent"--><!--android:scrollbars="none">-->
+
+    <!--<LinearLayout--><!--android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:layout_height="wrap_content"--><!--android:layout_width="match_parent"--><!--android:orientation="vertical"--><!--android:paddingTop="@dimen/login_content_vertical_margin">-->
+
+
+    <!--<LinearLayout--><!--android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:id="@+id/loginForm"--><!--android:layout_height="wrap_content"--><!--android:layout_width="match_parent"--><!--android:orientation="vertical"--><!--android:weightSum="1">-->
+
+    <!--<TextView--><!--android:ellipsize="marquee"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:maxLines="1"--><!--android:text="@string/login"--><!--android:textAllCaps="false"--><!--android:textColor="@color/grey_50"--><!--android:textSize="16sp"--><!--/>-->
+
+    <!--<TextView--><!--android:ellipsize="marquee"--><!--android:layout_height="wrap_content"--><!--android:layout_marginTop="@dimen/login_select_vertical_margin"--><!--android:layout_width="match_parent"--><!--android:maxLines="1"--><!--android:text="@string/select"--><!--android:textAllCaps="true"--><!--android:textColor="@color/grey_300"--><!--android:textSize="14sp"--><!--/>-->
+
+    <!--<LinearLayout--><!--android:gravity="left|right|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:id="@+id/master_avatarContainer"--><!--android:layout_height="wrap_content"--><!--android:layout_width="match_parent"--><!--android:orientation="horizontal"--><!--android:tag="none">-->
+
+    <!--<LinearLayout--><!--android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:id="@+id/cardStudentContainer"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:orientation="vertical">-->
+
+    <!--<android.support.v7.widget.CardView--><!--android:cardBackgroundColor="@color/grey_200"--><!--android:cardCornerRadius="@dimen/login_avatar_card_radius"--><!--android:id="@+id/cardStudent"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content">-->
+
+    <!--<ImageView--><!--android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:layout_height="50dp"--><!--android:layout_width="50dp"--><!--android:src="@drawable/ic_proged_avatar_student_64dp" />--><!--</android.support.v7.widget.CardView>-->
+
+    <!--<TextView--><!--android:background="#7344"--><!--android:ellipsize="marquee"--><!--android:id="@+id/textStudent"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:maxLines="1"--><!--android:paddingTop="2dp"--><!--android:text="@string/student"--><!--android:textAllCaps="true"--><!--android:textColor="@color/grey_50"--><!--android:textSize="13sp" />--><!--</LinearLayout>-->
+
+    <!--<LinearLayout--><!--android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:id="@+id/cardTeacherContainer"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:orientation="vertical">-->
+
+    <!--<android.support.v7.widget.CardView--><!--android:cardBackgroundColor="@color/grey_200"--><!--android:cardCornerRadius="@dimen/login_avatar_card_radius"--><!--android:id="@+id/cardTeacher"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content">-->
+
+    <!--<ImageView--><!--android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:layout_height="50dp"--><!--android:layout_width="50dp"--><!--android:src="@drawable/ic_proged_avatar_teacher_64dp" />--><!--</android.support.v7.widget.CardView>-->
+
+    <!--<TextView--><!--android:background="#7344"--><!--android:ellipsize="marquee"--><!--android:id="@+id/textTeacher"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:maxLines="1"--><!--android:paddingTop="2dp"--><!--android:text="@string/teacher"--><!--android:textAllCaps="true"--><!--android:textColor="@color/grey_50"--><!--android:textSize="13sp" />--><!--</LinearLayout>-->
+
+    <!--<LinearLayout--><!--android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:id="@+id/cardParentContainer"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:orientation="vertical">-->
+
+    <!--<android.support.v7.widget.CardView--><!--android:id="@+id/cardParent"--><!--android:layout_width="66dp"--><!--android:layout_height="140dp"--><!--android:cardBackgroundColor="@color/grey_200"--><!--android:cardCornerRadius="@dimen/login_avatar_card_radius">-->
+
+    <!--<ImageView--><!--android:layout_width="50dp"--><!--android:layout_height="50dp"--><!--android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"--><!--android:src="@drawable/ic_proged_avatar_parent_64dp" />--><!--</android.support.v7.widget.CardView>-->
+
+    <!--<TextView--><!--android:background="#7344"--><!--android:ellipsize="marquee"--><!--android:id="@+id/textParent"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:maxLines="1"--><!--android:paddingTop="2dp"--><!--android:text="@string/parent"--><!--android:textAllCaps="true"--><!--android:textColor="@color/grey_50"--><!--android:textSize="13sp" />--><!--</LinearLayout>--><!--</LinearLayout>-->
+
+    <!--<LinearLayout--><!--android:background="@drawable/xml_bg_r10_pad10_blackoverlay"--><!--android:gravity="top|bottom|center_vertical|fill_vertical|center|fill"--><!--android:id="@+id/inputUserContainer"--><!--android:layout_height="wrap_content"--><!--android:layout_marginTop="@dimen/login_input_user_vertical_margin"--><!--android:layout_width="200dp"--><!--android:orientation="horizontal">-->
+
+    <!--<ImageView--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:src="@drawable/ic_proged_user_blue_18dp" />-->
+
+    <!--<View--><!--android:background="@color/theme_bg"--><!--android:layout_height="match_parent"--><!--android:layout_marginEnd="@dimen/login_input_bar_horizontal_margin"--><!--android:layout_marginStart="@dimen/login_input_bar_horizontal_margin"--><!--android:layout_width="5dp" />-->
+
+    <!--<EditText--><!--android:background="0x0"--><!--android:enabled="false"--><!--android:hint="User ID"--><!--android:id="@+id/inputUser"--><!--android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textWebEditText|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|phone"--><!--android:layout_height="wrap_content"--><!--android:layout_weight="1.0"--><!--android:layout_width="150dp"--><!--android:maxLines="1"--><!--android:textColor="@color/grey_700"--><!--android:textColorHint="@color/grey_600"--><!--android:textSize="14sp"--><!--android:visibility="gone" />--><!--</LinearLayout>-->
+
+    <!--<LinearLayout--><!--android:background="@drawable/xml_bg_r10_pad10_blackoverlay"--><!--android:gravity="top|bottom|center_vertical|fill_vertical|center|fill"--><!--android:id="@+id/inputPasswordContainer"--><!--android:layout_height="wrap_content"--><!--android:layout_marginTop="@dimen/login_input_pass_vertical_margin"--><!--android:layout_width="wrap_content"--><!--android:orientation="horizontal"--><!--android:layout_weight="0.83">-->
+
+    <!--<ImageView--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:src="@drawable/ic_proged_password_blue_18dp" />-->
+
+    <!--<View--><!--android:background="@color/theme_bg"--><!--android:layout_height="match_parent"--><!--android:layout_marginEnd="@dimen/login_input_bar_horizontal_margin"--><!--android:layout_marginStart="@dimen/login_input_bar_horizontal_margin"--><!--android:layout_width="5dp" />-->
+
+    <!--<EditText--><!--android:background="0x0"--><!--android:enabled="false"--><!--android:hint="Password"--><!--android:id="@+id/inputPassword"--><!--android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textWebEditText|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|phone"--><!--android:layout_height="wrap_content"--><!--android:layout_weight="1.0"--><!--android:layout_width="wrap_content"--><!--android:maxLines="1"--><!--android:textColor="@color/grey_700"--><!--android:textColorHint="@color/grey_600"--><!--android:textSize="14sp"--><!--android:visibility="gone"--><!--/>--><!--</LinearLayout>-->
+
+    <!--<TextView--><!--android:background="#7344"--><!--android:ellipsize="marquee"--><!--android:id="@+id/forgotPassword"--><!--android:layout_height="wrap_content"--><!--android:layout_marginTop="@dimen/login_forgot_pass_vertical_margin"--><!--android:layout_width="wrap_content"--><!--android:maxLines="1"--><!--android:text="@string/forgot_pass"--><!--android:textColor="@color/grey_800"--><!--android:textSize="14sp" />-->
+
+    <!--<FrameLayout--><!--android:id="@+id/nextButtonContainer"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content">-->
+
+    <!--<android.support.v7.widget.CardView--><!--android:cardBackgroundColor="@color/theme_bg_lighter"--><!--android:cardCornerRadius="10dp"--><!--android:cardElevation="@dimen/elevation_button"--><!--android:layout_height="wrap_content"--><!--android:layout_marginBottom="20dp"--><!--android:layout_marginTop="@dimen/login_button_vertical_margin"--><!--android:layout_width="wrap_content">-->
+
+    <!--<TextView--><!--android:background="#7344"--><!--android:ellipsize="marquee"--><!--android:layout_height="wrap_content"--><!--android:layout_width="wrap_content"--><!--android:maxLines="1"--><!--android:paddingBottom="10dp"--><!--android:paddingEnd="20dp"--><!--android:paddingStart="20dp"--><!--android:paddingTop="10dp"--><!--android:text="@string/login"--><!--android:textAllCaps="true"--><!--android:textColor="@color/grey_50"--><!--android:textSize="14sp" />--><!--</android.support.v7.widget.CardView>--><!--</FrameLayout>--><!--</LinearLayout>--><!--</LinearLayout>--><!--</ScrollView></LinearLayout></android.support.design.widget.CoordinatorLayout>-->

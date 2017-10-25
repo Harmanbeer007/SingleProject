@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="1dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+
+            <ImageView
+                android:id="@+id/btnAddBus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/addbus1"
+                android:background="@drawable/btn_background"
+                android:drawableTop="@drawable/addbus12"
+                android:padding="20dp"
+                android:text="@string/addBus"
+                android:textColor="@color/colorPrimaryDarketc"
+
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+            <ImageView
+                android:id="@+id/btnBusList"
+                android:src="@drawable/buslist"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_background"
+                android:drawableTop="@drawable/bus"
+                android:padding="20dp"
+                android:text="@string/BusList"
+                android:textColor="@color/colorPrimaryDarketc" />
+
+            <ImageView
+                android:id="@+id/btnTrackBus"
+                android:src="@drawable/track"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_background"
+                android:drawableTop="@drawable/track"
+                android:padding="20dp"
+                android:text="@string/track"
+                android:textColor="@color/colorPrimaryDarketc" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+            <!--<android.support.v7.widget.AppCompatButton-->
+            <!--android:id="@+id/btnAPIInterface"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_marginRight="1dp"-->
+
+            <!--android:layout_weight="1.0"-->
+            <!--android:background="@drawable/btn_background"-->
+            <!--android:padding="20dp"-->
+            <!--android:text="APIInterface"-->
+            <!--android:textColor="@color/colorPrimaryDarketc" />-->
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btnWeb"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_background"
+                android:drawableTop="@drawable/websi"
+                android:padding="20dp"
+                android:text="Add Website"
+                android:textColor="@color/colorPrimaryDarketc" />
+            <!--<android.support.v7.widget.AppCompatButton-->
+            <!--android:id="@+id/btnAlerts"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_weight="1.0"-->
+            <!--android:background="@drawable/btn_background"-->
+            <!--android:padding="20dp"-->
+            <!--android:text="RoutesAlerts"-->
+            <!--android:textColor="@color/colorPrimaryDarketc" />-->
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/shape_roundcorner_tl_tr"
+        android:paddingBottom="5dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="5dp"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

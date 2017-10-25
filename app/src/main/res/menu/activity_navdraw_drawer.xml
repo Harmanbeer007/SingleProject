@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xmlxmlns="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/nav_trackbus"
+        android:icon="@drawable/abus"
+        android:title="Track Bus" />
+    <item
+        android:id="@+id/nav_pay_fee"
+        android:icon="@drawable/payfee"
+        android:title="@string/fee" />
+    <item
+        android:id="@+id/nav_change_college"
+        android:title="@string/Change" />
+    <item
+        android:id="@+id/nav_logout"
+        android:title="@string/Logout" />
+</menu>

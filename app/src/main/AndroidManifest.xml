@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sandhu.harman.singleproject">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_100"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_100"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".admin.mainscreen"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".admin.ListOfBus" />
+        <activity android:name=".admin.AddBus" />
+        <activity android:name=".admin.DriverInformation" />
+        <activity android:name=".admin.AddStudent" />
+        <!-- <USer></USer> -->
+        <activity
+            android:name=".parent.College_Id"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".parent.DriverList"
+            android:configChanges="orientation|smallestScreenSize|density|navigation"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".parent.Navdraw" />
+        </activity>
+        <activity
+            android:name=".parent.MapsActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".parent.Website" />
+        <activity
+            android:name=".parent.Navdraw"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".admin.Admin_Navdraw"
+            android:label="@string/title_activity_admin__navdraw"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".admin.WebsiteAdd"
+            android:label="@string/title_activity_admin__navdraw"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <service
+            android:name=".driver.TrackerService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver
+            android:name=".driver.TrackerBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name=".TrackerActivity.ALARM_ACTION_START" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name=".TrackerActivity.ALARM_ACTION_END" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".driver.TrackerTaskService"
+            android:exported="true"
+            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+                <action android:name="org.tracks.LONGRUNSERVICE" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity android:name=".admin.AdminBusTrack" />
+        <activity android:name=".parent.PayFees" />
+        <activity
+            android:name=".parent.setFeeLocation"
+            android:label="Location">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".parent.PayFees" />
+        </activity>
+        <activity android:name=".parent.setFee_Institute" />
+        <activity android:name=".parent.viewCollegeWebsite" />
+        <activity
+            android:name=".MyHeadActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

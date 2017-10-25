@@ -1,0 +1,223 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="81dp">
+
+    <LinearLayout
+        android:id="@+id/linearLay"
+        android:gravity="center"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="14dp"
+        android:layout_marginStart="14dp"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="395dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintVertical_bias="0.261">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="250dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/inputCollegeIdContainerFrag"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:layout_marginTop="@dimen/login_input_pass_vertical_margin"
+                android:background="@drawable/xml_bg_r10_grey50"
+                android:gravity="top|bottom|center_vertical|fill_vertical|center|fill"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginRight="7dp"
+                    android:src="@drawable/collegeid" />
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_margin="5dp"
+                    android:padding="5dp"
+                    android:layout_gravity="center"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="@dimen/login_input_bar_horizontal_margin"
+                    android:layout_marginStart="@dimen/login_input_bar_horizontal_margin"
+                    android:background="@color/theme_bg" />
+
+                <EditText
+                    android:id="@+id/inputCollegeIDFrag"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1.0"
+                    android:background="@color/gray_50"
+                    android:enabled="true"
+                    android:layout_marginLeft="10dp"
+                    android:hint="College ID"
+                    android:paddingLeft="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_gravity="center"
+                    android:paddingRight="5dp"
+                    android:inputType="textAutoComplete"
+                    android:maxLines="1"
+                    android:textColor="@color/grey_700"
+                    android:textColorHint="@color/grey_600"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/inputUserContainerFrag"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="top"
+                android:layout_marginTop="@dimen/login_input_user_vertical_margin"
+                android:background="@drawable/xml_bg_r10_grey50"
+                android:gravity="top|bottom|center_vertical|fill_vertical|center|fill"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginRight="7dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/collegeemail" />
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_margin="5dp"
+                    android:padding="5dp"
+                    android:layout_gravity="center"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="@dimen/login_input_bar_horizontal_margin"
+                    android:layout_marginStart="@dimen/login_input_bar_horizontal_margin"
+                    android:background="@color/theme_bg" />
+
+                <EditText
+                    android:id="@+id/inputUserFrag"
+                    android:layout_width="wrap_content"
+                    android:hint="College Email ID"
+                    android:layout_height="40dp"
+                    android:layout_weight="1.0"
+                    android:enabled="true"
+                    android:background="@color/grey_50"
+                    android:layout_marginLeft="10dp"
+                    android:paddingLeft="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_gravity="center"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1"
+                    android:textColor="@color/grey_700"
+                    android:textColorHint="@color/grey_600"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/inputPasswordContainerFrag"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:layout_marginTop="@dimen/login_input_pass_vertical_margin"
+                android:background="@drawable/xml_bg_r10_grey50"
+                android:gravity="top|bottom|center_vertical|fill_vertical|center|fill"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginRight="7dp"
+                    android:src="@drawable/college_pass" />
+
+                <View
+                    android:layout_width="5dp"
+                    android:layout_margin="5dp"
+                    android:padding="5dp"
+                    android:layout_gravity="center"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="@dimen/login_input_bar_horizontal_margin"
+                    android:layout_marginStart="@dimen/login_input_bar_horizontal_margin"
+                    android:background="@color/theme_bg" />
+
+                <EditText
+                    android:id="@+id/inputPasswordFrag"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1.0"
+                    android:background="@color/gray_50"
+                    android:enabled="true"
+                    android:layout_marginLeft="10dp"
+                    android:hint="Password"
+                    android:paddingLeft="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_gravity="center"
+                    android:paddingRight="5dp"
+                    android:inputType="textPassword"
+                    android:maxLines="1"
+                    android:textColor="@color/grey_700"
+                    android:textColorHint="@color/grey_600"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/nextButtonContainer"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="329dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1">
+
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="20dp"-->
+        <!--android:layout_marginTop="15dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--app:cardCornerRadius="10dp"-->
+        <!--app:cardElevation="@dimen/elevation_button">-->
+
+        <TextView
+            android:id="@+id/btnLoginFrag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/xml_bg_r10_grey800"
+            android:ellipsize="marquee"
+            android:layout_gravity="center"
+            android:maxLines="1"
+            android:paddingBottom="10dp"
+            android:paddingEnd="20dp"
+            android:paddingStart="20dp"
+            android:paddingTop="10dp"
+            android:text="@string/login"
+            android:textAllCaps="true"
+            android:textColor="@color/grey_50"
+            android:textSize="14sp" />
+        <!--</android.support.v7.widget.CardView>-->
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>
