@@ -63,6 +63,7 @@ public class Navdraw extends AppCompatActivity implements NavigationView.OnNavig
             }
         });
 
+
         studyOnline = (LinearLayout) findViewById(R.id.studyOnline);
         studyOnline.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -98,7 +98,13 @@
             android:value="@string/google_maps_key" />
 
         <activity android:name=".admin.AdminBusTrack" />
-        <activity android:name=".parent.PayFees" />
+        <activity
+            android:name=".parent.PayFees"
+            android:label="Pay Fee">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".parent.Navdraw" />
+        </activity>
         <activity
             android:name=".parent.setFeeLocation"
             android:label="Location">
@@ -106,11 +112,26 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".parent.PayFees" />
         </activity>
-        <activity android:name=".parent.setFee_Institute" />
+        <activity
+            android:name=".parent.setFee_Institute"
+            android:label="Select Institute"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
         <activity android:name=".parent.viewCollegeWebsite" />
         <activity
             android:name=".MyHeadActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".parent.DebitCard"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".parent.setSelectedItem"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".parent.PayFees" />
+        </activity>
     </application>
 
 </manifest>

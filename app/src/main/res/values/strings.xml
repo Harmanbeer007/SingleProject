@@ -1,14 +1,8 @@
 <resources>
     <string name="app_name">Umang Care</string>
     <string name="login">Login</string>
-    <string name="forgot_pass">Forgot password</string>
-    <string name="parent">parent</string>
-    <string name="teacher">Teacher</string>
-    <string name="student">Student</string>
-    <string name="select">Select</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="parentapp_title_text">Parent Login</string>
     <string name="signed_out">Sign Out</string>
     <string name="sign_out">Sign Out</string>
@@ -19,9 +13,6 @@
     <string name="userType">userType</string>
 
 
-    <string name="title_activity_main">Transport Tracker</string>
-    <string name="start_tracking">Start Tracking</string>
-    <string name="stop_tracking">Stop Tracking</string>
     <string name="enter_transport_id">Enter college ID</string>
     <string name="enter_email">Enter email</string>
     <string name="enter_password">Enter password</string>
@@ -34,18 +25,14 @@
     <string name="status">status</string>
     <string name="location_permission_required">Location permission required.</string>
     <string name="gps_required">Gps not enabled.</string>
-    <string name="ok">OK</string>
     <string name="enable">Enable</string>
     <string name="auth_failed">Firebase authentication failed</string>
     <string name="confirm_stop">Do you really want to disable location tracking?</string>
 
-    <string name="firebase_path" translatable="false">raw-locations/</string>
     <string name="adminPref" translatable="false">myAdminPrefs</string>
     <string name="college_id" translatable="false">college_id</string>
     <string name="email" translatable="false">email</string>
     <string name="password" translatable="false">password</string>
-    <string name="title_activity_maps">Map</string>
-    <string name="tracking_map">Get Map</string>
     <string name="Login">Login</string>
     <string name="save">save</string>
     <string name="go">Get School Bus List</string>
@@ -53,80 +40,20 @@
     <string name="track">Track Bus</string>
     <string name="select_file">select file</string>
     <string name="file_error">file error</string>
-    <string name="title_activity_website_add">WebsiteAdd</string>
     <string name="Logout">Logout</string>
     <string name="Change">Change College</string>
     <string name="Enter_college">Enter College ID</string>
     <string name="Track">Track</string>
 
 
-    <string name="action_save">save</string>
-    <string name="title_activity_driver_tracking_map">Map</string>
-
     <!--<>....-->
     <string name="the_college">The college/school website you add here will be available to parents that can track college/school bus.</string>
     <string name="website">websitename</string>
 
-    <string name="label_google_sign_in">Firebase + Google Sign In</string>
-    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
-
-    <string name="label_facebook_login">Firebase + Facebook Login</string>
-    <string name="desc_facebook_login">Use a Facebook Login credential to authenticate with Firebase.</string>
-
-    <string name="label_twitter_login">Firebase + Twitter Login</string>
-    <string name="desc_twitter_login">Use a Twitter Login credential to authenticate with Firebase.</string>
-
-    <string name="label_emailpassword">Email/Password Authentication</string>
-    <string name="desc_emailpassword">Use an email and password to authenticate with Firebase.</string>
-
-    <string name="label_phone_auth">Phone Number Authentication</string>
-    <string name="desc_phone_auth">Use a phone number to authenticate with Firebase.</string>
-
-    <string name="label_anonymous_auth">Anonymous Authentication</string>
-    <string name="desc_anonymous_auth">Sign in anonymously and then later upgrade to a full Firebase Auth user.</string>
-
-    <string name="label_custom_auth">Custom Authentication</string>
-    <string name="desc_custom_auth">Use a custom token signed by your own server to authenticate with Firebase.</string>
-
-    <string name="label_firebase_ui">FirebaseUI Auth</string>
-    <string name="desc_firebase_ui">Use the FirebaseUI-Android library to authenticate with Firebase.</string>
-
-    <string name="hint_user_id">User ID</string>
-    <string name="get_custom_token">Get Token</string>
-    <string name="sign_in">Sign In</string>
-    <string name="create_account">Create Account</string>
-    <string name="verify_email">Verify Email</string>
     <string name="loading">Loading…</string>
-    <string name="custom_token">Custom Token</string>
-    <string name="signed_in">Signed In</string>
-    <string name="token_null">Token: null</string>
-    <string name="hint_email">Email</string>
-    <string name="hint_password">Password</string>
-    <string name="desc_firebase_lockup">Firebase logo and name</string>
-    <string name="start_phone_auth">Start</string>
-    <string name="verify_phone_auth">Verify</string>
-    <string name="resend_phone_auth">Resend</string>
-    <string name="hint_phone_number">Phone Number</string>
-    <string name="hint_verification_code">Verification Code</string>
-    <string name="status_code_sent">Code Sent</string>
-    <string name="status_verification_failed">Verification failed</string>
-    <string name="status_verification_succeeded">Verification succeeded</string>
-    <string name="status_sign_in_failed">Sign-in failed</string>
-    <string name="instant_validation">(instant validation)</string>
-
-    <string name="firebase_status_fmt">Firebase User: %s</string>
-    <string name="firebase_user_management">Firebase User Management</string>
 
 
-    <string name="firebaseui_status_fmt">Firebase User: %s</string>
-    <string name="firebaseui_title_text">FirebaseUI Auth</string>
-
-    <string name="id_fmt">User ID: %s</string>
-    <string name="email_fmt">Email: %s</string>
     <string name="note_contact">Note:Contact Your College Incase You Dont Have College Id.</string>
-    <string name="ok_text">Ok</string>
-    <string name="Ok">Ok</string>
-    <string name="title_activity_navdraw">Navdraw</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>

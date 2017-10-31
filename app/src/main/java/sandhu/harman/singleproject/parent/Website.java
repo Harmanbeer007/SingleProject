@@ -102,7 +102,7 @@ public class Website extends AppCompatActivity {
     }
 
     public void UpdateData() {
-        BusTrackAdapter recyclerAdapter = new BusTrackAdapter(busData, context, "parent");
+        BusTrackAdapterParent recyclerAdapter = new BusTrackAdapterParent(busData, context, "parent");
         RecyclerView.LayoutManager recyce = new LinearLayoutManager(context);
 
         recycle.setLayoutManager(recyce);

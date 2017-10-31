@@ -2,7 +2,6 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@color/grey_100"
-    android:nestedScrollingEnabled="true"
     android:orientation="vertical">
 
     <FrameLayout
@@ -12,7 +11,7 @@
         <RelativeLayout
             android:id="@+id/relativeLayout"
             android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_height="90dp"
             android:layout_margin="4dp"
             android:background="@color/light_blue_500"
             android:gravity="center">
@@ -88,7 +87,7 @@
                             android:id="@+id/imageView"
                             android:layout_width="50dp"
                             android:layout_height="50dp"
-                            android:src="@drawable/add_money" />
+                            android:src="@drawable/money" />
                     </LinearLayout>
 
                     <TextView
@@ -118,7 +117,7 @@
                         <ImageView
                             android:layout_width="50dp"
                             android:layout_height="50dp"
-                            android:src="@drawable/send_money_new" />
+                            android:src="@drawable/send_money" />
                     </LinearLayout>
 
                     <TextView
@@ -149,7 +148,7 @@
                         <ImageView
                             android:layout_width="50dp"
                             android:layout_height="50dp"
-                            android:src="@drawable/statement_new" />
+                            android:src="@drawable/statement" />
                     </LinearLayout>
 
                     <TextView

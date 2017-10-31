@@ -22,8 +22,7 @@ import java.util.List;
 
 import sandhu.harman.singleproject.R;
 import sandhu.harman.singleproject.parent.BusInfoparent;
-import sandhu.harman.singleproject.parent.BusTrackAdapter;
-import sandhu.harman.singleproject.admin.AdminBusTrack;
+import sandhu.harman.singleproject.parent.BusTrackAdapterParent;
 import sandhu.harman.singleproject.parent.ToastClass;
 
 public class AdminBusTrack extends AppCompatActivity {
@@ -105,7 +104,7 @@ public class AdminBusTrack extends AppCompatActivity {
     }
 
     public void UpdateData() {
-        BusTrackAdapter recyclerAdapter = new BusTrackAdapter(busData, AdminBusTrack.this, "admin");
+        BusTrackAdapterParent recyclerAdapter = new BusTrackAdapterParent(busData, AdminBusTrack.this, "admin");
         RecyclerView.LayoutManager recyce = new LinearLayoutManager(AdminBusTrack.this);
         recycle.setLayoutManager(recyce);
         recycle.setItemAnimator(new DefaultItemAnimator());

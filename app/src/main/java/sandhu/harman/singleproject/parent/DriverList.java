@@ -101,7 +101,7 @@ public class DriverList extends AppCompatActivity {
     }
 
     public void UpdateData() {
-        BusTrackAdapter recyclerAdapter = new BusTrackAdapter(busData, DriverList.this, "parent");
+        BusTrackAdapterParent recyclerAdapter = new BusTrackAdapterParent(busData, DriverList.this, "parent");
         RecyclerView.LayoutManager recyce = new LinearLayoutManager(DriverList.this);
         recycle.setLayoutManager(recyce);
         recycle.setItemAnimator(new DefaultItemAnimator());

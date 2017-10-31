@@ -1,144 +1,222 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="sandhu.harman.singleproject.parent.PayFees"
-    tools:layout_editor_absoluteY="81dp"
-    tools:layout_editor_absoluteX="0dp">
+    android:layout_height="match_parent">
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:hint="Location"
-        android:textColorHint="#6b6868"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:layout_marginTop="8dp"
-        android:id="@+id/textInputLayout"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
-        <EditText
-            android:id="@+id/pay_fee_location"
-            android:inputType="textNoSuggestions"
-            android:focusableInTouchMode="false"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content" />
-    </android.support.design.widget.TextInputLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:text="Pay Your Fees"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:hint="Institute"
-        android:textColorHint="#6b6868"
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginTop="8dp"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout"
-        android:id="@+id/textInputLayout2"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
-        <EditText
-            android:id="@+id/pay_fee_institute"
-            android:focusableInTouchMode="false"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content" />
+            <RadioGroup
+                android:id="@+id/feeTypeGroup"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
 
-    </android.support.design.widget.TextInputLayout>
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:layout_width="0dp"
+                    android:id="@+id/newRegistrationPaymentRadio"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_weight=".5"
+                    android:checked="true"
+                    android:text="New Registration" />
 
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:layout_width="0dp"
+                    android:id="@+id/FeePaymentRadio"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_weight=".5"
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:hint="Area"
-        android:textColorHint="#6b6868"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        android:layout_marginTop="8dp"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout2"
-        android:id="@+id/textInputLayout3"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp">
+                    android:text="Fee Payment" />
+            </RadioGroup>
+        </LinearLayout>
 
-        <EditText
-            android:id="@+id/pay_fee_Area"
-            android:focusableInTouchMode="false"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content" />
-    </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:hint="Location"
+            android:textColorHint="@color/colorAccent"
+            android:visibility="gone">
 
+            <EditText
+                android:id="@+id/pay_fee_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusableInTouchMode="false"
+                android:inputType="textNoSuggestions"
+                android:visibility="gone" />
+        </android.support.design.widget.TextInputLayout>
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:hint="Fee Payment"
-        android:textColorHint="#6b6868"
-        android:layout_marginTop="8dp"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout3"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        android:id="@+id/textInputLayout4"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp">
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInputLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:hint="Institute"
+            android:textColorHint="@color/colorAccent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textInputLayout">
 
-        <EditText
-            android:id="@+id/pay_fee_Payment"
-            android:focusableInTouchMode="false"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content" />
-    </android.support.design.widget.TextInputLayout>
+            <EditText
+                android:id="@+id/pay_fee_institute"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:focusableInTouchMode="false"
+                android:inputType="textNoSuggestions" />
+
+        </android.support.design.widget.TextInputLayout>
 
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:hint="Enrollment Number"
-        android:textColorHint="#6b6868"
-        android:layout_marginTop="8dp"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout4"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp"
-        android:id="@+id/textInputLayout5">
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInput_fee_Area"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:hint="Area"
+            android:textColorHint="@color/colorAccent"
+            android:visibility="gone"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textInputLayout2">
 
-        <EditText
-            android:id="@+id/pay_fee_Enrollment_Number"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content" />
-    </android.support.design.widget.TextInputLayout>
+            <EditText
+                android:id="@+id/pay_fee_Area"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusableInTouchMode="false"
+                android:inputType="textNoSuggestions" />
+        </android.support.design.widget.TextInputLayout>
 
-    <Button
-        android:layout_width="0dp"
-        android:layout_height="48dp"
-        android:id="@+id/proceed_Payment"
-        android:layout_margin="43dp"
-        android:text="Proceed Payment"
-        android:background="@color/colorPrimary"
-        android:textColor="@color/white"
-        android:padding="10dp"
-        android:textStyle="bold"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout5"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp" />
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInput_fee_Course"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:hint="Course"
+            android:textColorHint="@color/colorAccent"
+            android:visibility="gone"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textInputLayout2">
 
-</android.support.constraint.ConstraintLayout>
+            <EditText
+                android:id="@+id/pay_fee_Course"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusableInTouchMode="false"
+                android:inputType="textNoSuggestions" />
+        </android.support.design.widget.TextInputLayout>
+
+        <LinearLayout
+            android:id="@+id/pay_fee_institute_Layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="vertical">
+
+        </LinearLayout>
+        <!--<android.support.design.widget.TextInputLayout-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="Enrollment Number"-->
+        <!--android:textColorHint="#6b6868"-->
+        <!--android:layout_marginTop="8dp"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/textInputLayout4"-->
+        <!--android:layout_marginRight="8dp"-->
+        <!--app:layout_constraintRight_toRightOf="parent"-->
+        <!--android:layout_marginLeft="8dp"-->
+        <!--app:layout_constraintLeft_toLeftOf="parent"-->
+        <!--android:layout_marginStart="8dp"-->
+        <!--android:layout_marginEnd="8dp"-->
+        <!--android:id="@+id/textInputLayout5">-->
+
+        <!--<EditText-->
+        <!--android:id="@+id/pay_fee_Enrollment_Number"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+        <!--</android.support.design.widget.TextInputLayout>-->
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInput_fee_Amount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:hint="Amount"
+            android:textColorHint="@color/colorAccent"
+            android:visibility="gone"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textInputLayout2">
+
+            <EditText
+                android:id="@+id/pay_fee_Amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textNoSuggestions|numberDecimal" />
+        </android.support.design.widget.TextInputLayout>
+
+        <ProgressBar
+            android:id="@+id/loadingData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/proceed_Payment"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_margin="43dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:background="@color/light_blue_500"
+            android:padding="10dp"
+            android:text="Proceed"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
+
+    </LinearLayout>
+</ScrollView>

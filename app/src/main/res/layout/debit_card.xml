@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/activity_debit_card"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.Toolbar
+        android:background="@color/colorPrimary"
+        android:contentInsetStartWithNavigation="0dp"
+        android:fitsSystemWindows="true"
+        android:id="@id/toolbar"
+        android:layout_centerHorizontal="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:popupTheme="@style/AppTheme"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <TextView
+            android:adjustViewBounds="true"
+            android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+            android:id="@+id/pageTitle"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="?attr/actionBarSize"
+            android:layout_width="match_parent"
+            android:text="Bank Details"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+    </android.support.v7.widget.Toolbar>
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:cursorVisible="true"
+        android:focusable="true"
+        android:hint="Debit Card Number"
+        android:id="@+id/card_no"
+        android:inputType="number|numberSigned|numberDecimal|numberPassword|phone"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:layout_marginTop="70dp"
+        android:layout_weight="0.5"
+        android:layout_width="match_parent"
+        android:lines="1"
+        android:maxLength="16"
+        app:met_baseColor="@color/grey_700"
+        app:met_floatingLabel="normal"
+        app:met_floatingLabelText="Debit Card Number"
+        app:met_floatingLabelTextSize="10sp"
+        app:met_maxCharacters="16"
+        app:met_minCharacters="16"
+        app:met_primaryColor="@color/colorFeeOnTime"
+        android:textColor="@color/colorFeeOnTime"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_below="@+id/card_no"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:cursorVisible="true"
+            android:focusable="true"
+            android:hint="Card Expiry (MM/YYYY)"
+            android:id="@+id/expiry"
+            android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|phone"
+            android:layout_below="@+id/card_no"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15sp"
+            android:layout_marginRight="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:lines="1"
+            android:maxLength="7"
+            app:met_baseColor="@color/grey_700"
+            app:met_floatingLabel="normal"
+            app:met_floatingLabelText="Card Expiry"
+            app:met_floatingLabelTextSize="10sp"
+            app:met_maxCharacters="7"
+            app:met_minCharacters="7"
+            app:met_primaryColor="@color/colorFeeOnTime"
+            android:textColor="@color/grey_700"
+            android:textSize="15sp" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:cursorVisible="true"
+            android:focusable="true"
+            android:hint="CVV"
+            android:id="@+id/cvv"
+            android:inputType="number|numberSigned|numberDecimal|numberPassword|phone"
+            android:layout_below="@+id/card_no"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15sp"
+            android:layout_marginRight="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@+id/expiry"
+            android:layout_weight="0.5"
+            android:layout_width="match_parent"
+            android:lines="1"
+            android:maxLength="3"
+            app:met_baseColor="@color/grey_700"
+            app:met_floatingLabel="normal"
+            app:met_floatingLabelText="CVV"
+            app:met_floatingLabelTextSize="10sp"
+            app:met_maxCharacters="3"
+            app:met_minCharacters="3"
+            app:met_primaryColor="@color/colorFeeOnTime"
+            android:textColor="@color/grey_300"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:id="@+id/promotxt"
+        android:layout_below="@+id/ll"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:text="Have a Promocode"
+        android:textColor="@color/grey_700"
+        android:textSize="14dp" />
+
+    <CheckBox
+        android:id="@+id/cbsave"
+        android:layout_below="@+id/promotxt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_width="match_parent"
+        android:text="Save my card for future use"
+        android:textColor="#696969"
+        android:textSize="10sp" />
+
+    <Button
+        android:id="@+id/pay_btn"
+        android:background="@drawable/button_back"
+        android:layout_below="@+id/cbsave"
+        android:layout_centerHorizontal="true"
+        android:layout_height="40dp"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:text="Proceed to pay"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+</RelativeLayout>

@@ -1,20 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:xmlxmlns="http://schemas.android.com/apk/res-auto">
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
 
 
-    <item
-        android:id="@+id/nav_trackbus"
-        android:icon="@drawable/abus"
-        android:title="Track Bus" />
-    <item
-        android:id="@+id/nav_pay_fee"
-        android:icon="@drawable/payfee"
-        android:title="@string/fee" />
-    <item
-        android:id="@+id/nav_change_college"
-        android:title="@string/Change" />
-    <item
-        android:id="@+id/nav_logout"
-        android:title="@string/Logout" />
+        <item
+            android:id="@+id/nav_trackbus"
+            android:icon="@drawable/tracks"
+            android:title="Track Bus" />
+        <item
+            android:id="@+id/nav_pay_fee"
+            android:icon="@drawable/payfee"
+            android:title="@string/fee" />
+        <item
+            android:id="@+id/nav_change_college"
+            android:icon="@drawable/change_college"
+            android:title="@string/Change" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/Logout" />
+    </group>
+
+    <item android:title="Donations">
+        <menu>
+            <item
+                android:id="@+id/nav_web_indvidual"
+                android:title="Indvidual Alliance" />
+            <item
+                android:id="@+id/nav_web_Corporate"
+                android:title="Corporate Alliance" />
+            <item
+                android:id="@+id/nav_web_Volunteers"
+                android:title="Volunteers" />
+            <item
+                android:id="@+id/nav_web_Partnerships"
+                android:title="Partnerships" />
+            <item
+                android:id="@+id/nav_web_Schools"
+                android:title="Schools" />
+        </menu>
+    </item>
+    <item android:title="Other Services">
+        <menu>
+            <item
+                android:id="@+id/nav_web_dehaat"
+                android:title="Dehaat Express" />
+            <item
+                android:id="@+id/nav_web_opinion"
+                android:title="Opinion Matter" />
+        </menu>
+    </item>
 </menu>

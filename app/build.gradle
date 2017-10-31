@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "26.0.1"
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "sandhu.harman.singleproject"
         minSdkVersion 15
@@ -10,8 +10,6 @@ android {
         versionCode 1
         versionName "1.0"
         resValue "string", "build_transport_id", (project.findProperty("build_transport_id") ?: "")
-        resValue "string", "build_email", (project.findProperty("build_email") ?: "")
-        resValue "string", "build_password", (project.findProperty("build_password") ?: "")
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
@@ -51,9 +49,11 @@ dependencies {
     compile 'com.google.android.gms:play-services-auth:11.0.4'
     compile 'com.google.firebase:firebase-storage:11.0.4'
     compile 'com.squareup.picasso:picasso:2.5.2'
-    compile 'com.android.support:multidex:1.0.1'
     testCompile 'junit:junit:4.12'
+    compile 'com.rengwuxian.materialedittext:library:2.1.4'
+
 }
+
 
 
 
