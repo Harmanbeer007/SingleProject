@@ -1,41 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView android:layout_height="match_parent"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:background="@color/white"
-    android:scrollbars="none"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    android:layout_height="match_parent"
+    android:background="@color/grey_500"
+    android:scrollbars="none">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="56dp"
         android:orientation="vertical">
-        <include layout="@layout/head" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            app:cardElevation="5dp">
+
+            <include layout="@layout/head" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:padding="10dp"
+            app:cardElevation="5dp">
 
         <android.support.constraint.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/top_sub_menu"
-            android:background="#fff">
+            android:background="@color/grey_500">
 
             <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-                android:layout_width="0dp"
-                android:layout_height="429dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:layout_marginBottom="8dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginStart="8dp"
-                android:background="@color/grey_100">
+                android:background="@color/grey_300">
 
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/white"
-                    android:orientation="vertical"
-                    android:layout_marginTop="3dp"
+                    android:layout_marginBottom="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/white"
+                    android:orientation="vertical"
                     android:padding="1dp">
 
                     <LinearLayout
@@ -212,10 +229,10 @@
                                     android:layout_width="100dp"
                                     android:layout_height="100dp"
                                     android:layout_gravity="center"
-                                    android:padding="20dp"
-
                                     android:layout_marginBottom="10dp"
+
                                     android:background="@color/white"
+                                    android:padding="20dp"
                                     android:src="@drawable/websi"
                                     android:textColor="@color/grey_800" />
 
@@ -251,15 +268,15 @@
 
 
                             <ImageView
-                                android:id="@+id/btnBuySchoolDress"
+                                android:id="@+id/btnBuySchoolMaterial"
                                 android:layout_width="100dp"
                                 android:layout_height="100dp"
                                 android:layout_gravity="center"
-                                android:padding="20dp"
-
                                 android:layout_marginBottom="5dp"
+
                                 android:layout_marginRight="1dp"
                                 android:layout_weight="1.0"
+                                android:padding="20dp"
                                 android:src="@drawable/bags"
                                 android:textColor="@color/colorPrimaryDarketc" />
 
@@ -329,5 +346,6 @@
             <!--android:text="Need to pay Fees?" />-->
             <!--</android.support.constraint.ConstraintLayout>-->
         </android.support.constraint.ConstraintLayout>
+        </android.support.v7.widget.CardView>
     </LinearLayout>
 </ScrollView>

@@ -1,7 +1,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/grey_100"
+    android:background="@color/grey_300"
     android:orientation="vertical">
 
     <FrameLayout
@@ -12,7 +13,8 @@
             android:id="@+id/relativeLayout"
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:layout_margin="4dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
             android:background="@color/light_blue_500"
             android:gravity="center">
 
@@ -50,7 +52,9 @@
         android:layout_marginLeft="10dp"
         android:layout_marginRight="11dp"
         android:layout_marginTop="70dp"
+        android:elevation="10dp"
         android:paddingBottom="10dp">
+
 
         <LinearLayout
             android:id="@+id/top_sub_menu"
@@ -61,106 +65,113 @@
             android:background="#ffffff"
             android:orientation="vertical">
 
-            <LinearLayout
+            <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#fff"
-                android:orientation="horizontal"
-                android:weightSum="9.0">
+                android:weightSum="9.0"
+                app:cardElevation="10dp">
 
                 <LinearLayout
-                    android:id="@+id/btnAddMoney"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="3.0"
-                    android:gravity="center"
-                    android:orientation="vertical">
+                    android:layout_height="wrap_content"
+                    android:background="#fff"
+                    android:orientation="horizontal"
+                    android:weightSum="9.0">
 
                     <LinearLayout
+                        android:id="@+id/btnAddMoney"
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginBottom="2dp"
-                        android:layout_marginTop="10dp"
-                        android:gravity="center">
+                        android:layout_height="match_parent"
+                        android:layout_weight="3.0"
+                        android:gravity="center"
+                        android:orientation="vertical">
 
-                        <ImageView
-                            android:id="@+id/imageView"
-                            android:layout_width="50dp"
-                            android:layout_height="50dp"
-                            android:src="@drawable/money" />
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:id="@+id/imageView"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:src="@drawable/money" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="Add Money"
+                            android:textColor="@color/black"
+                            android:textSize="10sp" />
                     </LinearLayout>
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center"
-                        android:text="Add Money"
-                        android:textColor="@color/black"
-                        android:textSize="10sp" />
-                </LinearLayout>
-
-                <LinearLayout
-                    android:id="@+id/btnSendMoney"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="3.0"
-                    android:gravity="center"
-                    android:orientation="vertical">
 
                     <LinearLayout
+                        android:id="@+id/btnSendMoney"
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginBottom="2dp"
-                        android:layout_marginTop="10dp"
-                        android:gravity="center">
+                        android:layout_height="match_parent"
+                        android:layout_weight="3.0"
+                        android:gravity="center"
+                        android:orientation="vertical">
 
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="50dp"
-                            android:src="@drawable/send_money" />
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:src="@drawable/send_money" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="Send Money"
+
+                            android:textColor="@color/black"
+                            android:textSize="10sp" />
                     </LinearLayout>
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center"
-                        android:text="Send Money"
-
-                        android:textColor="@color/black"
-                        android:textSize="10sp" />
-                </LinearLayout>
-
-                <LinearLayout
-                    android:id="@+id/btnStatement"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="3.0"
-                    android:gravity="center"
-                    android:orientation="vertical">
 
                     <LinearLayout
+                        android:id="@+id/btnStatement"
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginBottom="2dp"
-                        android:layout_marginTop="10dp"
-                        android:gravity="center">
+                        android:layout_height="match_parent"
+                        android:layout_weight="3.0"
+                        android:gravity="center"
+                        android:orientation="vertical">
 
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="50dp"
-                            android:src="@drawable/statement" />
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:src="@drawable/statement" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="Statement"
+
+                            android:textColor="@color/black"
+                            android:textSize="10sp" />
                     </LinearLayout>
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center"
-                        android:text="Statement"
-
-                        android:textColor="@color/black"
-                        android:textSize="10sp" />
                 </LinearLayout>
-            </LinearLayout>
+            </android.support.v7.widget.CardView>
         </LinearLayout>
     </FrameLayout>
 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:background="#fff"
+    android:orientation="horizontal">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardElevation="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="4dp">
+
+            <ImageView
+                android:id="@+id/adapterImageView"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:drawingCacheQuality="auto"
+                android:elevation="5dp"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/placeholder" />
+
+            <TextView
+                android:id="@+id/txtName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/adapterImageView"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10dp"
+                android:ellipsize="marquee"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="harman"
+                android:textColor="#000" />
+
+            <TextView
+                android:id="@+id/txt_offer_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtName"
+                android:layout_gravity="center_horizontal"
+                android:ellipsize="marquee"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:singleLine="true"
+                android:text="188"
+                android:textColor="#000" />
+
+            <TextView
+                android:id="@+id/txt_actual_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtName"
+                android:layout_gravity="center_horizontal"
+                android:layout_toRightOf="@+id/txt_offer_price"
+                android:ellipsize="marquee"
+                android:paddingLeft="10dp"
+                android:singleLine="true"
+                android:text="1882"
+                android:textColor="#919090" />
+
+            <TextView
+                android:id="@+id/txt_off_percent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtName"
+                android:layout_toRightOf="@+id/txt_actual_price"
+                android:ellipsize="marquee"
+                android:paddingLeft="10dp"
+                android:singleLine="true"
+                android:text="-18%"
+                android:textColor="#0dba36" />
+
+            <TextView
+                android:id="@+id/txt_tag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_offer_price"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/borderbg"
+                android:ellipsize="marquee"
+                android:padding="5dp"
+                android:singleLine="true"
+                android:text="+20% cashback"
+                android:textColor="#fff"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

@@ -9,6 +9,7 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
 
     <application
         android:allowBackup="true"
@@ -28,11 +29,20 @@
         </activity>
         <activity
             android:name=".admin.mainscreen"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".admin.ListOfBus" />
-        <activity android:name=".admin.AddBus" />
-        <activity android:name=".admin.DriverInformation" />
-        <activity android:name=".admin.AddStudent" />
+        <activity
+            android:name=".admin.ListOfBus"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.AddBus"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.DriverInformation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.AddStudent"
+            android:screenOrientation="portrait" />
         <!-- <USer></USer> -->
         <activity
             android:name=".parent.College_Id"
@@ -100,14 +110,16 @@
         <activity android:name=".admin.AdminBusTrack" />
         <activity
             android:name=".parent.PayFees"
-            android:label="Pay Fee">
+            android:label="Pay Fee"
+            android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".parent.Navdraw" />
         </activity>
         <activity
             android:name=".parent.setFeeLocation"
-            android:label="Location">
+            android:label="Location"
+            android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".parent.PayFees" />
@@ -115,22 +127,49 @@
         <activity
             android:name=".parent.setFee_Institute"
             android:label="Select Institute"
-            android:theme="@style/AppTheme.NoActionBar">
-
-        </activity>
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".parent.viewCollegeWebsite" />
         <activity
             android:name=".MyHeadActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".parent.DebitCard"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".parent.setSelectedItem"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".parent.PayFees" />
+        </activity>
+
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_z4xdl1gwlgFwll" />
+
+        <activity
+            android:name=".parent.fee_ShopActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".parent.Navdraw" />
+        </activity>
+        <activity
+            android:name=".parent.DisplayProduct"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".parent.fee_ShopActivity" />
+        </activity>
+        <activity
+            android:name=".parent.Product_Display_Pay"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+
         </activity>
     </application>
 
