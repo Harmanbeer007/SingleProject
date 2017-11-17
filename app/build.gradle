@@ -49,10 +49,12 @@ dependencies {
     compile 'com.razorpay:checkout:1.4.1'
     testCompile 'junit:junit:4.12'
     compile 'com.rengwuxian.materialedittext:library:2.1.4'
-    implementation  'me.relex:circleindicator:1.2.2@aar'
+    implementation 'me.relex:circleindicator:1.2.2@aar'
 
     compile 'io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.1.3'
 }
+
+
 
 
 

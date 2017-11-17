@@ -1,12 +1,11 @@
 package sandhu.harman.singleproject.parent;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.CardView;
-import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -19,9 +18,6 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
-import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.auth.FirebaseUser;
-import com.razorpay.Checkout;
 import com.razorpay.PaymentResultListener;
 
 import org.json.JSONArray;
@@ -35,8 +31,12 @@ import java.util.Map;
 
 import me.relex.circleindicator.CircleIndicator;
 import sandhu.harman.singleproject.R;
+import sandhu.harman.singleproject.cart.CartController;
+import sandhu.harman.singleproject.cart.CartDb;
+import sandhu.harman.singleproject.cart.CartHead;
+import sandhu.harman.singleproject.cart.myCart;
 
-public class Product_Display_Pay extends AppCompatActivity implements PaymentResultListener {
+public class Product_Display_Pay extends CartHead implements PaymentResultListener {
 
     public JSONObject resultObj;
     private ProgressBar progressBar;
@@ -44,13 +44,11 @@ public class Product_Display_Pay extends AppCompatActivity implements PaymentRes
     private TextView txtProductName, txtpoductPrice, txtpoductActualPrice, txtpoductPriceDiscount;
     private Button payProceedBtn;
     private ViewPager mPager;
-    private Toolbar toolbar;
-    private FirebaseAuth fire;
-    private FirebaseUser user;
     private LinearLayout payProductDiscLayout;
     private JSONObject objDisc;
     private JSONObject objDiscAttribute;
     private LinearLayout linearLayout;
+    private CartController ct;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,38 +59,30 @@ public class Product_Display_Pay extends AppCompatActivity implements PaymentRes
         txtProductName = (TextView) findViewById(R.id.txtProductName);
         txtpoductPrice = (TextView) findViewById(R.id.txtpoductPrice);
         payProceedBtn = (Button) findViewById(R.id.btn_PayForProduct);
-        findViewById(R.id.backButtonPayDisplay).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                onBackPressed();
-            }
-        });
-//        setSupportActionBar(toolbar);
-//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-//        getSupportActionBar().setDisplayShowHomeEnabled(true);
+        setHead();
+        setCartIcon();
+        // TODO: 14-11-2017 Cart Implementation
+        ct = (CartController) getApplicationContext();
 
         payProductDiscLayout = (LinearLayout) findViewById(R.id.payProductDisc);
-
         txtpoductActualPrice = (TextView) findViewById(R.id.txtpoductActualPrice);
         txtpoductPriceDiscount = (TextView) findViewById(R.id.txtpoductPriceDiscount);
         imageArray = new ArrayList();
         String url = getIntent().getStringExtra("productUrl");
-//        String url= i.getExtras().getString("");
         getProductDetails(url);
         payProceedBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                checkOut();
+                try {
+                    checkOut();
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
             }
         });
 
     }
 
-    //    @Override
-//    public boolean onSupportNavigateUp() {
-//        onBackPressed();
-//        return true;
-//    }
     private void getProductDetails(String url) {
         Map<String, String> params = new HashMap<String, String>();
         params.put("Content-Type", "application/json");
@@ -106,7 +96,7 @@ public class Product_Display_Pay extends AppCompatActivity implements PaymentRes
                 progressBar.setVisibility(View.GONE);
                 try {
                     resultObj = jsonObject;
-                    imageArray.add(jsonObject.getString("image_url"));
+                    imageArray.add(resultObj.getString("image_url"));
                     otherImageArray = jsonObject.getJSONArray("other_images");
                     for (int i = 0; i < otherImageArray.length(); i++) {
                         imageArray.add(otherImageArray.getString(i));
@@ -170,6 +160,7 @@ public class Product_Display_Pay extends AppCompatActivity implements PaymentRes
             if (objDisc.has("description")) {
                 String des = objDisc.getString("description").replaceAll("<Br>", "");
                 String des2 = des.replaceAll("<br>", "\r\t");
+
                 TextView textView1 = new TextView(Product_Display_Pay.this);
                 textView1.setText(des2);
                 textView.setPadding(5, 5, 5, 5);
@@ -189,40 +180,52 @@ public class Product_Display_Pay extends AppCompatActivity implements PaymentRes
         }
     }
 
-    private void checkOut() {
-        final Checkout co = new Checkout();
+    private void checkOut() throws JSONException {
 
-        try {
-            String description;
-            JSONObject options = new JSONObject();
-            options.put("name", resultObj.getString("name"));
-            description = resultObj.getString("name");
-            options.put("description", description);
-            //You can omit the image option to fetch the image from dashboard
-//            options.put("image", "https://firebasestorage.googleapis.com/v0/b/byefirebaseproject.appspot.com/o/logo_100.png?alt=media&token=ed4abfa5-e396-49e8-ae3c-9af24692e4c6");
-            options.put("image", resultObj.getString("thumbnail"));
-            options.put("currency", "INR");
-            options.put("amount", Double.valueOf(resultObj.getString("offer_price")) * 100);
-
-            JSONObject preFill = new JSONObject();
-            fire = FirebaseAuth.getInstance();
-            user = fire.getCurrentUser();
-            if (user != null) {
-                preFill.put("email", user.getEmail());
-                preFill.put("contact", user.getPhoneNumber());
-            } else {
-                preFill.put("email", "");
-                preFill.put("contact", "");
-            }
-            options.put("prefill", preFill);
-            co.open(Product_Display_Pay.this, options);
-
-
-        } catch (Exception e) {
-            Toast.makeText(Product_Display_Pay.this, "Error in payment: " + e.getMessage(), Toast.LENGTH_SHORT)
-                    .show();
-            e.printStackTrace();
+        CartDb cartDb = new CartDb(Product_Display_Pay.this);
+        if (cartDb.checkCart(resultObj.getString("name")) == 0) {
+            cartDb.addData(resultObj.getString("name"), "Description", resultObj.getDouble("offer_price"), resultObj.getString("actual_price"), resultObj.getString("image_url"), resultObj.getString("discount"));
+        } else {
+            int quantity = cartDb.checkCart(resultObj.getString("name"));
+            quantity++;
+            cartDb.updateData(resultObj.getString("name"), quantity);
+            Toast.makeText(Product_Display_Pay.this, "Product Already In Cart,New Order Quantity Updated to " + String.valueOf(quantity), Toast.LENGTH_SHORT).show();
         }
+        startActivity(new Intent(Product_Display_Pay.this, myCart.class));
+        // TODO: 15-11-2017 the commented part is to process cart payment .
+//        final Checkout co = new Checkout();
+
+//        try {
+//            String description;
+//            JSONObject options = new JSONObject();
+//            options.put("name", resultObj.getString("name"));
+//            description = resultObj.getString("name");
+//            options.put("description", description);
+//            //You can omit the image option to fetch the image from dashboard
+////            options.put("image", "https://firebasestorage.googleapis.com/v0/b/byefirebaseproject.appspot.com/o/logo_100.png?alt=media&token=ed4abfa5-e396-49e8-ae3c-9af24692e4c6");
+//            options.put("image", resultObj.getString("thumbnail"));
+//            options.put("currency", "INR");
+//            options.put("amount", Double.valueOf(resultObj.getString("offer_price")) * 100);
+//
+//            JSONObject preFill = new JSONObject();
+//            fire = FirebaseAuth.getInstance();
+//            user = fire.getCurrentUser();
+//            if (user != null) {
+//                preFill.put("email", user.getEmail());
+//                preFill.put("contact", user.getPhoneNumber());
+//            } else {
+//                preFill.put("email", "");
+//                preFill.put("contact", "");
+//            }
+//            options.put("prefill", preFill);
+//            co.open(Product_Display_Pay.this, options);
+//
+//
+//        } catch (Exception e) {
+//            Toast.makeText(Product_Display_Pay.this, "Error in payment: " + e.getMessage(), Toast.LENGTH_SHORT)
+//                    .show();
+//            e.printStackTrace();
+//        }
     }
 
 
@@ -266,4 +269,15 @@ public class Product_Display_Pay extends AppCompatActivity implements PaymentRes
         }
     }
 
+
+    @Override
+    public Double updateBill() {
+        return null;
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        setCartIcon();
+    }
 }

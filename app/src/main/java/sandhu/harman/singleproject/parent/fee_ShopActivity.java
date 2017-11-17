@@ -1,7 +1,6 @@
 package sandhu.harman.singleproject.parent;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
@@ -28,8 +27,9 @@ import java.util.Map;
 
 import io.github.luizgrp.sectionedrecyclerviewadapter.SectionedRecyclerViewAdapter;
 import sandhu.harman.singleproject.R;
+import sandhu.harman.singleproject.cart.CartHead;
 
-public class fee_ShopActivity extends AppCompatActivity {
+public class fee_ShopActivity extends CartHead {
 
     public JSONObject homepage_layoutObj;
     public JSONArray homepage_layout;
@@ -56,7 +56,9 @@ public class fee_ShopActivity extends AppCompatActivity {
         progressBar.setVisibility(View.VISIBLE);
         sectionAdapter = new SectionedRecyclerViewAdapter();
         sections = new LinkedHashMap<>();
+        setHead();
         getData();
+        setCartIcon();
 
     }
 
@@ -115,6 +117,17 @@ public class fee_ShopActivity extends AppCompatActivity {
         recyclerView3.setAdapter(sectionAdapter);
         progressBar.setVisibility(View.GONE);
 
+    }
+
+    @Override
+    public Double updateBill() {
+        return null;
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        setCartIcon();
     }
 }
 
