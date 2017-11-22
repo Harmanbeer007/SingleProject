@@ -8,6 +8,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.widget.CardView;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
@@ -49,6 +50,8 @@ public class Product_Display_Pay extends CartHead implements PaymentResultListen
     private JSONObject objDiscAttribute;
     private LinearLayout linearLayout;
     private CartController ct;
+    private TextView txtView;
+    private TextView itemCount;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -69,6 +72,9 @@ public class Product_Display_Pay extends CartHead implements PaymentResultListen
         txtpoductPriceDiscount = (TextView) findViewById(R.id.txtpoductPriceDiscount);
         imageArray = new ArrayList();
         String url = getIntent().getStringExtra("productUrl");
+        String productTitle = getIntent().getStringExtra("productBeingPayed");
+        txtView = (TextView) findViewById(R.id.titleCartHead);
+        txtView.setText(productTitle);
         getProductDetails(url);
         payProceedBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -119,6 +125,8 @@ public class Product_Display_Pay extends CartHead implements PaymentResultListen
 
     private void getProductDetail() throws JSONException {
         txtProductName.setText(resultObj.getString("name"));
+        txtView.setText(resultObj.getString("name"));
+
         txtpoductPrice.setText("₹ " + resultObj.getString("offer_price"));
         txtpoductActualPrice.setText("₹ " + resultObj.getString("actual_price"));
         txtpoductActualPrice.setPaintFlags(txtpoductActualPrice.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
@@ -142,30 +150,32 @@ public class Product_Display_Pay extends CartHead implements PaymentResultListen
             cardView.setLayoutParams(params);
             linearLayout = new LinearLayout(Product_Display_Pay.this);
 
+            if (objDisc.getString("title").contains("Return")) {
+                TextView textView = new TextView(Product_Display_Pay.this);
+                textView.setText(objDisc.getString("title").replaceAll("<Br>", ""));
 
-            TextView textView = new TextView(Product_Display_Pay.this);
-            textView.setText(objDisc.getString("title").replaceAll("<Br>", ""));
-            textView.setTextColor(Color.BLACK);
-            textView.setPadding(5, 5, 5, 5);
-            linearLayout.addView(textView);
+                textView.setTextColor(Color.BLACK);
+                textView.setPadding(5, 5, 5, 5);
+                linearLayout.addView(textView);
+
             objDiscAttribute = objDisc.getJSONObject("attributes");
-            if (objDiscAttribute.has("Warranty Summary")) {
-                String des = objDiscAttribute.getString("Warranty Summary").replaceAll("<Br>", "");
-                TextView textView1 = new TextView(Product_Display_Pay.this);
-                textView1.setText(des);
-                textView.setPadding(5, 5, 5, 5);
-                linearLayout.addView(textView1);
-            }
-
-            if (objDisc.has("description")) {
-                String des = objDisc.getString("description").replaceAll("<Br>", "");
-                String des2 = des.replaceAll("<br>", "\r\t");
-
-                TextView textView1 = new TextView(Product_Display_Pay.this);
-                textView1.setText(des2);
-                textView.setPadding(5, 5, 5, 5);
-                linearLayout.addView(textView1);
-            }
+//            if (objDiscAttribute.has("Warranty Summary")) {
+//                String des = objDiscAttribute.getString("Warranty Summary").replaceAll("<Br>", "");
+//                TextView textView1 = new TextView(Product_Display_Pay.this);
+//                textView1.setText(des);
+//                textView.setPadding(5, 5, 5, 5);
+//                linearLayout.addView(textView1);
+//            }
+//
+//            if (objDisc.has("description")) {
+//                String des = objDisc.getString("description").replaceAll("<Br>", "");
+//                String des2 = des.replaceAll("<br>", "\r\t");
+//
+//                TextView textView1 = new TextView(Product_Display_Pay.this);
+//                textView1.setText(des2);
+//                textView.setPadding(5, 5, 5, 5);
+//                linearLayout.addView(textView1);
+//            }
 
             if (objDiscAttribute.has("Return Policy")) {
                 String des = objDiscAttribute.getString("Return Policy").replaceAll("<br>", "");
@@ -177,6 +187,7 @@ public class Product_Display_Pay extends CartHead implements PaymentResultListen
             cardView.addView(linearLayout);
             payProductDiscLayout.addView(cardView);
 
+        }
         }
     }
 
@@ -279,5 +290,26 @@ public class Product_Display_Pay extends CartHead implements PaymentResultListen
     protected void onResume() {
         super.onResume();
         setCartIcon();
+    }
+
+    public void setCartIcon() {
+        CartDb cartDb = new CartDb(this);
+        int size = cartDb.fetchingData().size();
+        itemCount = (TextView) this.findViewById(R.id.itemsInCartCount);
+        try {
+            if (size > 0) {
+                ((ImageView) findViewById(R.id.cartIco)).setImageResource(R.drawable.cart_filled);
+
+                itemCount.setVisibility(View.VISIBLE);
+                itemCount.setText(String.valueOf(size));
+
+            } else {
+                itemCount.setVisibility(View.GONE);
+                ((ImageView) findViewById(R.id.cartIco)).setImageResource(R.drawable.cart_empty);
+            }
+
+        } catch (Exception e) {
+            Toast.makeText(this, e.toString(), Toast.LENGTH_SHORT).show();
+        }
     }
 }

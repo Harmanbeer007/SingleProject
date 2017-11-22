@@ -1,7 +1,10 @@
 package sandhu.harman.singleproject.parent;
 
+import android.app.ProgressDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -38,6 +41,7 @@ public class AdapterHandleIconView extends RecyclerView.Adapter<RecyclerView.Vie
     private JSONArray itemsArray;
     private ArrayList<ProductListGridModel> productItems;
     private JSONObject itemsArrayObj;
+    private ProgressDialog pd;
 
     public AdapterHandleIconView(Context context, ArrayList<CarouselModel> data) {
         this.context = context;
@@ -67,6 +71,10 @@ public class AdapterHandleIconView extends RecyclerView.Adapter<RecyclerView.Vie
             @Override
             public void onClick(View view) {
                 String url = data.get(position).getUrl();
+                pd = new ProgressDialog(context);
+                pd.setTitle("Please Wait");
+                pd.setMessage("Loading");
+                pd.show();
                 getIconsData(url);
             }
 
@@ -75,13 +83,21 @@ public class AdapterHandleIconView extends RecyclerView.Adapter<RecyclerView.Vie
                     @Override
                     public void onResponse(JSONObject jsonObject) {
                         setProductItems(jsonObject);
+                        pd.dismiss();
                     }
                 }, new Response.ErrorListener() {
                     @Override
                     public void onErrorResponse(VolleyError volleyError) {
 
                         if (volleyError instanceof TimeoutError) {
-                            getIconsData(url);
+                            if (volleyError instanceof TimeoutError) {
+                                new AlertDialog.Builder(context).setTitle("Connection Problem").setPositiveButton("Retry", new DialogInterface.OnClickListener() {
+                                    @Override
+                                    public void onClick(DialogInterface dialog, int which) {
+                                        getIconsData(url);
+                                    }
+                                }).show();
+                            }
                         }
                     }
                 });
@@ -97,6 +113,9 @@ public class AdapterHandleIconView extends RecyclerView.Adapter<RecyclerView.Vie
     private void setProductItems(JSONObject jsonObject) {
         String name = "";
         try {
+            if (jsonObject.has("name")) {
+                name = jsonObject.getString("name");
+            }
             itemsArray = jsonObject.getJSONArray("grid_layout");
             productItems = new ArrayList<>();
             for (int i = 0; i < itemsArray.length(); i++) {
@@ -128,7 +147,7 @@ public class AdapterHandleIconView extends RecyclerView.Adapter<RecyclerView.Vie
                 productItems.add(productListGridActivityModel);
 
             }
-            context.startActivity(new Intent(context, DisplayProduct.class).putExtra("dataProducts", productItems));
+            context.startActivity(new Intent(context, DisplayProduct.class).putExtra("dataProducts", productItems).putExtra("titlename", name));
 
 
         } catch (JSONException e) {

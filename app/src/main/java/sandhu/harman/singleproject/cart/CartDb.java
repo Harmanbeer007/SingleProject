@@ -7,6 +7,7 @@ import android.database.CursorIndexOutOfBoundsException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -29,6 +30,7 @@ public class CartDb extends SQLiteOpenHelper {
     private static final String PRODUCT_QUANTITY = "C_PRODUCT_QUANTITY";
     Context context;
     private List<ModelProducts> list;
+    private LinkedHashMap<String, String> allproductNameInCart;
 
 
     public CartDb(Context context) {
@@ -55,6 +57,49 @@ public class CartDb extends SQLiteOpenHelper {
         onCreate(db);
     }
 
+    public LinkedHashMap<String, String> getAllProductsName() {
+        allproductNameInCart = new LinkedHashMap<>();
+        SQLiteDatabase db = this.getReadableDatabase();
+        Cursor cursor = db.rawQuery("SELECT " + PRODUCT_NAME + " FROM   " + TB_NAME, null);
+        try {
+            if (cursor.moveToFirst()) {
+                int i = 0;
+                while (!cursor.isAfterLast()) {
+                    String name = cursor.getString(cursor.getColumnIndex(PRODUCT_NAME));
+                    allproductNameInCart.put("Product" + String.valueOf(i), name);
+                    cursor.moveToNext();
+                    i++;
+                }
+            } else {
+
+            }
+        } catch (CursorIndexOutOfBoundsException e) {
+        }
+        db.close();
+        return allproductNameInCart;
+    }
+
+    public LinkedHashMap<String, String> getAllProductsPrices() {
+        allproductNameInCart = new LinkedHashMap<>();
+        SQLiteDatabase db = this.getReadableDatabase();
+        Cursor cursor = db.rawQuery("SELECT " + PRODUCT_PRICE + " FROM   " + TB_NAME, null);
+        try {
+            if (cursor.moveToFirst()) {
+                int i = 0;
+                while (!cursor.isAfterLast()) {
+                    String price = cursor.getString(cursor.getColumnIndex(PRODUCT_PRICE));
+                    allproductNameInCart.put("Product" + String.valueOf(i), price);
+                    cursor.moveToNext();
+                    i++;
+                }
+            } else {
+
+            }
+        } catch (CursorIndexOutOfBoundsException e) {
+        }
+        db.close();
+        return allproductNameInCart;
+    }
     public void addData(String pname, String pdisc, Double pprice, String pactualprice, String url, String off) {
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues cnt = new ContentValues();

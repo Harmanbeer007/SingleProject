@@ -22,8 +22,9 @@
 
             <ImageView
                 android:id="@+id/adapterImageView"
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
                 android:drawingCacheQuality="auto"
                 android:padding="5dp"
                 android:scaleType="fitCenter"

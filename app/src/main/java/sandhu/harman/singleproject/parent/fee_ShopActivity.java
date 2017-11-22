@@ -4,7 +4,9 @@ import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.ProgressBar;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.volley.NetworkError;
@@ -27,6 +29,7 @@ import java.util.Map;
 
 import io.github.luizgrp.sectionedrecyclerviewadapter.SectionedRecyclerViewAdapter;
 import sandhu.harman.singleproject.R;
+import sandhu.harman.singleproject.cart.CartDb;
 import sandhu.harman.singleproject.cart.CartHead;
 
 public class fee_ShopActivity extends CartHead {
@@ -46,6 +49,7 @@ public class fee_ShopActivity extends CartHead {
     private SectionAdapterRecycler data1Section;
     private HashMap<String, JSONObject> sections;
     private SectionedRecyclerViewAdapter sectionAdapter;
+    private TextView itemCount;
 
 
     @Override
@@ -59,7 +63,7 @@ public class fee_ShopActivity extends CartHead {
         setHead();
         getData();
         setCartIcon();
-
+        setTitle("Stationary");
     }
 
     private void getData() {
@@ -128,6 +132,30 @@ public class fee_ShopActivity extends CartHead {
     protected void onResume() {
         super.onResume();
         setCartIcon();
+        TextView txtView = (TextView) this.findViewById(R.id.titleCartHead);
+        txtView.setText("Stationary");
+
+    }
+
+    public void setCartIcon() {
+        CartDb cartDb = new CartDb(this);
+        int size = cartDb.fetchingData().size();
+        itemCount = (TextView) this.findViewById(R.id.itemsInCartCount);
+        try {
+            if (size > 0) {
+                ((ImageView) findViewById(R.id.cartIco)).setImageResource(R.drawable.cart_filled);
+
+                itemCount.setVisibility(View.VISIBLE);
+                itemCount.setText(String.valueOf(size));
+
+            } else {
+                itemCount.setVisibility(View.GONE);
+                ((ImageView) findViewById(R.id.cartIco)).setImageResource(R.drawable.cart_empty);
+            }
+
+        } catch (Exception e) {
+            Toast.makeText(this, e.toString(), Toast.LENGTH_SHORT).show();
+        }
     }
 }
 

@@ -46,8 +46,7 @@ public class AdapterHandleProducts extends RecyclerView.Adapter<RecyclerView.Vie
         ((HandleProducts) holder).name.setText(data.get(position).getName());
         ((HandleProducts) holder).price.setText("₹ " + data.get(position).getPrice());
         ((HandleProducts) holder).actual_price.setText(data.get(position).getActual_price());
-        ((HandleProducts) holder).actual_price.setPaintFlags(Paint.STRIKE_THRU_TEXT_FLAG);
-        ((HandleProducts) holder).actual_price.setPaintFlags(Paint.ANTI_ALIAS_FLAG);
+        ((HandleProducts) holder).actual_price.setPaintFlags(Paint.STRIKE_THRU_TEXT_FLAG | Paint.ANTI_ALIAS_FLAG);
         if (data.get(position).getOffPercent().contains("null")) {
             ((HandleProducts) holder).off_percent.setVisibility(View.GONE);
         }
@@ -66,7 +65,7 @@ public class AdapterHandleProducts extends RecyclerView.Adapter<RecyclerView.Vie
             @Override
             public void onClick(View view) {
                 String url = data.get(position).getProductUrl();
-                context.startActivity(new Intent(context, Product_Display_Pay.class).putExtra("productUrl", url));
+                context.startActivity(new Intent(context, Product_Display_Pay.class).putExtra("productUrl", url).putExtra("productBeingPayed", data.get(position).getName()));
             }
         });
     }

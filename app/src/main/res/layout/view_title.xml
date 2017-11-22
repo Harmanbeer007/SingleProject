@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:layout_toLeftOf="@+id/labelTextMore"
-        android:text="Harman"
+        android:gravity="center"
         android:textColor="#000" />
 
     <TextView

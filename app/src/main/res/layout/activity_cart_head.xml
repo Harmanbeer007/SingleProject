@@ -8,6 +8,7 @@
     tools:context="sandhu.harman.singleproject.cart.CartHead">
 
     <FrameLayout
+        android:id="@+id/frameLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
@@ -27,22 +28,63 @@
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:padding="10dp"
-                android:src="@drawable/arrow"
+                android:src="@drawable/back"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/titleCartHead"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:maxLines="1"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/backButtonPayDisplay"
                 app:layout_constraintTop_toTopOf="parent" />
 
             <ImageView
                 android:id="@+id/cartIco"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-
                 android:layout_marginBottom="8dp"
                 android:layout_marginTop="8dp"
-                android:src="@drawable/cart_empty"
+                android:src="@drawable/cart_filled"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/itemsInCartCount"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginEnd="7dp"
+
+                android:layout_marginStart="9dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/circle_cart_item_count"
+                android:gravity="center"
+                android:text="0"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="@color/white"
+                android:textSize="10sp"
+                app:layout_constraintBottom_toBottomOf="@+id/cartIco"
+                app:layout_constraintEnd_toEndOf="@+id/cartIco"
+                app:layout_constraintStart_toStartOf="@+id/cartIco"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+
         </android.support.constraint.ConstraintLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        app:layout_constraintBottom_toTopOf="@+id/frameLayout">
+
     </FrameLayout>
 </android.support.constraint.ConstraintLayout>
