@@ -1,0 +1,3532 @@
+{
+  "InstituteList": [
+    {
+      "name": "ABES Engineering College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128239830?group1=location&group2=course",
+      "id": 128239830,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494997553477.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494997540493.png"
+    },
+    {
+      "name": "AIMS Institutes",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96589693?group1=location&group2=course",
+      "id": 96589693,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491221361227.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491221342742.png"
+    },
+    {
+      "name": "AKS University Satna",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89244078?group1=location&group2=course",
+      "id": 89244078,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487871543630.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483616231535.png"
+    },
+    {
+      "name": "ALLEN Career Institute",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88181080?group1=location&group2=course",
+      "id": 88181080,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491568051216.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491568078568.png"
+    },
+    {
+      "name": "ASMA Institute of Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116283334?group1=location&group2=course",
+      "id": 116283334,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494592690194.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494592670284.png"
+    },
+    {
+      "name": "Aadhunik Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/137911865?group1=location&group2=course",
+      "id": 137911865,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1505719126029.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1505719113984.jpg"
+    },
+    {
+      "name": "Aakash Institute",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/107522676?group1=location&group2=course",
+      "id": 107522676,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486442762033.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486105244731.jpg"
+    },
+    {
+      "name": "Abhinav Bharati High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115431841?group1=location&group2=course",
+      "id": 115431841,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494320197213.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494320186714.png"
+    },
+    {
+      "name": "Abhinav Education Society's English Medium School and Junior College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/130897013?group1=location&group2=course",
+      "id": 130897013,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1501763054362.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1501763036759.jpg"
+    },
+    {
+      "name": "Abhinav Global School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/127885606?group1=location&group2=course",
+      "id": 127885606,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499689671263.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499689644967.jpg"
+    },
+    {
+      "name": "Academic Heights Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/127996789?group1=location&group2=course",
+      "id": 127996789,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498026563148.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498026547730.jpg"
+    },
+    {
+      "name": "Accurate Institute of Management And Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/49441725?group1=location&group2=course",
+      "id": 49441725,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488940897865.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488940912744.jpg"
+    },
+    {
+      "name": "Acharya Narendra Dev College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/74784907?group1=location&group2=course",
+      "id": 74784907,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489054724096.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489054709388.jpg"
+    },
+    {
+      "name": "Adani Institute of Infrastructure",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108446681?group1=location&group2=course",
+      "id": 108446681,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491301876730.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491301864861.png"
+    },
+    {
+      "name": "Aditya Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129448930?group1=location&group2=course",
+      "id": 129448930,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1501235929764.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1501235914576.jpg"
+    },
+    {
+      "name": "Aditya Institute Of Management Studies and Research",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/53373915?group1=location&group2=course",
+      "id": 53373915,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489054801673.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489054785910.jpg"
+    },
+    {
+      "name": "Advanced Barclay School Of Hotel Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/120921603?group1=location&group2=course",
+      "id": 120921603,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496120069956.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496120054199.png"
+    },
+    {
+      "name": "Ahlcon Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108245837?group1=location&group2=course",
+      "id": 108245837,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491219280770.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491219232554.png"
+    },
+    {
+      "name": "Ahmedabad Public School International",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/105246071?group1=location&group2=course",
+      "id": 105246071,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490258616015.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490258605447.png"
+    },
+    {
+      "name": "Ajitdada Pawar College of Education",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111732618?group1=location&group2=course",
+      "id": 111732618,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492753074320.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492753056406.png"
+    },
+    {
+      "name": "Al Burooj International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/143486104?group1=location&group2=course",
+      "id": 143486104,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1508233517947.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1508233507382.png"
+    },
+    {
+      "name": "Alard Group of Institutes",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/95857176?group1=location&group2=course",
+      "id": 95857176,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498194070792.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487857171349.png"
+    },
+    {
+      "name": "Aligarh College of Engineering and Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/120831404?group1=location&group2=course",
+      "id": 120831404,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496057100855.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496057080693.png"
+    },
+    {
+      "name": "Ambition Institute Of Higher Education (AIHE)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108512198?group1=location&group2=course",
+      "id": 108512198,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491371469667.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491371440499.png"
+    },
+    {
+      "name": "Amity University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115221489?group1=location&group2=course",
+      "id": 115221489,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494233760893.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494233749916.png"
+    },
+    {
+      "name": "Anand Niketan",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88157932?group1=location&group2=course",
+      "id": 88157932,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492417246823.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492419587273.png"
+    },
+    {
+      "name": "Anmol College of Plus 2 Science & Commerce",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108588653?group1=location&group2=course",
+      "id": 108588653,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491386100139.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491385996720.png"
+    },
+    {
+      "name": "Apeejay Group of Colleges",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129264983?group1=location&group2=course",
+      "id": 129264983,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499411392856.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499411381517.jpg"
+    },
+    {
+      "name": "Apeejay Group of Schools",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/127416497?group1=location&group2=course",
+      "id": 127416497,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499339347519.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499339335574.jpg"
+    },
+    {
+      "name": "Aptech Learning",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111732567?group1=location&group2=course",
+      "id": 111732567,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492749880998.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492749862336.png"
+    },
+    {
+      "name": "Arena Animation",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111734709?group1=location&group2=course",
+      "id": 111734709,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492753413732.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492753389301.png"
+    },
+    {
+      "name": "Arwachin Bharti Bhawan Nursery School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126839041?group1=location&group2=course",
+      "id": 126839041,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496405686287.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496405652840.png"
+    },
+    {
+      "name": "Arwachin Bharti Bhawan Sr Sec School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126839047?group1=location&group2=course",
+      "id": 126839047,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495102118876.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495102104500.png"
+    },
+    {
+      "name": "Arwachin International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/90322505?group1=location&group2=course",
+      "id": 90322505,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489054937800.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489054920820.jpg"
+    },
+    {
+      "name": "Arwachin Shiksha Samiti",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/90322504?group1=location&group2=course",
+      "id": 90322504,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490442172982.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490442154312.png"
+    },
+    {
+      "name": "Aryabhatta College of Engineering And Research Center",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/83556616?group1=location&group2=course",
+      "id": 83556616,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490006684266.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490006670957.png"
+    },
+    {
+      "name": "Aryabhatta Knowledge University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/143896438?group1=location&group2=course",
+      "id": 143896438,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1508923333512.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1508923315931.jpg"
+    },
+    {
+      "name": "Aryans Group of Colleges",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/113454649?group1=location&group2=course",
+      "id": 113454649,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493183321634.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493183311779.png"
+    },
+    {
+      "name": "Asha Jyoti Vidyapeeth",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/85060636?group1=location&group2=course",
+      "id": 85060636,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489055104964.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489055086824.jpg"
+    },
+    {
+      "name": "Assam Down Town University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115728696?group1=location&group2=course",
+      "id": 115728696,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494482365897.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494482352270.png"
+    },
+    {
+      "name": "Assam Institute Of Hotel Management (AIHM)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111425743?group1=location&group2=course",
+      "id": 111425743,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492749617384.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492749601982.png"
+    },
+    {
+      "name": "BK Education",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110712192?group1=location&group2=course",
+      "id": 110712192,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492493705929.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492493696923.png"
+    },
+    {
+      "name": "BLDE University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114669350?group1=location&group2=course",
+      "id": 114669350,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493725877991.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493725866958.png"
+    },
+    {
+      "name": "BMS Centre for Executive Education",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111562364?group1=location&group2=course",
+      "id": 111562364,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492676339874.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492676323439.png"
+    },
+    {
+      "name": "BNN College Bhiwandi",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/120520469?group1=location&group2=course",
+      "id": 120520469,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496035221415.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496035203136.png"
+    },
+    {
+      "name": "Bachpan A Play School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/122970021?group1=location&group2=course",
+      "id": 122970021,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489058836148.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489058820584.jpg"
+    },
+    {
+      "name": "Barasat Indira Gandhi Memorial High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88161937?group1=location&group2=course",
+      "id": 88161937,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428676836.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495428663625.png"
+    },
+    {
+      "name": "Basava International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/56715369?group1=location&group2=course",
+      "id": 56715369,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489059310388.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489059294920.jpg"
+    },
+    {
+      "name": "Base Education",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/134805099?group1=location&group2=course",
+      "id": 134805099,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1504513112188.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1504513100625.jpg"
+    },
+    {
+      "name": "Bengal Institute of Business Studies",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/121913712?group1=location&group2=course",
+      "id": 121913712,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496643172076.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496643117042.png"
+    },
+    {
+      "name": "Bharti Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/56997544?group1=location&group2=course",
+      "id": 56997544,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489059495549.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489059480413.jpg"
+    },
+    {
+      "name": "Bhaskaracharya College of Applied Sciences",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/72033773?group1=location&group2=course",
+      "id": 72033773,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489059597468.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489059551678.jpg"
+    },
+    {
+      "name": "Bheeram Sreedhar Reddy English Medium School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114858811?group1=location&group2=course",
+      "id": 114858811,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493892056370.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493892028676.png"
+    },
+    {
+      "name": "Bhoj Mahavidhyalay Bhopal",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114767372?group1=location&group2=course",
+      "id": 114767372,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493816644787.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493816632451.png"
+    },
+    {
+      "name": "Biju Patnaik Institute of Information Technology and Management Studies (BIITM)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/132957418?group1=location&group2=course",
+      "id": 132957418,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503318542113.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503318530377.png"
+    },
+    {
+      "name": "Birla Bharati",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/107781922?group1=location&group2=course",
+      "id": 107781922,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490876449384.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490876435951.png"
+    },
+    {
+      "name": "Biyani Group of Colleges Jaipur",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/95829116?group1=location&group2=course",
+      "id": 95829116,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496466807457.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487865038066.jpg"
+    },
+    {
+      "name": "Blue Bird School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/72738734?group1=location&group2=course",
+      "id": 72738734,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487861557438.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1474975097519.png"
+    },
+    {
+      "name": "Blue Max Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/142704321?group1=location&group2=course",
+      "id": 142704321,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1505906770404.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1505906760391.jpg"
+    },
+    {
+      "name": "Braincore Educampus",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/136041175?group1=location&group2=course",
+      "id": 136041175,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1505201211994.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1505201200027.jpg"
+    },
+    {
+      "name": "Brainware Computer Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/102398890?group1=location&group2=course",
+      "id": 102398890,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489141861109.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489141826646.png"
+    },
+    {
+      "name": "Brainware Group Of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/132111622?group1=location&group2=course",
+      "id": 132111622,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1502700085458.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1502700072506.jpg"
+    },
+    {
+      "name": "Brainware University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/133264628?group1=location&group2=course",
+      "id": 133264628,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503471045494.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503471037053.jpg"
+    },
+    {
+      "name": "Bright Day School CBSE-Harni",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89977188?group1=location&group2=course",
+      "id": 89977188,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486442864121.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486105309549.jpg"
+    },
+    {
+      "name": "Bright Day School CBSE-Vasna",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/28297889?group1=location&group2=course",
+      "id": 28297889,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486442884955.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486105438424.jpg"
+    },
+    {
+      "name": "Bright Day School Non Granted English Medium",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/28297890?group1=location&group2=course",
+      "id": 28297890,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486442906096.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486105631486.jpg"
+    },
+    {
+      "name": "Bright School English Medium Amit Complex",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89980574?group1=location&group2=course",
+      "id": 89980574,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486442926839.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486105407942.jpg"
+    },
+    {
+      "name": "Bubble Blue",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/50584114?group1=location&group2=course",
+      "id": 50584114,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489059769333.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489059740172.jpg"
+    },
+    {
+      "name": "CIMAGE Group Of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/121709366?group1=location&group2=course",
+      "id": 121709366,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496305422475.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496305407186.png"
+    },
+    {
+      "name": "CMR Institute of Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/113028800?group1=location&group2=course",
+      "id": 113028800,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493032853548.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493032836936.png"
+    },
+    {
+      "name": "CMR National Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44635251?group1=location&group2=course",
+      "id": 44635251,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491208139016.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491208125513.png"
+    },
+    {
+      "name": "CMR University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128650798?group1=location&group2=course",
+      "id": 128650798,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500382996405.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500382984448.jpg"
+    },
+    {
+      "name": "Cambridge Grammar High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111341446?group1=location&group2=course",
+      "id": 111341446,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492602151019.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492602140179.png"
+    },
+    {
+      "name": "Cambridge Primary School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57658208?group1=location&group2=course",
+      "id": 57658208,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490442452500.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1467801309232.png"
+    },
+    {
+      "name": "Cambridge School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129454949?group1=location&group2=course",
+      "id": 129454949,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1501236802617.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1501236794186.jpg"
+    },
+    {
+      "name": "Candor International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/95858587?group1=location&group2=course",
+      "id": 95858587,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491221412466.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491221401271.png"
+    },
+    {
+      "name": "Career College Bhopal",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/124630727?group1=location&group2=course",
+      "id": 124630727,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491224534209.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491224522052.png"
+    },
+    {
+      "name": "Career College of Law, Bhopal",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/124630927?group1=location&group2=course",
+      "id": 124630927,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491368275416.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491368262806.png"
+    },
+    {
+      "name": "Career College of Nursing",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128492872?group1=location&group2=course",
+      "id": 128492872,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500291823405.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500291810422.jpg"
+    },
+    {
+      "name": "Career Launcher (CL)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/18397955?group1=location&group2=course",
+      "id": 18397955,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489059851721.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489059826181.jpg"
+    },
+    {
+      "name": "Central Academy Jodhpur Education Society",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/62420493?group1=location&group2=course",
+      "id": 62420493,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496553728203.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1470647206242.png"
+    },
+    {
+      "name": "Central University of Haryana",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128367069?group1=location&group2=course",
+      "id": 128367069,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499252696830.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499252686564.jpg"
+    },
+    {
+      "name": "Chandragupt Institute of Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129196479?group1=location&group2=course",
+      "id": 129196479,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500978816022.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500978802358.jpg"
+    },
+    {
+      "name": "Chiragh Grammar School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/92688934?group1=location&group2=course",
+      "id": 92688934,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487861637610.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1485238365581.png"
+    },
+    {
+      "name": "Christ Memorial School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110122750?group1=location&group2=course",
+      "id": 110122750,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492000041798.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492000033532.png"
+    },
+    {
+      "name": "City International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128731556?group1=location&group2=course",
+      "id": 128731556,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500467887859.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500467878074.png"
+    },
+    {
+      "name": "City International School Kothrud",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/133414193?group1=location&group2=course",
+      "id": 133414193,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503721809759.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503721795015.jpg"
+    },
+    {
+      "name": "Credo World School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/127397711?group1=location&group2=course",
+      "id": 127397711,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487868698398.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487865113369.jpg"
+    },
+    {
+      "name": "Cubeheap Technologies",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/139127758?group1=location&group2=course",
+      "id": 139127758,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1506506476123.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1506506457495.jpg"
+    },
+    {
+      "name": "D C Montessori Senior Secondary School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/142525073?group1=location&group2=course",
+      "id": 142525073,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1507632054158.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1507632023896.jpg"
+    },
+    {
+      "name": "D Y Patil University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/127424029?group1=location&group2=course",
+      "id": 127424029,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499341107932.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499341097389.jpg"
+    },
+    {
+      "name": "DAV Society",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88530427?group1=location&group2=course",
+      "id": 88530427,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496466964042.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496466979122.png"
+    },
+    {
+      "name": "DIPS Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88951983?group1=location&group2=course",
+      "id": 88951983,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495431470992.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483441231512.png"
+    },
+    {
+      "name": "DIS Junior Rohini",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/141646824?group1=location&group2=course",
+      "id": 141646824,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1507102536033.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1507102522251.jpg"
+    },
+    {
+      "name": "Dayawati Modi Academy ",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108631594?group1=location&group2=course",
+      "id": 108631594,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489060418541.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489060399654.jpg"
+    },
+    {
+      "name": "Dayawati Modi International",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/91197003?group1=location&group2=course",
+      "id": 91197003,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495688943606.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495688931977.png"
+    },
+    {
+      "name": "Delhi International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/58069466?group1=location&group2=course",
+      "id": 58069466,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490071849796.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490071768854.jpg"
+    },
+    {
+      "name": "Delhi International School Edge",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/109900876?group1=location&group2=course",
+      "id": 109900876,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490071823383.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489060463952.jpg"
+    },
+    {
+      "name": "Delhi Public School (DPS), Bhilwara",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/142312131?group1=location&group2=course",
+      "id": 142312131,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1507110079098.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1507110037019.jpg"
+    },
+    {
+      "name": "Delhi Public School (DPS), Jhansi",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/143764341?group1=location&group2=course",
+      "id": 143764341,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1508824735843.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1508824713088.jpg"
+    },
+    {
+      "name": "Delhi Public School Agra",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/47939218?group1=location&group2=course",
+      "id": 47939218,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386231695.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385956662.jpg"
+    },
+    {
+      "name": "Delhi Public School Coimbatore",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57054959?group1=location&group2=course",
+      "id": 57054959,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486385871224.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385882858.jpg"
+    },
+    {
+      "name": "Delhi Public School Guwahati",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/117482567?group1=location&group2=course",
+      "id": 117482567,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490935881020.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490935868225.png"
+    },
+    {
+      "name": "Delhi Public School HRIT Campus",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115470360?group1=location&group2=course",
+      "id": 115470360,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494393059714.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494393044806.png"
+    },
+    {
+      "name": "Delhi Public School Khanapara",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88700207?group1=location&group2=course",
+      "id": 88700207,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386127293.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386106695.jpg"
+    },
+    {
+      "name": "Delhi Public School Lava, Nagpur",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114484109?group1=location&group2=course",
+      "id": 114484109,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493641473266.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493641461452.png"
+    },
+    {
+      "name": "Delhi Public School Ludhiana",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/21576320?group1=location&group2=course",
+      "id": 21576320,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386258176.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385932726.jpg"
+    },
+    {
+      "name": "Delhi Public School Megacity",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88174652?group1=location&group2=course",
+      "id": 88174652,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486387406245.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486387418295.jpg"
+    },
+    {
+      "name": "Delhi Public School Nashik",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/51295571?group1=location&group2=course",
+      "id": 51295571,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386176138.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386012257.jpg"
+    },
+    {
+      "name": "Delhi Public School North Kolkata",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110100485?group1=location&group2=course",
+      "id": 110100485,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491988093182.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491988081073.png"
+    },
+    {
+      "name": "Delhi Public School North Kolkata (Kids Section)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/113572907?group1=location&group2=course",
+      "id": 113572907,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493217350489.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493217333355.png"
+    },
+    {
+      "name": "Delhi Public School Panvel",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114759065?group1=location&group2=course",
+      "id": 114759065,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386138149.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386061080.jpg"
+    },
+    {
+      "name": "Delhi Public School Patna",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/21576318?group1=location&group2=course",
+      "id": 21576318,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386281180.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385904523.jpg"
+    },
+    {
+      "name": "Delhi Public School Pune",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/52970398?group1=location&group2=course",
+      "id": 52970398,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386268341.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385915837.jpg"
+    },
+    {
+      "name": "Delhi Public School Raj Nagar",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/47939290?group1=location&group2=course",
+      "id": 47939290,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386214338.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385968427.jpg"
+    },
+    {
+      "name": "Delhi Public School Society",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96641212?group1=location&group2=course",
+      "id": 96641212,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386243481.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385943384.jpg"
+    },
+    {
+      "name": "Delhi Public School Varanasi",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/51217216?group1=location&group2=course",
+      "id": 51217216,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386185415.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386000622.jpg"
+    },
+    {
+      "name": "Delhi Public School, Durgapur",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/56598276?group1=location&group2=course",
+      "id": 56598276,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386161652.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386025674.jpg"
+    },
+    {
+      "name": "Delhi Public School, Howrah",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88164271?group1=location&group2=course",
+      "id": 88164271,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486387377860.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486387358472.jpg"
+    },
+    {
+      "name": "Delhi Public School, Ruby Park",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/56684155?group1=location&group2=course",
+      "id": 56684155,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386150038.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386038550.jpg"
+    },
+    {
+      "name": "Delhi University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/63283334?group1=location&group2=course",
+      "id": 63283334,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490426053295.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490426047281.png"
+    },
+    {
+      "name": "Department of Higher Education Haryana",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/122063774?group1=location&group2=course",
+      "id": 122063774,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496729944544.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496729930239.png"
+    },
+    {
+      "name": "Dev Bhoomi Group Of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128921793?group1=location&group2=course",
+      "id": 128921793,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500461472772.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500461462913.png"
+    },
+    {
+      "name": "Deva Matha Central School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/47690752?group1=location&group2=course",
+      "id": 47690752,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491221537760.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491221509257.png"
+    },
+    {
+      "name": "Dhaneswar Rath Institute of Engineering and Medical Sciences (DRIEMS)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/99479926?group1=location&group2=course",
+      "id": 99479926,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495431514528.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495431507515.png"
+    },
+    {
+      "name": "Dhirubhai Ambani Institute of Information & Communication Technology (DAIICT)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/33608851?group1=location&group2=course",
+      "id": 33608851,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487861986849.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Dhirubhai%20Ambani%20Institute%20of%20Information%20And%20Communication%20Technology%20(DA-IICT).png"
+    },
+    {
+      "name": "Discover Oaks School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115259765?group1=location&group2=course",
+      "id": 115259765,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496991268644.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487865180066.jpg"
+    },
+    {
+      "name": "Divine Happy School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/52525881?group1=location&group2=course",
+      "id": 52525881,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489060556928.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489060540843.jpg"
+    },
+    {
+      "name": "Dr. K N Modi University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/17866996?group1=location&group2=course",
+      "id": 17866996,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490071699233.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490071679855.jpg"
+    },
+    {
+      "name": "EKYA  Early Years - Kanakapura Road",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44635521?group1=location&group2=course",
+      "id": 44635521,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/Ekaya%20Early%20Years%20-%20Kanakapura%20Road.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Ekaya%20Early%20Years%20-%20Kanakapura%20Road.png"
+    },
+    {
+      "name": "EKYA Early Years, ITPL",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/45564570?group1=location&group2=course",
+      "id": 45564570,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486385630381.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385542088.jpg"
+    },
+    {
+      "name": "EKYA Early Years-J.P. Nagar",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/45601265?group1=location&group2=course",
+      "id": 45601265,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486385604813.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385572109.jpg"
+    },
+    {
+      "name": "EKYA School - Kanakapura Road",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/45564623?group1=location&group2=course",
+      "id": 45564623,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486385618251.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385555694.jpg"
+    },
+    {
+      "name": "EKYA School, ITPL",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44637082?group1=location&group2=course",
+      "id": 44637082,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486385643599.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385531681.jpg"
+    },
+    {
+      "name": "EKYA School, J P Nagar",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44635771?group1=location&group2=course",
+      "id": 44635771,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486385655564.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385513540.jpg"
+    },
+    {
+      "name": "Eager Beavers",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/73552286?group1=location&group2=course",
+      "id": 73552286,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489060639511.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489060625005.jpg"
+    },
+    {
+      "name": "Ekya Early Years, BTM Layout",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96960227?group1=location&group2=course",
+      "id": 96960227,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490412518895.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487865256484.jpg"
+    },
+    {
+      "name": "Ekya School, BTM Layout",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96850820?group1=location&group2=course",
+      "id": 96850820,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487172222815.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487172211072.jpg"
+    },
+    {
+      "name": "Engineering College Tuwa",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123091338?group1=location&group2=course",
+      "id": 123091338,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497003463156.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497003450324.jpg"
+    },
+    {
+      "name": "Erudite",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126314594?group1=location&group2=course",
+      "id": 126314594,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498560603481.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498560591953.jpg"
+    },
+    {
+      "name": "Euro International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108549182?group1=location&group2=course",
+      "id": 108549182,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492417427995.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492419611002.png"
+    },
+    {
+      "name": "Fountainhead School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/134594333?group1=location&group2=course",
+      "id": 134594333,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1504266902635.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1504266877342.jpg"
+    },
+    {
+      "name": "Future Campus School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108456904?group1=location&group2=course",
+      "id": 108456904,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428601283.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495428587173.png"
+    },
+    {
+      "name": "Future Institute of Engineering and Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/53937621?group1=location&group2=course",
+      "id": 53937621,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488778365708.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488778322859.jpg"
+    },
+    {
+      "name": "Future Institute of Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/53937813?group1=location&group2=course",
+      "id": 53937813,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488778425681.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488778411392.jpg"
+    },
+    {
+      "name": "G H Raisoni Academy of Engineering & Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/70605687?group1=location&group2=course",
+      "id": 70605687,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465786249.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487865497829.jpg"
+    },
+    {
+      "name": "G H Raisoni College of Commerce Science & Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/70605690?group1=location&group2=course",
+      "id": 70605690,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465817560.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1473665730810.png"
+    },
+    {
+      "name": "G H Raisoni College of Engineering",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/70605688?group1=location&group2=course",
+      "id": 70605688,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465643060.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1473660980853.png"
+    },
+    {
+      "name": "G H Raisoni College of Engineering & Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/67896402?group1=location&group2=course",
+      "id": 67896402,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465416746.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489465260405.jpg"
+    },
+    {
+      "name": "G H Raisoni Engineering & Management-Polytechnic",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/68152054?group1=location&group2=course",
+      "id": 68152054,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465591265.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489465353682.jpg"
+    },
+    {
+      "name": "G H Raisoni Institute of Business Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/67897152?group1=location&group2=course",
+      "id": 67897152,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465453941.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489465284188.jpg"
+    },
+    {
+      "name": "G H Raisoni Institute of Engineering & Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/67897154?group1=location&group2=course",
+      "id": 67897154,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465503809.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489465482973.jpg"
+    },
+    {
+      "name": "G H Raisoni Institute of Engineering & Technology For Women",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/70605689?group1=location&group2=course",
+      "id": 70605689,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465655806.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1473660899932.png"
+    },
+    {
+      "name": "G H Raisoni Institute of Information Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/70605686?group1=location&group2=course",
+      "id": 70605686,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465670059.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1473660954973.png"
+    },
+    {
+      "name": "G H Raisoni Institute of Management & Research",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/67896386?group1=location&group2=course",
+      "id": 67896386,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465401225.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489465242820.jpg"
+    },
+    {
+      "name": "G H Raisoni Institute of Management Studies",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/68056205?group1=location&group2=course",
+      "id": 68056205,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465548177.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489465314939.jpg"
+    },
+    {
+      "name": "G H Raisoni Junior College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/68152055?group1=location&group2=course",
+      "id": 68152055,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465563230.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489465334855.jpg"
+    },
+    {
+      "name": "G H Raisoni Law School ",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/70605684?group1=location&group2=course",
+      "id": 70605684,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465709039.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1473660969273.png"
+    },
+    {
+      "name": "G H Raisoni Polytechnic",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/67897153?group1=location&group2=course",
+      "id": 67897153,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465534860.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1473662737299.png"
+    },
+    {
+      "name": "G H Raisoni School Of Business Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/67895309?group1=location&group2=course",
+      "id": 67895309,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488778470892.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488778454103.jpg"
+    },
+    {
+      "name": "G Pullaiah College of Engineering and Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/107534593?group1=location&group2=course",
+      "id": 107534593,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488955656454.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488955672902.png"
+    },
+    {
+      "name": "G.L.Bajaj Institute of Management and Research",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/122981511?group1=location&group2=course",
+      "id": 122981511,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490072915079.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490072895885.jpg"
+    },
+    {
+      "name": "G.L.Bajaj Institute of Technology and Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/17866991?group1=location&group2=course",
+      "id": 17866991,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490072831475.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490072811417.jpg"
+    },
+    {
+      "name": "GBN School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/92691854?group1=location&group2=course",
+      "id": 92691854,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487862685423.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1485325076474.jpg"
+    },
+    {
+      "name": "GD Goenka University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/112410561?group1=location&group2=course",
+      "id": 112410561,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490334538337.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490334566081.png"
+    },
+    {
+      "name": "GD Goenka World Institute",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114257543?group1=location&group2=course",
+      "id": 114257543,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490353579990.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490353559705.png"
+    },
+    {
+      "name": "GD Goenka World School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/135521999?group1=location&group2=course",
+      "id": 135521999,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489990951355.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492419635302.png"
+    },
+    {
+      "name": "GDR Education Society Bhilai",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103212745?group1=location&group2=course",
+      "id": 103212745,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489482470529.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489482524938.png"
+    },
+    {
+      "name": "GEAR Foundation",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/72411627?group1=location&group2=course",
+      "id": 72411627,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490071924837.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490071902074.jpg"
+    },
+    {
+      "name": "GNA University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/87572864?group1=location&group2=course",
+      "id": 87572864,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489062910715.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489062894844.jpg"
+    },
+    {
+      "name": "GNIMS Business School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/131374670?group1=location&group2=course",
+      "id": 131374670,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1502874868377.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1502874854001.jpg"
+    },
+    {
+      "name": "Galaxy Global Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/90632027?group1=location&group2=course",
+      "id": 90632027,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487862824982.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1484559570888.png"
+    },
+    {
+      "name": "Ganpat University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103498642?group1=location&group2=course",
+      "id": 103498642,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489062208624.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489062191085.jpg"
+    },
+    {
+      "name": "Garden City College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/43889776?group1=location&group2=course",
+      "id": 43889776,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486443185463.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486443177387.jpg"
+    },
+    {
+      "name": "Garden City University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103253750?group1=location&group2=course",
+      "id": 103253750,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493296547209.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493296534204.png"
+    },
+    {
+      "name": "Garnet Education Pvt Ltd",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/51245519?group1=location&group2=course",
+      "id": 51245519,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495688895548.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Garnet%20Education%20Pvt%20Ltd.png"
+    },
+    {
+      "name": "Gateway International High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129179103?group1=location&group2=course",
+      "id": 129179103,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500961624397.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500961613949.jpg"
+    },
+    {
+      "name": "Gauranga Institute",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/135379816?group1=location&group2=course",
+      "id": 135379816,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1504164075046.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1504164054005.jpg"
+    },
+    {
+      "name": "Gems Akademia Global School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108869803?group1=location&group2=course",
+      "id": 108869803,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428886687.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495428869626.png"
+    },
+    {
+      "name": "Gems Akademia International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108869017?group1=location&group2=course",
+      "id": 108869017,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489324042901.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1466665506618.png"
+    },
+    {
+      "name": "Gems Genesis International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88335063?group1=location&group2=course",
+      "id": 88335063,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487862880785.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1482836268571.png"
+    },
+    {
+      "name": "Genesis Global School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/65521651?group1=location&group2=course",
+      "id": 65521651,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489062749538.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489062734499.jpg"
+    },
+    {
+      "name": "Global College of Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/51135986?group1=location&group2=course",
+      "id": 51135986,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489062856418.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489062837170.jpg"
+    },
+    {
+      "name": "Global Institute of Management And Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108707305?group1=location&group2=course",
+      "id": 108707305,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491455767060.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491455749167.png"
+    },
+    {
+      "name": "Global Institute of Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/49968598?group1=location&group2=course",
+      "id": 49968598,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496467032704.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496467045964.png"
+    },
+    {
+      "name": "Globsyn Finishing School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/125798115?group1=location&group2=course",
+      "id": 125798115,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498231155050.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498277684103.jpg"
+    },
+    {
+      "name": "Godwins School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103435537?group1=location&group2=course",
+      "id": 103435537,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489652839136.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489652823304.png"
+    },
+    {
+      "name": "Graphic Era Hill University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/95697081?group1=location&group2=course",
+      "id": 95697081,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494655933027.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486467284463.png"
+    },
+    {
+      "name": "Graphic Era University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/132777579?group1=location&group2=course",
+      "id": 132777579,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489664150694.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489664139766.png"
+    },
+    {
+      "name": "Greater Noida Institute of Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/133042224?group1=location&group2=course",
+      "id": 133042224,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428157088.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495428147008.png"
+    },
+    {
+      "name": "Green Woods School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116312195?group1=location&group2=course",
+      "id": 116312195,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493202650655.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493202630479.png"
+    },
+    {
+      "name": "Gujarat Adani Institute of Medical Sciences",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/125242427?group1=location&group2=course",
+      "id": 125242427,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498025906460.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498025892519.jpg"
+    },
+    {
+      "name": "Gulzar Group of Institutes",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/76995769?group1=location&group2=course",
+      "id": 76995769,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496990293919.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496990283928.jpg"
+    },
+    {
+      "name": "Gurukul The School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103590968?group1=location&group2=course",
+      "id": 103590968,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489745351740.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489745332188.png"
+    },
+    {
+      "name": "Gurukul The School Crossing Republic",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/125776309?group1=location&group2=course",
+      "id": 125776309,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498217285666.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498217275439.jpg"
+    },
+    {
+      "name": "Gyan Ganga International Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/121962386?group1=location&group2=course",
+      "id": 121962386,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496668648822.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496668639407.png"
+    },
+    {
+      "name": "Hariti Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/99675263?group1=location&group2=course",
+      "id": 99675263,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495689071820.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488269406843.png"
+    },
+    {
+      "name": "Harvest International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115192632?group1=location&group2=course",
+      "id": 115192632,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494223186561.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494223156883.png"
+    },
+    {
+      "name": "Harvest Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/99733397?group1=location&group2=course",
+      "id": 99733397,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496991230831.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488278930024.png"
+    },
+    {
+      "name": "Heritage Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89193798?group1=location&group2=course",
+      "id": 89193798,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495688330446.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495688319166.png"
+    },
+    {
+      "name": "High Vision International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/122170623?group1=location&group2=course",
+      "id": 122170623,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496291282689.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496291266949.png"
+    },
+    {
+      "name": "Holy Angel School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89835657?group1=location&group2=course",
+      "id": 89835657,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487863017689.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483941728313.png"
+    },
+    {
+      "name": "Hon Sharad Pawar Public School Manur",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/109936945?group1=location&group2=course",
+      "id": 109936945,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491901048661.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491901033609.png"
+    },
+    {
+      "name": "Hoogly Engineering And Technology College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/124252133?group1=location&group2=course",
+      "id": 124252133,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497865325973.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497865312778.jpg"
+    },
+    {
+      "name": "IEC College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/19636032?group1=location&group2=course",
+      "id": 19636032,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489324211217.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489324211876.jpg"
+    },
+    {
+      "name": "IEC University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/19636034?group1=location&group2=course",
+      "id": 19636034,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/IEC%20University.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/IEC%20University.png"
+    },
+    {
+      "name": "IILM Graduate School Of Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129231201?group1=location&group2=course",
+      "id": 129231201,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487863043838.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1470218148854.png"
+    },
+    {
+      "name": "IIMT Group of Colleges",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/66968708?group1=location&group2=course",
+      "id": 66968708,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493305876159.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493305865642.jpg"
+    },
+    {
+      "name": "IMS Group of Institution",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/58225319?group1=location&group2=course",
+      "id": 58225319,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495688381415.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495688370000.png"
+    },
+    {
+      "name": "INLEAD",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/47661443?group1=location&group2=course",
+      "id": 47661443,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386430495.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386421372.jpg"
+    },
+    {
+      "name": "INMANTEC",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/38046871?group1=location&group2=course",
+      "id": 38046871,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486385370585.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385379849.jpg"
+    },
+    {
+      "name": "INTERNATIONAL INSTITUTE OF BUSINESS STUDIES (IIBS)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/19636026?group1=location&group2=course",
+      "id": 19636026,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489063181383.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489063138261.jpg"
+    },
+    {
+      "name": "ISB and M College of Commerce",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/132273197?group1=location&group2=course",
+      "id": 132273197,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1501866582858.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1501866573381.jpg"
+    },
+    {
+      "name": "ISB and M School of Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129436577?group1=location&group2=course",
+      "id": 129436577,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1501232843661.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1501232786144.jpg"
+    },
+    {
+      "name": "ISBR Business School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111020850?group1=location&group2=course",
+      "id": 111020850,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490676968816.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490676954981.png"
+    },
+    {
+      "name": "ISME (Indian School of Management & Entrepreneurship)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110738205?group1=location&group2=course",
+      "id": 110738205,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488545438402.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488545424440.png"
+    },
+    {
+      "name": "ITS Dental College, Ghaziabad",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44632311?group1=location&group2=course",
+      "id": 44632311,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386660657.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386555470.jpg"
+    },
+    {
+      "name": "ITS Dental College, Greater Noida",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44633844?group1=location&group2=course",
+      "id": 44633844,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386611808.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386604334.jpg"
+    },
+    {
+      "name": "ITS Engineering College, Greater Noida",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44633252?group1=location&group2=course",
+      "id": 44633252,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386623381.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386591738.jpg"
+    },
+    {
+      "name": "ITS Management and IT Institute, Ghaziabad",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44629803?group1=location&group2=course",
+      "id": 44629803,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386674493.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386543339.jpg"
+    },
+    {
+      "name": "ITS Paramedical College, Ghaziabad",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44632735?group1=location&group2=course",
+      "id": 44632735,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386637011.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386577761.jpg"
+    },
+    {
+      "name": "ITS Pharmacy College, Ghaziabad",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/44632480?group1=location&group2=course",
+      "id": 44632480,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386648497.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386566818.jpg"
+    },
+    {
+      "name": "Indian Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/40456674?group1=location&group2=course",
+      "id": 40456674,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491221591784.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491221581494.png"
+    },
+    {
+      "name": "Indian Institute Of Technology Mandi",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/66770155?group1=location&group2=course",
+      "id": 66770155,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486444204499.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486444196629.jpg"
+    },
+    {
+      "name": "Indian Institute of Aeronautical Engineering and Information Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116283397?group1=location&group2=course",
+      "id": 116283397,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494592856718.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494592845534.png"
+    },
+    {
+      "name": "Indian Institute of Technology Madras",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/54886820?group1=location&group2=course",
+      "id": 54886820,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488778774304.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488778761413.jpg"
+    },
+    {
+      "name": "Indian School of Design & Innovation (ISDI)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110198027?group1=location&group2=course",
+      "id": 110198027,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489318484404.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489318470200.jpg"
+    },
+    {
+      "name": "Indira Gandhi Memorial High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/85576107?group1=location&group2=course",
+      "id": 85576107,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1480933727025.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1480933717676.png"
+    },
+    {
+      "name": "Indira Gandhi Memorial Kidz",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/118591620?group1=location&group2=course",
+      "id": 118591620,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495520085006.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495520098945.png"
+    },
+    {
+      "name": "Indovision Services Pvt. Ltd.",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103500552?group1=location&group2=course",
+      "id": 103500552,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489669857197.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489669839017.png"
+    },
+    {
+      "name": "Institute For Technology and Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108859717?group1=location&group2=course",
+      "id": 108859717,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491481753883.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491481742305.png"
+    },
+    {
+      "name": "Institute Of Advanced Studies",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116501116?group1=location&group2=course",
+      "id": 116501116,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494826218352.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494826206664.png"
+    },
+    {
+      "name": "Institute of Engineering And Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/16399386?group1=location&group2=course",
+      "id": 16399386,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496391081725.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496391069974.png"
+    },
+    {
+      "name": "Interactive Design School (IDS)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/118729180?group1=location&group2=course",
+      "id": 118729180,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493378723411.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493378714467.png"
+    },
+    {
+      "name": "Ishan Institute of Architecture and Planning",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126794642?group1=location&group2=course",
+      "id": 126794642,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490449576483.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490449435037.png"
+    },
+    {
+      "name": "Ishan Institute of Law",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126794643?group1=location&group2=course",
+      "id": 126794643,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490428414801.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490428404464.png"
+    },
+    {
+      "name": "Ishan Institute of Management and Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126794644?group1=location&group2=course",
+      "id": 126794644,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490099144727.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490099131517.png"
+    },
+    {
+      "name": "J B Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96905470?group1=location&group2=course",
+      "id": 96905470,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487863243727.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487234405782.png"
+    },
+    {
+      "name": "J.N.N Institute of Engineering",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/64776514?group1=location&group2=course",
+      "id": 64776514,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498192739391.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498192724521.jpg"
+    },
+    {
+      "name": "JAY Robotics Technology Pvt. Ltd.",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/105355550?group1=location&group2=course",
+      "id": 105355550,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490423301399.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490423287576.png"
+    },
+    {
+      "name": "JK Business School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/30548378?group1=location&group2=course",
+      "id": 30548378,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487863275405.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/JK%20Business%20School.jpg"
+    },
+    {
+      "name": "Jagannath Gupta Institute of Engineering and Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/81449890?group1=location&group2=course",
+      "id": 81449890,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496467099100.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496467250670.png"
+    },
+    {
+      "name": "Jagannath Institute of Management Sciences (JIMS)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/67493873?group1=location&group2=course",
+      "id": 67493873,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488778867202.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488778854501.jpg"
+    },
+    {
+      "name": "Jagannath University Jaipur",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/81449819?group1=location&group2=course",
+      "id": 81449819,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489318645676.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489318605552.jpg"
+    },
+    {
+      "name": "Jagran Lakecity University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/118376460?group1=location&group2=course",
+      "id": 118376460,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495432638588.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495432626242.png"
+    },
+    {
+      "name": "Jaipuriar School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/133320597?group1=location&group2=course",
+      "id": 133320597,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503569702976.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503569690891.jpg"
+    },
+    {
+      "name": "Jetking",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/90530493?group1=location&group2=course",
+      "id": 90530493,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493700775557.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493700764814.png"
+    },
+    {
+      "name": "Jindal Institute of Power Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/47356160?group1=location&group2=course",
+      "id": 47356160,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487863303730.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1459337597363.jpg"
+    },
+    {
+      "name": "Jindal School Of Hotel Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/122270230?group1=location&group2=course",
+      "id": 122270230,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496902868169.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496902856597.jpg"
+    },
+    {
+      "name": "Jiva Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89547173?group1=location&group2=course",
+      "id": 89547173,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487863327497.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483700162648.png"
+    },
+    {
+      "name": "KDB Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/76871091?group1=location&group2=course",
+      "id": 76871091,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495689151585.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1476363380001.png"
+    },
+    {
+      "name": "KIET Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/118729153?group1=location&group2=course",
+      "id": 118729153,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489669285657.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489669266699.png"
+    },
+    {
+      "name": "KN Modi Foundation",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/97114484?group1=location&group2=course",
+      "id": 97114484,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488370526331.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488370512463.png"
+    },
+    {
+      "name": "Kalinga Institute Of Industrial Technology (KIIT)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/125774872?group1=location&group2=course",
+      "id": 125774872,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498213916971.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498213906714.jpg"
+    },
+    {
+      "name": "Kalka Education Society",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126891969?group1=location&group2=course",
+      "id": 126891969,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490442781089.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490442773018.png"
+    },
+    {
+      "name": "Kalka Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/142368637?group1=location&group2=course",
+      "id": 142368637,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489318904156.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489318885720.jpg"
+    },
+    {
+      "name": "Kalka Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/48115546?group1=location&group2=course",
+      "id": 48115546,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490442749911.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490442733585.png"
+    },
+    {
+      "name": "Kasturi Devi College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96652504?group1=location&group2=course",
+      "id": 96652504,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496554132989.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487061155410.png"
+    },
+    {
+      "name": "Kidz Oracle Play School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114079564?group1=location&group2=course",
+      "id": 114079564,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493381970626.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493381957059.png"
+    },
+    {
+      "name": "Kidzee",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/100559212?group1=location&group2=course",
+      "id": 100559212,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490443768053.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490443750796.png"
+    },
+    {
+      "name": "Km Mayawati Government Girls PG College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128212221?group1=location&group2=course",
+      "id": 128212221,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500011146413.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500011137005.jpg"
+    },
+    {
+      "name": "Krishna Engineering College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116624779?group1=location&group2=course",
+      "id": 116624779,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494852963695.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494852952053.png"
+    },
+    {
+      "name": "Krishnamurty World School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/124262988?group1=location&group2=course",
+      "id": 124262988,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497868620477.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497868607813.jpg"
+    },
+    {
+      "name": "Kundan Vidya Mandir",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/127881917?group1=location&group2=course",
+      "id": 127881917,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499688556770.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499688547220.jpg"
+    },
+    {
+      "name": "LNCT Group of Colleges",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128260434?group1=location&group2=course",
+      "id": 128260434,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499231274230.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499231257263.jpg"
+    },
+    {
+      "name": "LNMIIT",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115442988?group1=location&group2=course",
+      "id": 115442988,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489319176697.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489319128939.jpg"
+    },
+    {
+      "name": "LPS Global School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/135036425?group1=location&group2=course",
+      "id": 135036425,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1504607290363.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1504607277819.jpg"
+    },
+    {
+      "name": "LPU Distance Education",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/133325171?group1=location&group2=course",
+      "id": 133325171,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503910262260.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503910246892.jpg"
+    },
+    {
+      "name": "Late MJ Kundaliya Arts & Commerce Mahila College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/122877541?group1=location&group2=course",
+      "id": 122877541,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497256337924.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497256326472.jpg"
+    },
+    {
+      "name": "Lingayas University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/144017560?group1=location&group2=course",
+      "id": 144017560,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1502276669242.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1502276655169.png"
+    },
+    {
+      "name": "Little Flowers Group of Schools",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/90062088?group1=location&group2=course",
+      "id": 90062088,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487863572212.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1485262428324.png"
+    },
+    {
+      "name": "Little Millennium School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/49443766?group1=location&group2=course",
+      "id": 49443766,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495723668515.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495723686356.png"
+    },
+    {
+      "name": "Lodha World School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/100685544?group1=location&group2=course",
+      "id": 100685544,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488539869934.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488539858824.png"
+    },
+    {
+      "name": "Loknete Dr. J. D. Pawar College of Pharmacy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111732619?group1=location&group2=course",
+      "id": 111732619,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492753111735.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492753095936.png"
+    },
+    {
+      "name": "Lovely Professional University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/48184125?group1=location&group2=course",
+      "id": 48184125,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497074504130.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496999079435.jpg"
+    },
+    {
+      "name": "Loyola Primary School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/112851475?group1=location&group2=course",
+      "id": 112851475,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493009115975.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493009103114.png"
+    },
+    {
+      "name": "M S Engineering College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/59801676?group1=location&group2=course",
+      "id": 59801676,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491221730449.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491221714564.png"
+    },
+    {
+      "name": "M S Ramaiah Foundation",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126921604?group1=location&group2=course",
+      "id": 126921604,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499075032547.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499075019744.jpg"
+    },
+    {
+      "name": "MTA-INDIA",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/113943522?group1=location&group2=course",
+      "id": 113943522,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493374159836.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493374145802.png"
+    },
+    {
+      "name": "Mahabodhi Society Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/132980437?group1=location&group2=course",
+      "id": 132980437,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503378681664.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503378663095.jpg"
+    },
+    {
+      "name": "Mahadevi Birla World Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/109094573?group1=location&group2=course",
+      "id": 109094573,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491576274820.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491576527304.png"
+    },
+    {
+      "name": "Maharani Lakshmi Ammanni College for Women",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/139215414?group1=location&group2=course",
+      "id": 139215414,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1506336005768.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1506335991573.png"
+    },
+    {
+      "name": "Maharishi University of Information Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/107136773?group1=location&group2=course",
+      "id": 107136773,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490768943228.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490768926727.png"
+    },
+    {
+      "name": "Manav Rachna Group ",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/82404827?group1=location&group2=course",
+      "id": 82404827,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492419812168.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492419820511.png"
+    },
+    {
+      "name": "Manav Rachna International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110113419?group1=location&group2=course",
+      "id": 110113419,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491472780049.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491472755061.png"
+    },
+    {
+      "name": "Manav Sthali School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128091017?group1=location&group2=course",
+      "id": 128091017,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492599459220.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492599446260.png"
+    },
+    {
+      "name": "Manipal University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114801765?group1=location&group2=course",
+      "id": 114801765,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493886556827.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493886546078.png"
+    },
+    {
+      "name": "Manipal University Jaipur",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/125120090?group1=location&group2=course",
+      "id": 125120090,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493030251568.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493030239615.png"
+    },
+    {
+      "name": "Maple Bear",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/43004181?group1=location&group2=course",
+      "id": 43004181,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490442222293.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490442206740.png"
+    },
+    {
+      "name": "Maple Bear Canadian School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/49558532?group1=location&group2=course",
+      "id": 49558532,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490442250616.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490442240359.png"
+    },
+    {
+      "name": "Marwadi University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/84138420?group1=location&group2=course",
+      "id": 84138420,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497416362196.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497416343443.png"
+    },
+    {
+      "name": "Mauryan High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57490974?group1=location&group2=course",
+      "id": 57490974,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1467785903236.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1467785914301.png"
+    },
+    {
+      "name": "Mayo International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/36873842?group1=location&group2=course",
+      "id": 36873842,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486443837234.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486443829511.jpg"
+    },
+    {
+      "name": "Meerut Public Girls School S N",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128974486?group1=location&group2=course",
+      "id": 128974486,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500630459145.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500630450702.jpg"
+    },
+    {
+      "name": "Meerut Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128833038?group1=location&group2=course",
+      "id": 128833038,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500444601449.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500444589815.jpg"
+    },
+    {
+      "name": "Meerut Public School For Girls",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129182401?group1=location&group2=course",
+      "id": 129182401,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500965938000.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500965928987.jpg"
+    },
+    {
+      "name": "Meerut Public School The First Step",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129194057?group1=location&group2=course",
+      "id": 129194057,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500976396349.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500976386658.jpg"
+    },
+    {
+      "name": "Meridian College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/120792075?group1=location&group2=course",
+      "id": 120792075,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496049396202.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496049381939.png"
+    },
+    {
+      "name": "Mile Management Institute for Leadership Excellence",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89876303?group1=location&group2=course",
+      "id": 89876303,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487866731503.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483960470968.png"
+    },
+    {
+      "name": "Millennium Group of Institutions Bhopal",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126758882?group1=location&group2=course",
+      "id": 126758882,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496464818807.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496464830299.png"
+    },
+    {
+      "name": "Modern Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/119181484?group1=location&group2=course",
+      "id": 119181484,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/Modern%20Academy.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Modern%20Academy.png"
+    },
+    {
+      "name": "Modern English School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/119182290?group1=location&group2=course",
+      "id": 119182290,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/Modern%20English%20School.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Modern%20English%20School.png"
+    },
+    {
+      "name": "Modern Institute of Business Management (MIBM)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/81223877?group1=location&group2=course",
+      "id": 81223877,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1478759126350.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1478759120568.png"
+    },
+    {
+      "name": "Mother Teresa Memorial Public School Shahpura",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103220432?group1=location&group2=course",
+      "id": 103220432,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489555964575.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489555983764.png"
+    },
+    {
+      "name": "Mother's Pride",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/33738786?group1=location&group2=course",
+      "id": 33738786,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386472278.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386497284.jpg"
+    },
+    {
+      "name": "Mothers Mission School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128166855?group1=location&group2=course",
+      "id": 128166855,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499934410370.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499934396672.png"
+    },
+    {
+      "name": "Mothers Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126844607?group1=location&group2=course",
+      "id": 126844607,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498827680267.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498827665064.jpg"
+    },
+    {
+      "name": "Motion Education Pvt. Ltd.",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/113520377?group1=location&group2=course",
+      "id": 113520377,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428006635.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1485260644669.png"
+    },
+    {
+      "name": "Mount Litera Zee School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/81872626?group1=location&group2=course",
+      "id": 81872626,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491221653528.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491221640209.png"
+    },
+    {
+      "name": "Nanaksar Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/138276370?group1=location&group2=course",
+      "id": 138276370,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1505992949250.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1505992931906.png"
+    },
+    {
+      "name": "Narayana Business School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/113012874?group1=location&group2=course",
+      "id": 113012874,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493027077859.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493027060045.png"
+    },
+    {
+      "name": "Narayana Group of Educational Institutes",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123053277?group1=location&group2=course",
+      "id": 123053277,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497272074844.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497272066543.jpg"
+    },
+    {
+      "name": "Narayana Group of Educational Institutes (Nslate)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/138110899?group1=location&group2=course",
+      "id": 138110899,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1506005078444.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1506005067131.png"
+    },
+    {
+      "name": "National College of Education",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/134815772?group1=location&group2=course",
+      "id": 134815772,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496724469979.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496724459384.png"
+    },
+    {
+      "name": "National English School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/100359615?group1=location&group2=course",
+      "id": 100359615,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428825541.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495428811974.png"
+    },
+    {
+      "name": "Nav Gian Deep Sr. Sec. Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/86054703?group1=location&group2=course",
+      "id": 86054703,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490443823045.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490443810209.png"
+    },
+    {
+      "name": "Navkar Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/46984443?group1=location&group2=course",
+      "id": 46984443,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486443860266.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486443872359.jpg"
+    },
+    {
+      "name": "New Horizon Public School and Penguin Kids, Airoli",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/104042858?group1=location&group2=course",
+      "id": 104042858,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490099489058.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490099461648.png"
+    },
+    {
+      "name": "New Horizon Public School and Penguin Kids, Panvel",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/104238081?group1=location&group2=course",
+      "id": 104238081,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490942257960.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490942245998.png"
+    },
+    {
+      "name": "New Horizon Scholars Schools and Neo Kids, Airoli",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103382443?group1=location&group2=course",
+      "id": 103382443,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490425890215.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490425882549.png"
+    },
+    {
+      "name": "New Horizon Scholars Schools and Neo Kids, Thane",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/107944306?group1=location&group2=course",
+      "id": 107944306,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491287602881.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491287614613.png"
+    },
+    {
+      "name": "New Jyoti Institute of Technology and Management (NJITM)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/107851408?group1=location&group2=course",
+      "id": 107851408,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490937786894.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490937776185.png"
+    },
+    {
+      "name": "New York Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/32803911?group1=location&group2=course",
+      "id": 32803911,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428760519.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495428747536.png"
+    },
+    {
+      "name": "Nirankari Baba Gurbachan Singh Memorial College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/109970486?group1=location&group2=course",
+      "id": 109970486,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491283147550.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491283132666.png"
+    },
+    {
+      "name": "Nirma University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/125523640?group1=location&group2=course",
+      "id": 125523640,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498126018129.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498126005441.jpg"
+    },
+    {
+      "name": "North Point Day School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110699453?group1=location&group2=course",
+      "id": 110699453,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492493286579.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492493276124.png"
+    },
+    {
+      "name": "Nutan Maharashtra Institute of Engineering and Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/121232947?group1=location&group2=course",
+      "id": 121232947,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493640363041.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493640350976.png"
+    },
+    {
+      "name": "Nutan Maharashtra Vidya Polytechnic",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/124234804?group1=location&group2=course",
+      "id": 124234804,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497855964012.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497855952416.jpg"
+    },
+    {
+      "name": "ODM Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/92762978?group1=location&group2=course",
+      "id": 92762978,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495431448551.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1485320096259.png"
+    },
+    {
+      "name": "OmDayal Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/74794535?group1=location&group2=course",
+      "id": 74794535,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489319378463.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489319364195.jpg"
+    },
+    {
+      "name": "Oneness International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/132564039?group1=location&group2=course",
+      "id": 132564039,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1502961790558.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1502961810354.jpg"
+    },
+    {
+      "name": "Oxford High School Howrah",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115852604?group1=location&group2=course",
+      "id": 115852604,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490850982334.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490850967790.png"
+    },
+    {
+      "name": "P.V.P.P College Of Engineering",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103628840?group1=location&group2=course",
+      "id": 103628840,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489756889489.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489756877885.png"
+    },
+    {
+      "name": "PIET College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/63931418?group1=location&group2=course",
+      "id": 63931418,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490072454746.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490072430961.jpg"
+    },
+    {
+      "name": "PIET Sanskriti School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/56711212?group1=location&group2=course",
+      "id": 56711212,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1467195847351.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1467195857733.png"
+    },
+    {
+      "name": "PSIT Group of Colleges",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/131661831?group1=location&group2=course",
+      "id": 131661831,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1502447548318.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1502447535015.jpg"
+    },
+    {
+      "name": "Parivarthan Elite English Medium School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/100601765?group1=location&group2=course",
+      "id": 100601765,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488530121682.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488530101611.png"
+    },
+    {
+      "name": "Parivarthan Gurukul Heritage",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88504136?group1=location&group2=course",
+      "id": 88504136,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487866817237.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1482838183142.png"
+    },
+    {
+      "name": "Parul University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116552365?group1=location&group2=course",
+      "id": 116552365,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494839581495.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494839571487.png"
+    },
+    {
+      "name": "Patel Group of Colleges Indore",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128086358?group1=location&group2=course",
+      "id": 128086358,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498737603535.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498737592447.jpg"
+    },
+    {
+      "name": "Patel Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123055468?group1=location&group2=course",
+      "id": 123055468,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497329220853.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497329210497.jpg"
+    },
+    {
+      "name": "People's Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/113935120?group1=location&group2=course",
+      "id": 113935120,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493373405239.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493373389260.png"
+    },
+    {
+      "name": "People's University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123818357?group1=location&group2=course",
+      "id": 123818357,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497508976701.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497508966549.jpg"
+    },
+    {
+      "name": "Pinewoods English School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111387215?group1=location&group2=course",
+      "id": 111387215,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492605620590.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492605609965.png"
+    },
+    {
+      "name": "Planet Kids",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114950154?group1=location&group2=course",
+      "id": 114950154,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489062093900.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489062035931.png"
+    },
+    {
+      "name": "Prestige Institute of Management Gwalior",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/131333935?group1=location&group2=course",
+      "id": 131333935,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1501829407190.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1501829396676.jpg"
+    },
+    {
+      "name": "Prestige Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116283732?group1=location&group2=course",
+      "id": 116283732,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494592788605.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494592777567.png"
+    },
+    {
+      "name": "Primus Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/13153598?group1=location&group2=course",
+      "id": 13153598,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490072615861.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490072562009.jpg"
+    },
+    {
+      "name": "RAM-Eesh Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89970526?group1=location&group2=course",
+      "id": 89970526,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487866865046.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487232116779.png"
+    },
+    {
+      "name": "REVA University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96771087?group1=location&group2=course",
+      "id": 96771087,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491221984328.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491221974620.png"
+    },
+    {
+      "name": "RK University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88271874?group1=location&group2=course",
+      "id": 88271874,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486385166329.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486385185057.jpg"
+    },
+    {
+      "name": "RSRD College of Commerce & Arts",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/100089804?group1=location&group2=course",
+      "id": 100089804,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488973883582.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488973870663.png"
+    },
+    {
+      "name": "Rai University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/127437303?group1=location&group2=course",
+      "id": 127437303,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498638575018.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498638562654.jpg"
+    },
+    {
+      "name": "Ramagya School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/47892976?group1=location&group2=course",
+      "id": 47892976,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489319778622.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489319748131.jpg"
+    },
+    {
+      "name": "Ramanujan College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/132609406?group1=location&group2=course",
+      "id": 132609406,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503032431187.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503032420713.jpg"
+    },
+    {
+      "name": "Rameshwaram Institute of Technology & Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/133379370?group1=location&group2=course",
+      "id": 133379370,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503648383980.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503648374639.jpg"
+    },
+    {
+      "name": "Ramsheth Thakur Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/108422596?group1=location&group2=course",
+      "id": 108422596,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491219053352.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491219038214.png"
+    },
+    {
+      "name": "Rangoli International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/39243576?group1=location&group2=course",
+      "id": 39243576,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487866919237.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Rangoli%20International%20School.png"
+    },
+    {
+      "name": "Ravindra College of Engineering for Women",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/107736521?group1=location&group2=course",
+      "id": 107736521,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490678740102.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490678725827.png"
+    },
+    {
+      "name": "Raysah Infotechnology Service Private Limited (IOGT)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/105154071?group1=location&group2=course",
+      "id": 105154071,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490269668646.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490269655403.png"
+    },
+    {
+      "name": "Resonance Eduventures Limited",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103932752?group1=location&group2=course",
+      "id": 103932752,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490685032067.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490685019970.png"
+    },
+    {
+      "name": "Rishi Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/50399895?group1=location&group2=course",
+      "id": 50399895,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489320322492.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489320303783.jpg"
+    },
+    {
+      "name": "Rishi World School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/50399894?group1=location&group2=course",
+      "id": 50399894,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487866965101.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1462535147045.png"
+    },
+    {
+      "name": "Roorkee Engineering & Management Tech Institute",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/62467133?group1=location&group2=course",
+      "id": 62467133,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1470646681415.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1470646671312.png"
+    },
+    {
+      "name": "Royal Global School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/32007582?group1=location&group2=course",
+      "id": 32007582,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486443927335.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486105944886.jpg"
+    },
+    {
+      "name": "Royal Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/95731711?group1=location&group2=course",
+      "id": 95731711,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487866993841.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486616204277.png"
+    },
+    {
+      "name": "Royal School of Architecture",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/32007583?group1=location&group2=course",
+      "id": 32007583,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867015810.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Royal%20School%20of%20Architecture.png"
+    },
+    {
+      "name": "Royal School of Business",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/32007584?group1=location&group2=course",
+      "id": 32007584,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867038948.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Royal%20School%20of%20Business.png"
+    },
+    {
+      "name": "Royal School of Commerce",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/32007585?group1=location&group2=course",
+      "id": 32007585,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867058633.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Royal%20School%20of%20Commerce.png"
+    },
+    {
+      "name": "Royal School of Engineering & Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/32007586?group1=location&group2=course",
+      "id": 32007586,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867081032.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/Royal%20School%20of%20Engineering%20%26%20Technology.png"
+    },
+    {
+      "name": "Ruchika Pre School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/109853245?group1=location&group2=course",
+      "id": 109853245,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491225575701.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491225564137.png"
+    },
+    {
+      "name": "Ruchika School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110083188?group1=location&group2=course",
+      "id": 110083188,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491482269723.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491482256532.png"
+    },
+    {
+      "name": "S. G. S. S. College of Pharmacy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111732617?group1=location&group2=course",
+      "id": 111732617,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492753225720.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492753210590.png"
+    },
+    {
+      "name": "S.V.N. English High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/143733748?group1=location&group2=course",
+      "id": 143733748,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1508755485116.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1508755473061.jpg"
+    },
+    {
+      "name": "SIRT Group",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/121862819?group1=location&group2=course",
+      "id": 121862819,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494393651889.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494393641738.png"
+    },
+    {
+      "name": "SMD Little Champ",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110062638?group1=location&group2=course",
+      "id": 110062638,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491976250449.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491976237796.png"
+    },
+    {
+      "name": "SRM University, Sikkim",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115519116?group1=location&group2=course",
+      "id": 115519116,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493640654975.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493640636984.png"
+    },
+    {
+      "name": "SSN College of Engineering",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129494341?group1=location&group2=course",
+      "id": 129494341,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496984286089.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496984274161.jpg"
+    },
+    {
+      "name": "SSN School of Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123997343?group1=location&group2=course",
+      "id": 123997343,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497607294446.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497607280466.jpg"
+    },
+    {
+      "name": "SVM Childrens Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/105121135?group1=location&group2=course",
+      "id": 105121135,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490334827552.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490334809472.png"
+    },
+    {
+      "name": "Sachdeva School of Excellence High School - Ramagundam",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123636253?group1=location&group2=course",
+      "id": 123636253,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497426294379.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497426282430.jpg"
+    },
+    {
+      "name": "Sacred Hearts",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/142545250?group1=location&group2=course",
+      "id": 142545250,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1507637020618.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1507637000583.png"
+    },
+    {
+      "name": "Sadabai Raisoni Women's College ",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/70606994?group1=location&group2=course",
+      "id": 70606994,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489465801337.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1473661171207.png"
+    },
+    {
+      "name": "Sadhu Vaswani International School Navi Mumbai",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/117787387?group1=location&group2=course",
+      "id": 117787387,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495112170288.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495112160098.png"
+    },
+    {
+      "name": "Saffrony Institute of Technology (S.P.B. Patel Engineering College)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/85576156?group1=location&group2=course",
+      "id": 85576156,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489320759876.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489320739810.jpg"
+    },
+    {
+      "name": "Sagar Institute of Research and Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129096616?group1=location&group2=course",
+      "id": 129096616,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500880373840.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500880363386.jpg"
+    },
+    {
+      "name": "Samsara The World Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/91109810?group1=location&group2=course",
+      "id": 91109810,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428101451.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1484629365367.png"
+    },
+    {
+      "name": "Sanfort",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/69520659?group1=location&group2=course",
+      "id": 69520659,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486444019385.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486444032768.jpg"
+    },
+    {
+      "name": "Sant Nirankari Public Schools",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/104219325?group1=location&group2=course",
+      "id": 104219325,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490098442938.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490098420621.png"
+    },
+    {
+      "name": "Sapphire International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/56871299?group1=location&group2=course",
+      "id": 56871299,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489320973317.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489320950385.jpg"
+    },
+    {
+      "name": "Sarala Birla Gyan Jyoti",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/118018044?group1=location&group2=course",
+      "id": 118018044,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495185715093.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495185701088.png"
+    },
+    {
+      "name": "Saraswati Group (Sagar Education Trust)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96931854?group1=location&group2=course",
+      "id": 96931854,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867231878.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1487247341106.png"
+    },
+    {
+      "name": "Satyawati College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/72031486?group1=location&group2=course",
+      "id": 72031486,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496466342892.jpeg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321065797.jpg"
+    },
+    {
+      "name": "Satyawati College (Evening)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/73179054?group1=location&group2=course",
+      "id": 73179054,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496466354443.jpeg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321129546.jpg"
+    },
+    {
+      "name": "Seed Infotech",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103313956?group1=location&group2=course",
+      "id": 103313956,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489570809978.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489570793197.png"
+    },
+    {
+      "name": "Shaheed Bhagat Singh College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/62756123?group1=location&group2=course",
+      "id": 62756123,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490427138013.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490427130589.png"
+    },
+    {
+      "name": "Shaheed Bhagat Singh Evening College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/62864390?group1=location&group2=course",
+      "id": 62864390,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490427165621.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490427159913.png"
+    },
+    {
+      "name": "Shanti Asiatic School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88702492?group1=location&group2=course",
+      "id": 88702492,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867331158.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483096982192.png"
+    },
+    {
+      "name": "Shanti Business School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/91664588?group1=location&group2=course",
+      "id": 91664588,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867365407.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1484827518183.png"
+    },
+    {
+      "name": "Shanti Niketan Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114611903?group1=location&group2=course",
+      "id": 114611903,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493717673911.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493717659712.png"
+    },
+    {
+      "name": "Sharda Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/120791086?group1=location&group2=course",
+      "id": 120791086,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496991787870.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496046789013.png"
+    },
+    {
+      "name": "Sharda University Greater Noida",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115667502?group1=location&group2=course",
+      "id": 115667502,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1488940870256.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488940847474.jpg"
+    },
+    {
+      "name": "Shephard's Path International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/86766973?group1=location&group2=course",
+      "id": 86766973,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489324961682.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489324942906.jpg"
+    },
+    {
+      "name": "Shoolini University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/121641725?group1=location&group2=course",
+      "id": 121641725,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490099278018.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490099260836.png"
+    },
+    {
+      "name": "Shree Swaminarayan Gurukul International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/97241734?group1=location&group2=course",
+      "id": 97241734,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490684974263.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490684965298.png"
+    },
+    {
+      "name": "Shree Vasudevbhai and Kantibhai Patel Institute Of Engineering",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89871065?group1=location&group2=course",
+      "id": 89871065,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867413761.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483960284323.png"
+    },
+    {
+      "name": "Shri Gangajali Education Society",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115535311?group1=location&group2=course",
+      "id": 115535311,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495431853959.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486644870525.png"
+    },
+    {
+      "name": "Shri Labhubhai Trivedi Institute of Engineering & Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88700323?group1=location&group2=course",
+      "id": 88700323,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867457763.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483338455345.png"
+    },
+    {
+      "name": "Shri Ramakrishna Group of Colleges",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/137352896?group1=location&group2=course",
+      "id": 137352896,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1504088464479.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1504088425526.png"
+    },
+    {
+      "name": "Shrimanta Shankar Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/138871143?group1=location&group2=course",
+      "id": 138871143,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1506080636577.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1506080624895.jpg"
+    },
+    {
+      "name": "Sigma Engineering College,Matar",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57490799?group1=location&group2=course",
+      "id": 57490799,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321836164.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321628067.jpg"
+    },
+    {
+      "name": "Sigma Institute of Engineering",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57657260?group1=location&group2=course",
+      "id": 57657260,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321775580.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321700953.jpg"
+    },
+    {
+      "name": "Sigma Institute of Nursing",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126366756?group1=location&group2=course",
+      "id": 126366756,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498634181682.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498634168720.jpg"
+    },
+    {
+      "name": "Sigma Institute of Pharmacy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57657261?group1=location&group2=course",
+      "id": 57657261,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321761304.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321712789.jpg"
+    },
+    {
+      "name": "Sigma Institute of Physiotherapy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57657262?group1=location&group2=course",
+      "id": 57657262,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321747197.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321728143.jpg"
+    },
+    {
+      "name": "Sigma Institute of Science & Commerce",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57657263?group1=location&group2=course",
+      "id": 57657263,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321819584.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321665457.jpg"
+    },
+    {
+      "name": "Sigma Institute of Technology & Engineering (Polytechnic)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57657259?group1=location&group2=course",
+      "id": 57657259,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321790058.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321681946.jpg"
+    },
+    {
+      "name": "Sigma Polytechnic",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/57421492?group1=location&group2=course",
+      "id": 57421492,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321860680.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321607587.jpg"
+    },
+    {
+      "name": "Sikkim Manipal Institute of Medical Sciences",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/87499362?group1=location&group2=course",
+      "id": 87499362,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489322182423.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489322131549.jpg"
+    },
+    {
+      "name": "Sikkim Manipal Institute of Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/87499363?group1=location&group2=course",
+      "id": 87499363,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489322170361.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489322110729.jpg"
+    },
+    {
+      "name": "Sikkim Manipal University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/86551590?group1=location&group2=course",
+      "id": 86551590,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489322155424.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489322094376.jpg"
+    },
+    {
+      "name": "Sita Grammar School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89495352?group1=location&group2=course",
+      "id": 89495352,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496989160990.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483680108926.png"
+    },
+    {
+      "name": "Smart Brains Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/141738665?group1=location&group2=course",
+      "id": 141738665,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1507264956577.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1507264926717.jpg"
+    },
+    {
+      "name": "Soccer Schools of Excellence",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/26281831?group1=location&group2=course",
+      "id": 26281831,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486444065992.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486106017067.jpg"
+    },
+    {
+      "name": "South Point School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103950279?group1=location&group2=course",
+      "id": 103950279,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495431547967.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488268904002.png"
+    },
+    {
+      "name": "Spark Academy",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/140677218?group1=location&group2=course",
+      "id": 140677218,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1506604536109.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1506604526687.jpg"
+    },
+    {
+      "name": "Sphoorthy Engineering College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/141801059?group1=location&group2=course",
+      "id": 141801059,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499332535642.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499332522963.jpg"
+    },
+    {
+      "name": "Sproutz School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/107852764?group1=location&group2=course",
+      "id": 107852764,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489750770078.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489750755724.png"
+    },
+    {
+      "name": "Sri Aurobindo College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/135095444?group1=location&group2=course",
+      "id": 135095444,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1501677900517.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1501677890440.jpg"
+    },
+    {
+      "name": "Sri Bhavishyaa Educational Society",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/130986094?group1=location&group2=course",
+      "id": 130986094,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489728331587.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489728309431.png"
+    },
+    {
+      "name": "Sri Krutha Nursery School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/45564586?group1=location&group2=course",
+      "id": 45564586,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491219200388.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491219181831.png"
+    },
+    {
+      "name": "Sri Venkateshwar International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126839052?group1=location&group2=course",
+      "id": 126839052,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321387359.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321369715.jpg"
+    },
+    {
+      "name": "SriGayatri Educational Society",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96471514?group1=location&group2=course",
+      "id": 96471514,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494236638838.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494236610962.png"
+    },
+    {
+      "name": "St Pauls Hi-tech High School - Begumbazar",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/100115109?group1=location&group2=course",
+      "id": 100115109,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496990600997.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1488357129761.png"
+    },
+    {
+      "name": "St Pauls Hi-tech High School - Goshamahal",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/130279314?group1=location&group2=course",
+      "id": 130279314,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489751325457.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489751308739.png"
+    },
+    {
+      "name": "St. Edmund Campion Pre-School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110078238?group1=location&group2=course",
+      "id": 110078238,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491976741421.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491976728126.png"
+    },
+    {
+      "name": "St. Francis International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/50943033?group1=location&group2=course",
+      "id": 50943033,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498796585494.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498796601710.jpg"
+    },
+    {
+      "name": "St. Francis Xavier School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/56738581?group1=location&group2=course",
+      "id": 56738581,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486444252671.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486444264160.jpg"
+    },
+    {
+      "name": "St. John's School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88705121?group1=location&group2=course",
+      "id": 88705121,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490442303476.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490442290718.png"
+    },
+    {
+      "name": "St. Joseph's School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/120921618?group1=location&group2=course",
+      "id": 120921618,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490244672946.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490244659312.png"
+    },
+    {
+      "name": "St. Lawrence International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/65444105?group1=location&group2=course",
+      "id": 65444105,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867779745.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1472021747695.png"
+    },
+    {
+      "name": "St. Michael's High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/54966595?group1=location&group2=course",
+      "id": 54966595,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489322558567.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489322539273.jpg"
+    },
+    {
+      "name": "St. Xaviers High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/124300009?group1=location&group2=course",
+      "id": 124300009,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498210303383.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498210291795.jpg"
+    },
+    {
+      "name": "Sudharsan Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111551517?group1=location&group2=course",
+      "id": 111551517,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492663499734.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492663487139.png"
+    },
+    {
+      "name": "Sunny Prep and High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/113025905?group1=location&group2=course",
+      "id": 113025905,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428962655.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495428947471.png"
+    },
+    {
+      "name": "Sunrise International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/132960665?group1=location&group2=course",
+      "id": 132960665,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1503319891384.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1503319880317.jpg"
+    },
+    {
+      "name": "Sunshine Worldwide School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128520554?group1=location&group2=course",
+      "id": 128520554,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500292525248.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500292513133.jpg"
+    },
+    {
+      "name": "Supreme Knowledge Foundation Group Of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129395620?group1=location&group2=course",
+      "id": 129395620,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497357984284.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497357962127.jpg"
+    },
+    {
+      "name": "Swami Shraddhanand College",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/74926100?group1=location&group2=course",
+      "id": 74926100,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489322665959.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489322645401.jpg"
+    },
+    {
+      "name": "Swarnim Startup and Innovation University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126499999?group1=location&group2=course",
+      "id": 126499999,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498716651277.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498716764510.jpg"
+    },
+    {
+      "name": "Tapovan Vatsalyadham Day School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/87488127?group1=location&group2=course",
+      "id": 87488127,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489322733011.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489322720794.jpg"
+    },
+    {
+      "name": "Tapti Valley International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/89498315?group1=location&group2=course",
+      "id": 89498315,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487867829436.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483681759892.png"
+    },
+    {
+      "name": "Teachers' Academy Group Of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/103918565?group1=location&group2=course",
+      "id": 103918565,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490000890108.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490000874062.png"
+    },
+    {
+      "name": "Techno India",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116799273?group1=location&group2=course",
+      "id": 116799273,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494915313256.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494915304050.png"
+    },
+    {
+      "name": "Teerthankar Mahaveer University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/96632791?group1=location&group2=course",
+      "id": 96632791,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495688282283.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495688267059.png"
+    },
+    {
+      "name": "Thapar University",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/85273893?group1=location&group2=course",
+      "id": 85273893,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489322895816.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489322879083.jpg"
+    },
+    {
+      "name": "The Adhyyan School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114749035?group1=location&group2=course",
+      "id": 114749035,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493801525465.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493801516264.png"
+    },
+    {
+      "name": "The Bright School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/28297891?group1=location&group2=course",
+      "id": 28297891,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498614359551.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498614346145.jpg"
+    },
+    {
+      "name": "The British School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/109938770?group1=location&group2=course",
+      "id": 109938770,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491902435961.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491902417539.png"
+    },
+    {
+      "name": "The Cambridge School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/111021015?group1=location&group2=course",
+      "id": 111021015,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492576259323.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492576280860.png"
+    },
+    {
+      "name": "The Doon Valley Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/90638943?group1=location&group2=course",
+      "id": 90638943,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489322951768.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489322932562.jpg"
+    },
+    {
+      "name": "The Heritage School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/87875438?group1=location&group2=course",
+      "id": 87875438,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490427085006.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490427076032.png"
+    },
+    {
+      "name": "The Jain International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/63151059?group1=location&group2=course",
+      "id": 63151059,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1470990603038.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1470990593425.png"
+    },
+    {
+      "name": "The Mann School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129248181?group1=location&group2=course",
+      "id": 129248181,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1501062675668.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1501062665006.jpg"
+    },
+    {
+      "name": "The Maurya School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/90021562?group1=location&group2=course",
+      "id": 90021562,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490442048738.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490442030282.png"
+    },
+    {
+      "name": "The Newtown School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128520541?group1=location&group2=course",
+      "id": 128520541,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495428543134.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495428530863.png"
+    },
+    {
+      "name": "The Orchid School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/48180426?group1=location&group2=course",
+      "id": 48180426,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487868000194.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1460008237104.png"
+    },
+    {
+      "name": "The Sky World School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/118568371?group1=location&group2=course",
+      "id": 118568371,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1495455156573.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1495455142509.png"
+    },
+    {
+      "name": "The Vivekanand School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/105997241?group1=location&group2=course",
+      "id": 105997241,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490601418758.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490601392353.png"
+    },
+    {
+      "name": "The Zenith Convent School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/122291355?group1=location&group2=course",
+      "id": 122291355,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496912225458.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496912187682.jpg"
+    },
+    {
+      "name": "Times Scholars Gurukul",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/120953385?group1=location&group2=course",
+      "id": 120953385,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496122689212.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496122637561.png"
+    },
+    {
+      "name": "Truba Group of Colleges",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/125769117?group1=location&group2=course",
+      "id": 125769117,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498206776675.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1498206765195.jpg"
+    },
+    {
+      "name": "UCMAS",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110698163?group1=location&group2=course",
+      "id": 110698163,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1492491695779.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1492491681051.png"
+    },
+    {
+      "name": "UEI Global",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110087883?group1=location&group2=course",
+      "id": 110087883,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491980306439.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491980293042.png"
+    },
+    {
+      "name": "Universal Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/66953866?group1=location&group2=course",
+      "id": 66953866,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489323115140.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489323097834.jpg"
+    },
+    {
+      "name": "University of Engineering And Management Jaipur",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/32803912?group1=location&group2=course",
+      "id": 32803912,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496465254915.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496465273094.png"
+    },
+    {
+      "name": "University of Engineering And Management Kolkata",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/32803913?group1=location&group2=course",
+      "id": 32803913,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496465316112.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496465328867.png"
+    },
+    {
+      "name": "Uttarakhand Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/141414254?group1=location&group2=course",
+      "id": 141414254,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1507029801879.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1507029791375.jpg"
+    },
+    {
+      "name": "VET Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/115233095?group1=location&group2=course",
+      "id": 115233095,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494236532655.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494236521439.png"
+    },
+    {
+      "name": "VITS Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126617068?group1=location&group2=course",
+      "id": 126617068,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1499749613522.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1499749601369.jpg"
+    },
+    {
+      "name": "VJ International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/87803841?group1=location&group2=course",
+      "id": 87803841,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487868060003.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1482407097263.png"
+    },
+    {
+      "name": "Vanguard Business School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/84959960?group1=location&group2=course",
+      "id": 84959960,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489323157798.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489323141443.jpg"
+    },
+    {
+      "name": "Vasant Valley Public School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/110102288?group1=location&group2=course",
+      "id": 110102288,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496989915663.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1483610867520.png"
+    },
+    {
+      "name": "Venkateshwar Global School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/126840278?group1=location&group2=course",
+      "id": 126840278,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489321349151.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489321327528.jpg"
+    },
+    {
+      "name": "Venus High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/114866008?group1=location&group2=course",
+      "id": 114866008,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1493894485537.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1493894475591.png"
+    },
+    {
+      "name": "Vidhyapeeth Group of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/122976256?group1=location&group2=course",
+      "id": 122976256,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1497262584713.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1497262568304.jpg"
+    },
+    {
+      "name": "Vidya College of Engineering",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123990621?group1=location&group2=course",
+      "id": 123990621,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496921984416.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496921937829.jpg"
+    },
+    {
+      "name": "Vidya Global School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123990567?group1=location&group2=course",
+      "id": 123990567,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498277967665.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496923107899.jpg"
+    },
+    {
+      "name": "Vidya Global School CBSE",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123990620?group1=location&group2=course",
+      "id": 123990620,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1498277983032.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496923050385.jpg"
+    },
+    {
+      "name": "Vidya Institute Of Creative Teaching",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123990623?group1=location&group2=course",
+      "id": 123990623,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496921872369.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496921857514.jpg"
+    },
+    {
+      "name": "Vidya Institute of Fashion Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123990551?group1=location&group2=course",
+      "id": 123990551,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496921905877.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496921895767.jpg"
+    },
+    {
+      "name": "Vidya International School of Business",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123990619?group1=location&group2=course",
+      "id": 123990619,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496922088391.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496922074147.jpg"
+    },
+    {
+      "name": "Vidya School Of Business",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/123990622?group1=location&group2=course",
+      "id": 123990622,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496922052664.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496922033209.jpg"
+    },
+    {
+      "name": "Vidyamandir Classes",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/95920445?group1=location&group2=course",
+      "id": 95920445,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1486386825117.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1486386787373.jpg"
+    },
+    {
+      "name": "Vignan Institute of Technology and Science",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/128232137?group1=location&group2=course",
+      "id": 128232137,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1500008785797.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1500008774981.jpg"
+    },
+    {
+      "name": "Vijaya Krishna Institute of Technology and Sciences (VKITS)",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/136174134?group1=location&group2=course",
+      "id": 136174134,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1505278811667.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1505278793747.jpg"
+    },
+    {
+      "name": "Vir Savarkar Hr Sec School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116534376?group1=location&group2=course",
+      "id": 116534376,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494836997095.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494836981441.png"
+    },
+    {
+      "name": "Vishweshwar Education Society",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/76580718?group1=location&group2=course",
+      "id": 76580718,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1490072714312.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1490072694265.jpg"
+    },
+    {
+      "name": "Wingsss College of Aviation Technology",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/116284012?group1=location&group2=course",
+      "id": 116284012,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1494592818906.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1494592806682.png"
+    },
+    {
+      "name": "Witty Group Of Institutions",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/69512383?group1=location&group2=course",
+      "id": 69512383,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489323465919.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489323449529.jpg"
+    },
+    {
+      "name": "Wiztoonz Animations Pvt Ltd",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/129158148?group1=location&group2=course",
+      "id": 129158148,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1491575488179.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1491575469010.png"
+    },
+    {
+      "name": "World College of Technology and Management",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/83833481?group1=location&group2=course",
+      "id": 83833481,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1489324820620.jpg",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1489324792638.jpg"
+    },
+    {
+      "name": "Zebar International School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/88695576?group1=location&group2=course",
+      "id": 88695576,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1487868169973.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1482908627406.png"
+    },
+    {
+      "name": "Zee High School",
+      "url": "https://catalog.paytm.com/v1/mobile/getvariants/121877324?group1=location&group2=course",
+      "id": 121877324,
+      "brand_image": "https://assetscdn.paytm.com/images/catalog/brand/1496404237375.png",
+      "operator_image": "https://assetscdn.paytm.com/images/catalog/operators/1496404227385.png"
+    }
+  ]
+}
