@@ -66,6 +66,18 @@
     <string name="parentPref">parentPref</string>
     <string name="Edit">Edit</string>
     <string name="fee">Pay Fee</string>
+    <string name="label_name">Name</string>
+    <string name="address_line1">Address Line 1</string>
+    <string name="address_line2">Address Line 2</string>
+    <string name="pin">Pin</string>
+    <string name="events_traveller_city">City/Town</string>
+    <string name="state">State</string>
+    <string name="contact_no">Mobile Number</string>
+    <string name="addres_title">Address Title</string>
+    <string name="optional">Optional</string>
+    <string name="set_default_text">Set As Default</string>
+    <string name="save_this_address">Save This Address</string>
+    <string name="proceed">Proceed</string>
 
 
 </resources>

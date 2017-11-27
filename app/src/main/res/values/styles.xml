@@ -61,9 +61,23 @@
         <item name="android:textStyle">bold</item>
         <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Subhead</item>
     </style>
+
+    <style name="BlueButton">
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">#00baf2</item>
+        <item name="android:enabled">false</item>
+    </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="PaytmEditTextTheme">
+        <item name="android:textColorHint">@color/grey_500</item>
+        <item name="colorAccent">#00baf2</item>
+        <item name="colorControlNormal">#ebebeb</item>
+        <item name="colorControlActivated">#00baf2</item>
+        <item name="colorControlHighlight">#00baf2</item>
+    </style>
 
 </resources>

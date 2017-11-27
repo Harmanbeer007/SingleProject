@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/adress_Lay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/wallet_10_dp"
+            android:theme="@style/PaytmEditTextTheme"
+
+            >
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_txt_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/label_name"
+                android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textWebEditText|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|numberDecimal|phone"
+                android:singleLine="true"
+                android:textSize="@dimen/cart_16sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textinputlayout_address_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/wallet_10_dp"
+            android:theme="@style/PaytmEditTextTheme">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_txt_address_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:hint="@string/address_line1"
+                android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textWebEditText|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|numberDecimal|phone"
+                android:maxLength="150"
+                android:singleLine="true"
+                android:textSize="@dimen/cart_16sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textinputlayout_address_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/wallet_10_dp"
+            android:theme="@style/PaytmEditTextTheme">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_txt_address_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:hint="@string/address_line2"
+                android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textWebEditText|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|numberDecimal|phone"
+                android:maxLength="150"
+                android:singleLine="true"
+                android:textSize="@dimen/cart_16sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/wallet_10_dp"
+            android:theme="@style/PaytmEditTextTheme">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_txt_pin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:hint="@string/pin"
+                android:inputType="number|numberSigned|numberDecimal|numberPassword|phone"
+                android:maxLength="6"
+                android:singleLine="true"
+                android:textSize="@dimen/cart_16sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/wallet_10_dp"
+            android:theme="@style/PaytmEditTextTheme">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_txt_city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:hint="@string/events_traveller_city"
+                android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textWebEditText|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|numberDecimal|phone"
+                android:singleLine="true"
+                android:textSize="@dimen/cart_16sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/float_route"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/wallet_10_dp"
+            android:theme="@style/PaytmEditTextTheme">
+
+            <AutoCompleteTextView
+                android:id="@+id/state"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusableInTouchMode="true"
+                android:hint="@string/state"
+                android:imeOptions="actionNone|actionSearch|actionSend|actionNext|actionDone|actionPrevious"
+                android:inputType="textEmailAddress|textEmailSubject|textPersonName|textPostalAddress|textWebEditText|textFilter|textWebPassword|number|numberSigned|numberDecimal|numberPassword|phone|datetime|date|time"
+                android:singleLine="true"
+                android:textColor="@color/grey_500"
+                android:textSize="16sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/editlyt_txt_mobile_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/wallet_10_dp"
+            android:theme="@style/PaytmEditTextTheme">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/edit_txt_mobile_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:hint="@string/contact_no"
+                android:inputType="number|numberSigned|numberDecimal|numberPassword|phone"
+                android:maxLength="10"
+                android:singleLine="true"
+                android:textSize="@dimen/cart_16sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <RelativeLayout
+            android:id="@+id/fragment_add_new_address_lyt_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="visible">
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/wallet_10_dp"
+                android:theme="@style/PaytmEditTextTheme">
+
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/tittle_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:hint="@string/addres_title"
+                    android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textWebEditText|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|numberDecimal|phone"
+                    android:singleLine="true"
+                    android:textSize="@dimen/cart_16sp" />
+            </android.support.design.widget.TextInputLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="@string/optional"
+                android:textColor="@color/grey_500"
+                android:textSize="@dimen/cart_13sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/fragment_add_new_address_lyt_default"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/set_default_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:background="@color/white"
+                android:paddingBottom="15dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="15dp"
+                android:text="@string/set_default_text"
+                android:textColor="@color/grey_500"
+                android:textSize="16dp" />
+
+            <RelativeLayout
+                android:id="@+id/add_switch_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:paddingBottom="10dp"
+                android:paddingRight="5dp"
+                android:paddingTop="10dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="@dimen/wallet_5_dp"
+                android:layout_marginRight="@dimen/wallet_5_dp"
+                android:background="@color/grey_500" />
+        </RelativeLayout>
+
+        <CheckBox
+            android:id="@+id/check_box_save_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_default"
+            android:button="@drawable/check_box"
+            android:checked="true"
+            android:text="@string/save_this_address"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_proceed"
+            style="@style/BlueButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/wallet_10_dp"
+            android:background="@color/md_orange_500"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:padding="@dimen/padding_default"
+            android:text="@string/proceed"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:visibility="visible" />
+    </LinearLayout>
+</ScrollView>

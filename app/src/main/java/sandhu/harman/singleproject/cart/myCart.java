@@ -1,5 +1,6 @@
 package sandhu.harman.singleproject.cart;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.DividerItemDecoration;
@@ -35,14 +36,16 @@ import sandhu.harman.singleproject.parent.listner.BillListner;
 
 public class myCart extends AppCompatActivity implements BillListner, PaymentResultListener {
 
+    private static final int SET_ADDRESS = 878;
     private RecyclerView recyclerView;
     private List<ModelProducts> myproducts = new ArrayList<ModelProducts>();
     private Double totalPrice;
-    private Button pay_Bill;
+    private Button pay_Bill, setAdress;
     private FrameLayout emptycart;
     private FirebaseAuth fire;
     private FirebaseUser user;
     private StringBuilder pName;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,6 +53,14 @@ public class myCart extends AppCompatActivity implements BillListner, PaymentRes
         setContentView(R.layout.activity_my_cart);
         recyclerView = (RecyclerView) findViewById(R.id.myCartRecyler);
         pay_Bill = (Button) findViewById(R.id.paymentButton);
+        setAdress = (Button) findViewById(R.id.setAddressButton);
+        setAdress.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivityForResult(new Intent(myCart.this, setAddress.class), SET_ADDRESS);
+            }
+        });
+
         emptycart = (FrameLayout) findViewById(R.id.nothingIncartFrame);
 
         final CartDb cartDb = new CartDb(this);
@@ -65,7 +76,6 @@ public class myCart extends AppCompatActivity implements BillListner, PaymentRes
         if (myproducts.size() == 0) {
             pay_Bill.setVisibility(View.GONE);
             emptycart.setVisibility(View.VISIBLE);
-
         }
         pay_Bill.setText("Pay For ₹" + String.valueOf(updateBill()));
         pay_Bill.setOnClickListener(new View.OnClickListener() {
@@ -76,9 +86,6 @@ public class myCart extends AppCompatActivity implements BillListner, PaymentRes
                 try {
                     String description;
                     JSONObject options = new JSONObject();
-//            LinkedList<String> products=new LinkedList<>();
-//           products= cartDb.getAllProductsName();
-
                     for (int i = 0; i < myproducts.size(); i++) {
                         pName.append(myproducts.get(i).getProductName() + "Rs( " + myproducts.get(i).getProductPrice() + ")" + " , ");
                     }
@@ -124,7 +131,6 @@ public class myCart extends AppCompatActivity implements BillListner, PaymentRes
         Double total = 0.0d;
         try {
             CartDb cartDb = new CartDb(this);
-
 
             for (int i = 0; i < myproducts.size(); i++) {
                 price = Double.valueOf(myproducts.get(i).getProductPrice());
@@ -222,6 +228,19 @@ public class myCart extends AppCompatActivity implements BillListner, PaymentRes
     @Override
     public void onPaymentError(int i, String s) {
         Toast.makeText(this, s + String.valueOf(i), Toast.LENGTH_SHORT).show();
+
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode == SET_ADDRESS) {
+            if (requestCode == RESULT_OK && data != null) {
+
+            } else if (requestCode == RESULT_CANCELED) {
+
+            }
+        }
 
     }
 }

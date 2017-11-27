@@ -176,6 +176,7 @@
         <activity
             android:name=".cart.myCart"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".parent.StudyOnline"></activity>
     </application>
 
 </manifest>

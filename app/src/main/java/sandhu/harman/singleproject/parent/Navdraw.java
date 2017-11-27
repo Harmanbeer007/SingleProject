@@ -171,9 +171,9 @@ public class Navdraw extends AppCompatActivity implements NavigationView.OnNavig
                 startActivity(new Intent(Navdraw.this, PayFees.class));
                 break;
             case R.id.studyOnline:
-                Toast.makeText(context, "This Feature Will be Available Soon", Toast.LENGTH_SHORT).show();
+//                Toast.makeText(context, "This Feature Will be Available Soon", Toast.LENGTH_SHORT).show();
 
-//                startActivity(new Intent(Navdraw.this, StudyOnline.class));
+                startActivity(new Intent(Navdraw.this, StudyOnline.class));
                 break;
             case R.id.btnTrackBus:
                 startActivity(new Intent(Navdraw.this, DriverList.class));
